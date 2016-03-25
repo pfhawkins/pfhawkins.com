@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essay on P.F. Hawkins</title>
+    <link>http://pfhawkins.com/categories/essay/</link>
+    <description>Recent content in Essay on P.F. Hawkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pfhawkins.com/categories/essay/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Hyperverses</title>
+      <link>http://pfhawkins.com/2012/10/05/on-hyperverses/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/10/05/on-hyperverses/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m pretty sure that one of the reasons I never update this blog is
+because I don&amp;rsquo;t &lt;em&gt;focus&lt;/em&gt; on any particular topic. Some people can dash
+off unfocused blog posts at the drop of a hat. I, for good or ill, am
+not a member of &lt;a href=&#34;http://en.wikipedia.org/wiki/Set_theory&#34;&gt;that set&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Back in, oh, April-ish, I found a topic that not only I could obsess
+over, but has proven to be an inspiration to write about online. I
+started looking into Hypertext with a capital aitch, the idea that
+writing with little interlinking bits would revolutionize literature
+in unfathomable ways. It was a thing in the 90&amp;rsquo;s, right? Whatever
+happened to that?&lt;/p&gt;
+
+&lt;p&gt;One thing led to another, and I started a steady diet of reading on
+hypermedia APIs, hypertext, and electronic literature. And unlike
+other such interests, I kept at it. This one hasn&amp;rsquo;t flagged beyond
+reading a book or two. I am up to my armpits in instapaper articles
+and PDFs (and I even purchased a couple trade paperbacks) that I not
+only plan on reading some day, but am actually working on a reading
+list to make sure I cover certain topics. Which sounds like a totally
+normal thing to do, but it is far afield from my usual spotty reading
+habits.&lt;/p&gt;
+
+&lt;p&gt;Given the nature of the topic, I wanted not just to learn the topic,
+but create within the constraints of the topic. And while octopress is
+a fine blogging platform, I did not want to dash off a blog. I wanted
+to craft a site. Which meant I&amp;rsquo;ve spent more time than I probably
+ought to have diving into free font sites and learning CSS and Sass
+and ultimately &lt;a href=&#34;http://middlemanapp.com&#34;&gt;Middleman&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And then I managed to squeak out what you see at &lt;a href=&#34;http://www.hypervers.es&#34;&gt;Hyperverses&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While eventually (one of these days!) my coding chops will be almost
+good enough to get across to the computer what my brain wants to do,
+right now I generate a static site using Middleman. Which is classic
+hypertext. It&amp;rsquo;s a step up from writing my own HTML, to be sure. But
+it&amp;rsquo;s not as easy as blogging. I have to rewrite the site config every
+time I build the site just to make sure the index page consists of the
+new piece I&amp;rsquo;ve written. The CSS is atrocious, I bet the HTML is
+nonstandard. There is a good deal wrong with this site. But.&lt;/p&gt;
+
+&lt;p&gt;Since my focus is on hypertext, I wanted text to play a prominent role
+in the design. I had designed a pretty decent typographic logo for a
+header. It didn&amp;rsquo;t sit well. Finally I just ended up putting the site
+name as a straight typed logo for the site. It still didn&amp;rsquo;t set well
+on top, so I moved it and a lot of the boring site navigation stuff
+down in the footer.&lt;/p&gt;
+
+&lt;p&gt;The drawback to the approach I&amp;rsquo;ve taken is that while I&amp;rsquo;m happy with
+how the design has turned out, the architecture behind the site is not
+as &amp;ldquo;hypermedia&amp;rdquo; as I had originally envisioned. But at least now I
+have a spot to write about it.&lt;/p&gt;
+
+&lt;p&gt;I created &lt;a href=&#34;http://www.hypervers.es&#34;&gt;the site&lt;/a&gt; so I could spare the
+less than tens of numbers of readers of this blog endless diatribes on
+whatever literary or RESTful topic popped into my brain. Yet I did not
+write. Partly because my personal life has been busy, but mostly
+because I didn&amp;rsquo;t have a toolchain for the type of site I wanted to
+build until I discovered Middleman. And even then, I&amp;rsquo;m not sure how
+long middleman will be around. So it serves my purpose for now.&lt;/p&gt;
+
+&lt;p&gt;Normally in the past if I&amp;rsquo;d encountered the obstacle of not being able
+to write about the thing I really really wanted to write about right
+then, I&amp;rsquo;d have given up. But instead I got my feet wet by creating a
+twitter account, &lt;a href=&#34;http://twitter.com/hyperverses&#34;&gt;@hyperverses&lt;/a&gt;. And I
+got hooked with that, doing research and finding new things to read
+and occasionally making a point of my own.&lt;/p&gt;
+
+&lt;p&gt;The site only has one page. I will be adding more soon. The footer
+almost certainly will be expanding in scope. I&amp;rsquo;ve started tagging the
+pages within middleman but I have no idea if I&amp;rsquo;ll ever use the tags.
+But it&amp;rsquo;s a start, and I&amp;rsquo;m excited.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Principle Regarding Ends And Means</title>
+      <link>http://pfhawkins.com/2012/06/06/a-principle-regarding-ends-and-means/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/06/06/a-principle-regarding-ends-and-means/</guid>
+      <description>
+
+&lt;p&gt;Okay, listen up. This is pretty simple. I&amp;rsquo;m gonna start by defining terms.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ends&lt;/em&gt; are goals. If you take action, you usually do so to accomplish an end. Say, if I go buy bread and deli meat, I do so in order to accomplish the end of eating a sandwich.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Means&lt;/em&gt; are the steps you go through to accomplish an end. So, in the sandwich example, purchasing bread and deli meat, putting a few slices of meat on the bread, getting a knife out and slathering one of the bread slices with mayo: all these are means to the end of ultimately eating the sandwich.&lt;/p&gt;
+
+&lt;p&gt;For some reason, people don&amp;rsquo;t realize all the implications of what I&amp;rsquo;m about to say:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is never, NEVER okay to perform evil means in order to accomplish good ends!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;but-if-i-go-back-in-time-and-murder-hitler-i-could-save-so-many-jews:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;But, If I Go Back In Time And Murder Hitler, I Could Save So Many Jews!&lt;/h2&gt;
+
+&lt;p&gt;You just might save a bunch of Jews! Saving Jews is good. &lt;strong&gt;Murder is bad.&lt;/strong&gt; Guess what? &lt;em&gt;You can&amp;rsquo;t murder!&lt;/em&gt; Not without being evil, anyway. And you want to be good, not evil, for fairly obvious reasons I&amp;rsquo;m not going to go into here.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-ought-i-apply-this-principle:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;When Ought I Apply This Principle?&lt;/h2&gt;
+
+&lt;p&gt;All. The. Time.&lt;/p&gt;
+
+&lt;p&gt;Seriously. Any time someone suggests you do anything at all, or if you are considering any course of action, don&amp;rsquo;t just ask yourself &amp;ldquo;is my goal good?&amp;rdquo; Make sure you also ask yourself &amp;ldquo;are all the intermediary steps (that I can conceive of) that I need to take to accomplish my goal themselves good?&amp;rdquo; If even &lt;em&gt;one&lt;/em&gt; of those steps is just a &lt;em&gt;little&lt;/em&gt; evil, &lt;strong&gt;YOU NEED TO RETHINK THAT GOAL.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If your goal has an immoral mean somewhere, you can rethink it one of two ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;replace it with a moral mean&lt;/li&gt;
+&lt;li&gt;abandon that goal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to be good, those are your only options.&lt;/p&gt;
+
+&lt;h2 id=&#34;this-seems-hard:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;This Seems Hard.&lt;/h2&gt;
+
+&lt;p&gt;Yes! It&amp;rsquo;s very hard. If you actually try to live this out, you find yourself abandoning goals you would never in your most fevered imaginings dream you&amp;rsquo;d abandon. Giving up evil goals that seem like fun is hard enough; giving up legitimately &lt;em&gt;good&lt;/em&gt; goals is much harder. But it is completely and utterly worth it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Gamification of Storytelling</title>
+      <link>http://pfhawkins.com/2012/01/25/the-gamification-of-storytelling/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/01/25/the-gamification-of-storytelling/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;IN WHICH&lt;/strong&gt; Story meets Technology, and they exchange Awkward Pleasantries&lt;/p&gt;
+
+&lt;p&gt;I kept &lt;a href=&#34;http://blog.usabilla.com/why-we-need-better-tools-to-tell-stories-with/&#34;&gt;this blog post about using technology to tell stories&lt;/a&gt; by Jurian Baas around because the underlying premise got under my skin. From the article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;…the connectedness and interactive nature of the Internet can not only give us multimedia experiences, but also change the way we interact with text, our most basic manner of communicating after speech. I totally agree with Bret Victor on this: “People currently think of text as information to be consumed. I want text to be an environment to think in“.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is insane.&lt;/p&gt;
+
+&lt;p&gt;Text &lt;strong&gt;is&lt;/strong&gt; an environment to think in. Oral storytelling &lt;strong&gt;is&lt;/strong&gt; an environment to think in. Stories don&amp;rsquo;t need to be reactive in order to be good stories. Text is not broken!&lt;/p&gt;
+
+&lt;p&gt;Reading this piece, it seems that the approach that Baas wants to take is the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gamification&#34;&gt;gamification&lt;/a&gt; of storytelling. Gamification at its essence is taking the techniques used in games to make whatever one is gamifying more engaging. The first example of experimental storytelling he gives is, unsurprisingly, an online game. (The other two examples, while they demonstrate the type of interactivity he is interested in, aren&amp;rsquo;t fully fledged stories.)&lt;/p&gt;
+
+&lt;p&gt;While games are a fine medium in which to tell stories, the real tell that Baas is referring to gamification appears at the end, when he calls for the creation of more apps and frameworks to &amp;ldquo;create more compelling stories&amp;rdquo;. Here he confuses the medium with the message. There are plenty of terrible, non-interactive books that are just not compelling. There are a smaller number of books that, while just as non-interactive, are &lt;em&gt;extremely&lt;/em&gt; compelling. What makes some books compelling while the vast bulk languish in mediocrity?&lt;/p&gt;
+
+&lt;p&gt;The NARRATIVE! The story that is being told! A story could be interactive as all get-out, and not compelling. Heck, there are some books with prose as clear as meticulously polished crystal that bore the reader to tears with a limp tale.&lt;/p&gt;
+
+&lt;p&gt;What worries me about what Baas is advocating is, frankly, FarmVille. At its worst, gaming becomes non-compelling as a story, but extremely addictive as an activity. THIS is what gamification risks bringing to the table: tales full of empty interactions, devoid of story, signifying nothing.&lt;/p&gt;
+
+&lt;p&gt;While I applaud anyone attempting to create a story in a new medium, never lose sight that the narrative, the story, is what drives &lt;em&gt;all&lt;/em&gt; mediums.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Fling With Mixel</title>
+      <link>http://pfhawkins.com/2012/01/19/my-fling-with-mixel/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/01/19/my-fling-with-mixel/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;IN WHICH&lt;/strong&gt; Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce&lt;/p&gt;
+
+&lt;h2 id=&#34;on-mixel:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Mixel&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mixel.cc&#34; title=&#34;Mixel&#34;&gt;Mixel&lt;/a&gt; confounds me as a piece of software that shines so brightly, the shadows of its flaws are made proportionately more apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/yeti.jpg&#34; alt=&#34;A Yeti walks in the snowy woods&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mixel is an iPad app for making collages that has the whole &amp;ldquo;social networking&amp;rdquo; thing baked into its DNA.&lt;/p&gt;
+
+&lt;p&gt;Making a collage feels like something the iPad was &lt;em&gt;born&lt;/em&gt; to do. Swipe swipe, swipe swipe, tap, swipe, BOOM! ART! I am not an artist by training or temperament, although I do doodle extensively in the margins of my notebooks. Using a pile of raw ingredients and the few methods mixel provides for manipulating them, I can create something that, if it isn&amp;rsquo;t art, looks and feels like &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-art:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Art&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/jiminy-stardust.jpg&#34; alt=&#34;A silhouetted Jiminy Cricket umbrellas down over a bleak yet sparkly landscape&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The feeling of creating art is addicting, to an extent. In the first few weeks of use I found myself making mixels in the time I usually allot myself to attempt to write. I consider writing my usual art, and Mixel briefly supplanted it.&lt;/p&gt;
+
+&lt;p&gt;One of the great things about collage is that pretty much anyone with scissors and someone else&amp;rsquo;s art can jump in. Mixel provides the scissors, pasteboard, and glue; the web provides the found art.&lt;/p&gt;
+
+&lt;h3 id=&#34;art-is-communication:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;Art is Communication&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/birdswave.jpg&#34; alt=&#34;A wave crashes into the birds, as a saddened Awesomeface looks on&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At its most basic, art is a form of communication. The artist attempts to share anything from a stray thought to a full-blown series of experiences to the viewer of the art. As far as I can see (and I am no art theorist), the success of an artist might be judged in two ways: by the degree to which a piece of art succeeds in conveying its meaning to a viewer, and by the sheer number of people who view a piece of art.&lt;/p&gt;
+
+&lt;p&gt;When art is at its best, e.g. Michaelangelo&amp;rsquo;s &lt;em&gt;David&lt;/em&gt;, it is deeply evocative and widely-known. Art that is of high quality, but is not widely-known, is still a success. Art that is widely-known, but of low quality, I would call unsuccessful, as I would any art of low quality. Conveying its meaning is the ultimate purpose of art.&lt;/p&gt;
+
+&lt;p&gt;Mixel, as an app, cannot directly focus on the quality of the art; that is the artist&amp;rsquo;s responsibility. What it &lt;em&gt;can&lt;/em&gt; (and does) do is get art out to the masses, both at creation and distribution. Mixel absolutely excels at this. From the creation standpoint, the choices the artist can make are limited, like any medium, but are not overly restrictive. It is easy to dive right in, and not too difficult to make more complex works.&lt;/p&gt;
+
+&lt;p&gt;From the distribution standpoint, Mixel uses an asynchronus follow system (think Twitter rather than Facebook). It has likes, and a limited amount of &amp;ldquo;loves&amp;rdquo;, or super-likes. Fairly standard social media fare.&lt;/p&gt;
+
+&lt;p&gt;The real innovation is in allowing anyone to remix any other mixel. When a mixel is viewed, it is shown with any other remixes of that mixel immediately following. If someone you follow loves a mixel, and you tap on it to get a better view, you will soon find yourself flipping through a remix thread, ogling the art therein. It is a completely natural (or perhaps completely human) way of serendipitously discovering new art and new artists to follow.&lt;/p&gt;
+
+&lt;p&gt;“If you could combine art-making with a dynamic social graph, then it can become addictive.” Khoi Vinh says in &lt;a href=&#34;http://www.macworld.com/article/163514/2011/11/mixel_lets_you_create_and_share_ipad_art.html&#34; title=&#34;Macworld review of Mixel&#34;&gt;this Macworld piece on Mixel&lt;/a&gt;. Part of me has trepidations about this sentiment. Addictions are bad, mmkay? And another qualm lurks in the background.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-identity:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Identity&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/planet-test-pattern.jpg&#34; alt=&#34;Still Life with Test Pattern and Planets&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although I missed it when Mixel launched, there was a dustup right out of the gate with Mixel&amp;rsquo;s requirement that one use a Facebook account to log in. As far as external dependencies go, Facebook is a weighty one.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://www.subtraction.com/2011/11/16/why-mixel-requires-facebook-login&#34;&gt;this post&lt;/a&gt; one week after launch, Vinh details why they chose Facebook for auth, as opposed to Twitter or rolling their own. While I would have attributed the choice to the fact that it&amp;rsquo;s easier to piggyback a social network off of the behemoth Facebook (e.g. as Spotify moved to for their signups), they really chose it because it practically requires someone to use their legal name. They want people to use their legal names in order to foster a certain type of sharing, a type that pseudonyms would, in their view, obscure.&lt;/p&gt;
+
+&lt;p&gt;The best argument against this decision is in the comments thread of Vinh&amp;rsquo;s post: &amp;ldquo;You’ve created graffiti, but are keeping out Banksy.&amp;rdquo; Would Banksy be a worse community member of Mixel than if he wished to use his legal name? The second best argument, also in that thread, notes that &lt;a href=&#34;http://metafilter.com&#34; title=&#34;Metafilter&#34;&gt;Metafilter&lt;/a&gt; seems to get by just fine without requiring legal names. Metafilter made two decisions that foster the sharing and keep out the trolls: moderation and up front cost.&lt;/p&gt;
+
+&lt;p&gt;Metafilter employs several moderators who police the site for bad actors. Many sites do this. Even 4chan! And while Metafilter has superlative moderators, I don&amp;rsquo;t think that this is as big a factor as the $5 entry fee.&lt;/p&gt;
+
+&lt;p&gt;To be able to post and comment on Metafilter, you need to create a profile, which costs $5. That alone keeps the cost of trolling far higher than most trolls are willing to pay. This barrier to entry is a much more egalitarian barrier than requiring someone sign up for a third-party social networking service. It also has the added benefit of bringing in actual revenues. Right now, we are all creating mixels at the largesse of venture capitalists. Those VCs will want a return on their investment. I cannot envision a revenue scenario (aside from Mixel users actually paying for the app) that doesn&amp;rsquo;t drastically alter the &lt;em&gt;fantastic&lt;/em&gt; experience. Ads? Product placement? Make a Mixel with a coke bottle in it and be eligible for sweepstakes? Any of those would alter the type of sharing the app is currently creating far more than letting some people use pseudonyms.&lt;/p&gt;
+
+&lt;h3 id=&#34;art-is-communication-of-self:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;Art is Communication of Self&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/sanity-and-sensibility.jpg&#34; alt=&#34;Mosaic ladies with phrenological facial features&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ultimately, how one chooses to communicate oneself is an intensely personal decision. Art is intensely personal. A name, or the forgoing thereof, is intensely personal. My disapproval of Mixel&amp;rsquo;s choice to require Facebook is also personal.&lt;/p&gt;
+
+&lt;p&gt;Online, on &lt;a href=&#34;http://twitter.com/pfhawkins&#34;&gt;twitter&lt;/a&gt;, on this blog, just about everywhere, I present myself to the world as P. F. Hawkins. I don&amp;rsquo;t on Facebook, for two reasons. First, I use Facebook for friends I have met offline, and would know me by my given name. Second, Facebook won&amp;rsquo;t let me be P. F. Hawkins; I apparently have too many periods in my name. G. K. Chesterton, C. S. Lewis, and countless others from the past would not be able to use their most well-known names on Facebook.&lt;/p&gt;
+
+&lt;p&gt;P. F. Hawkins is not a pseudonym. It is my real name. It is very easy for the public to tie it to my legal name. It is how I pursue and intend to pursue my primary art, writing. Mixel&amp;rsquo;s dependence on Facebook (and Facebook&amp;rsquo;s username choices, which Mixel has no control over) prevents me from presenting myself in this art form as the self I usually provide art as.&lt;/p&gt;
+
+&lt;h2 id=&#34;to-sum-up:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;To Sum Up&lt;/h2&gt;
+
+&lt;p&gt;Mixel is a fantastic collage app. It really is! I enjoyed it thoroughly. But it has ceded so much control over the identity of its users to Facebook that it undermines its stated mission of bringing art to the masses. The masses use pseudonyms!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/stop-making-mixels.jpg&#34; alt=&#34;David Byrne gives highly opinionted advice over a late eighties pastiche&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Finding a Document Production Workflow for Emacs</title>
+      <link>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward
+accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other
+externalities used to support this endeavor.&lt;/p&gt;
+
+&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;
+
+&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions
+from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;
+
+&lt;p&gt;If fictions were primarily distributed and displayed as &lt;a href=&#34;http://www.gutenberg.org/catalog/&#34;&gt;plain-text
+files&lt;/a&gt;, I&amp;rsquo;d be good to go. They aren&amp;rsquo;t, and
+I would like to at least attempt to send this higher up the food chain, ending
+in either a Microsoft Word Document or PDF.&lt;/p&gt;
+
+&lt;p&gt;Say, LaTeX makes some nice pdfs. While it manifestly does not suck, and
+&lt;a href=&#34;http://www.gnu.org/software/auctex/&#34;&gt;AucTeX&lt;/a&gt; is the bee&amp;rsquo;s knees, I want to do
+whatever I can in the way of premature optimization to tilt the ratio of
+writing to formatting heavily in writing&amp;rsquo;s favor. LaTeX is formatting heavy,
+so I&amp;rsquo;d like to avoid that.&lt;/p&gt;
+
+&lt;p&gt;Docbook XML also suffers from the same issue. It is a well-specced and quite
+nice document format. And while &lt;a href=&#34;http://www.emacswiki.org/emacs/NxmlMode&#34;&gt;nxml-
+mode&lt;/a&gt; is bar-none the premier way to
+edit straight XML, sorry, it ain&amp;rsquo;t happening.&lt;/p&gt;
+
+&lt;p&gt;So, what essentially plain-text formats can I convert to either LaTeX or
+Docbook XML, which I can then use to produce my output format of choice? As of
+this writing, I see three viable options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orgmode.org/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mwolson.org/projects/EmacsMuse.html&#34;&gt;muse-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markdown.infogami.com/&#34;&gt;markdown&lt;/a&gt; and &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;org-mode ships with emacs, and is great. Writing novels in it would be
+orthogonal to its original purpose in note-taking and agenda-organizing. It
+only exports LaTeX/PDF, not Docbook. While it may work, I think successive
+options are more promising.&lt;/p&gt;
+
+&lt;p&gt;muse-mode is designed from the ground up for publishing, not note-taking. It
+exports both LaTeX and Docbook. This would probably be my first choice, except
+for one thing: its wiki syntax.&lt;/p&gt;
+
+&lt;p&gt;It seems asinine of me to start complaining about a wiki syntax now. I mean,
+isn&amp;rsquo;t that the whole point of this exercise, to find a wiki-like syntax I can
+convert from? Right. I&amp;rsquo;m not complaining about &lt;strong&gt;a&lt;/strong&gt; wiki syntax, I&amp;rsquo;m
+complaining about &lt;strong&gt;this&lt;/strong&gt; wiki syntax. All in all it&amp;rsquo;s not necessarily a bad
+one, but it is a domain-specific language for this mode only. &lt;a href=&#34;http://blog.wired.com/monkeybites/2008/05/a-million-littl.html&#34;&gt;It enjoys no
+reuse outside of this particular
+application.&lt;/a&gt;
+If the third option didn&amp;rsquo;t exist, I&amp;rsquo;d probably use it anyway.&lt;/p&gt;
+
+&lt;p&gt;But we have markdown, and the magical frobnicator that frobnicates markdown
+into a potpourri of other formats: namely, pandoc. &lt;a href=&#34;http://jblevins.org/projects/markdown-mode/&#34;&gt;Markdown
+mode&lt;/a&gt; is pretty handy, and I&amp;rsquo;ll
+probably end up writing a simple minor-mode or git-hook bash script for
+automating the pandoc conversions.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll let you know how this turns out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undead</title>
+      <link>http://pfhawkins.com/2008/09/02/undead/</link>
+      <pubDate>Tue, 02 Sep 2008 10:09:45 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/09/02/undead/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Un-&amp;rdquo; is a negative prefix denoting the opposite of the word to which it is
+affixed. The nearest equivalent prefix is &amp;ldquo;non-&amp;rdquo;, which denotes the same
+thing. &amp;ldquo;Un-&amp;rdquo;, however, also possesses a connotation (in many applications of
+the prefix) of time, where previously the state or thing that is not, once
+was.&lt;/p&gt;
+
+&lt;p&gt;In the case of zombies, the term &amp;ldquo;undead&amp;rdquo; is used to refer to them as a
+collective whole, as a race or species. &amp;ldquo;Nondead&amp;rdquo; is less appropriate, for
+while it would convey the fact that zombies are far more ambulatory than the
+normative deceased, it fails to convey that the zombies were once dead; or, if
+it does convey that, it does so with much less force.&lt;/p&gt;
+
+&lt;p&gt;(Another example of this connotation, although one based in marketing rather
+than in organic etymology, holds for &amp;ldquo;uncola&amp;rdquo;; 7up has always been a
+carbonated sweet water, and therefore &lt;em&gt;a&lt;/em&gt; cola, although it subverts the usual
+formulae for what is deemed as cola, and in so doing is perceived [due to
+intensive advertising more than anything] as having progressed from a state of
+being cola to a state of being &lt;strong&gt;beyond&lt;/strong&gt; cola.)&lt;/p&gt;
+
+&lt;p&gt;The utility of the &amp;ldquo;un-&amp;rdquo; prefix used in this manner cannot be overstated. For
+clearly, the undead, while no longer deceased, also are no longer living. The
+simple addition of this prefix drums up a word for a third state of being.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book Lending</title>
+      <link>http://pfhawkins.com/2008/08/30/book-lending/</link>
+      <pubDate>Sat, 30 Aug 2008 09:23:29 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/08/30/book-lending/</guid>
+      <description>&lt;p&gt;I have a new theory of book-lending. I&amp;rsquo;ve always been extremely recalcitrant
+to lend out my precious, precious tomes. They are my babies. Letting someone
+else read them who certainly doesn&amp;rsquo;t appreciate them to the same degree, or in
+the same kind, is a risky proposition.&lt;/p&gt;
+
+&lt;p&gt;My current reading pile includes a heaping helping of &lt;a href=&#34;http://en.wikipedia.org/wiki/Austrian_economics&#34;&gt;Austrian
+Economics&lt;/a&gt;. I love this
+stuff. A sense of economics on this scale rewires your brain circuitry (what a
+crappy, ubiquitous brain-as-turing-machine metaphor) in subtle and not so
+subtle ways. It is some of the best non-fiction reading I&amp;rsquo;ve engaged in in
+years.&lt;/p&gt;
+
+&lt;p&gt;I have to lend these books out. I simply must. I&amp;rsquo;ve attempted to get others
+interested in them, with a little success. My brother, who is reliabel in
+returning books I&amp;rsquo;ve lent him unread, raved about Ron Paul&amp;rsquo;s &lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http%3A%2
+F%2Fwww.amazon.com%2FRevolution-Manifesto-Ron-Paul%2Fdp%2F0446537519%3Fie%3DUT
+F8%26s%3Dbooks%26qid%3D1220101874%26sr%3D8-1&amp;amp;tag=phawkcom-20&amp;amp;linkCode=ur2&amp;amp;camp
+=1789&amp;amp;creative=9325&#34;&gt;The Revolution:
+A Manifesto&lt;/a&gt;, which got me started on this kick. I&amp;rsquo;ll next lend him
+&lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;locat
+ion=http%3A%2F%2Fwww.amazon.com%2FEconomics-One-Lesson-Shortest-Understand%2Fd
+p%2F0517548232%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1220102088%26sr%3D8-1&amp;amp;tag=phawk
+com-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325&#34;&gt;Economics in One Lesson&lt;/a&gt; by &lt;a href=&#34;http://en.wikipedia.org/wiki/Henry_Hazlitt&#34;&gt;Henry
+Hazlitt&lt;/a&gt;. And I&amp;rsquo;ve gotten better
+about lending out other sacred cows; after the Watchmen trailer hit the web I
+lent &lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http%3A
+%2F%2Fwww.amazon.com%2FWatchmen-Alan-Moore%2Fdp%2F0930289234%3Fie%3DUTF8%26s%3
+Dbooks%26qid%3D1220102292%26sr%3D8-1&amp;amp;tag=phawkcom-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;cr
+eative=9325&#34;&gt;my copy&lt;/a&gt; to a friend at work.&lt;/p&gt;
+
+&lt;p&gt;The realization, which has been slow in coming, dawns that I&amp;rsquo;ve read book X
+once, and the odds of me rereading it in the next few years are pretty slim. I
+can, therefore, safely risk the copy into the hand of others, where they can
+better and more frequently fulfill their functions as books. A book is at its
+best when its being read, when a man is bending his soul to the shape of
+another&amp;rsquo;s thought. The more capital I can pump into the marketplace of
+thought, the better served the consumers of that capital; not humanity, but
+flesh-and-blood humans. I&amp;rsquo;ve a couple books, mostly reference, that others can
+read only in the confines of my abode, but they are now the exception rather
+than the rule.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frittering</title>
+      <link>http://pfhawkins.com/2008/08/20/frittering/</link>
+      <pubDate>Wed, 20 Aug 2008 09:32:32 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/08/20/frittering/</guid>
+      <description>&lt;p&gt;I fritter away a lot of time. This bothers. I have a stack or two of notecards
+I ostensibly use to keep track of what I should be doing in my sparer time.
+It&amp;rsquo;s been a week since I used them. I instead allow urgent or interesting
+tasks to fill my time. I don&amp;rsquo;t exert my will over this time like I ought.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t wonder that &lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;locat
+ion=http%3A%2F%2Fwww.amazon.com%2FGetting-Things-Done-Stress-Free-Productivity
+%2Fdp%2F0142000280%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1219350056%26sr%3D8-1&amp;amp;tag=p
+hawkcom-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325&#34;&gt;GTD&lt;/a&gt;&lt;img src=&#34;http://www.assoc-
+amazon.com/e/ir?t=phawkcom-20&amp;amp;l=ur2&amp;amp;o=1&#34; alt=&#34;&#34; /&gt; is so popular online. It really is
+the ultimate self-help cottage industry. Promises of satisfaction for engaging
+in bite-sized tasks with Pavlovian-addicting rewards (productivity!) and a
+requirement for some physical products (book, labler, etc.) add up to a
+healthy economic niche.&lt;/p&gt;
+
+&lt;p&gt;I spent 45 minutes watching foxtrot and tango videos on youtube yesterday.
+This wasn&amp;rsquo;t nearly as mch fun as the ballroom dance classes I recently
+completed.&lt;/p&gt;
+
+&lt;p&gt;I have, in my stack of notecards, a couple tasks that cannot be broken down
+into any further smaller, more manageable chunks. They start with words like
+&amp;ldquo;Research&amp;rdquo; and &amp;ldquo;Draft&amp;rdquo;. I usually just work on the ones starting with &amp;ldquo;call&amp;rdquo;,
+&amp;ldquo;reply&amp;rdquo;, and &amp;ldquo;check&amp;rdquo; instead.&lt;/p&gt;
+
+&lt;p&gt;If I had an accurate brand, my logo would be of a slowly-leaking tire, doing
+most things right, but heading for reinflation or replacement.&lt;/p&gt;
+
+&lt;p&gt;I fear the most worthwhile thing I&amp;rsquo;ve been doing in my spare time is rereading
+&lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http%3A%2F
+%2Fwww.amazon.com%2FJane-Eyre-Norton-Critical-Editions%2Fdp%2F0393975428%3Fie%
+3DUTF8%26s%3Dbooks%26qid%3D1219238761%26sr%3D8-7&amp;amp;tag=phawkcom-20&amp;amp;linkCode=ur2&amp;amp;
+camp=1789&amp;amp;creative=9325&#34;&gt;Jane Eyre&lt;/a&gt;&lt;img src=&#34;http://www.assoc-
+amazon.com/e/ir?t=phawkcom-20&amp;amp;l=ur2&amp;amp;o=1&#34; alt=&#34;&#34; /&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some Thoughts on The Dark Knight</title>
+      <link>http://pfhawkins.com/2008/07/28/some-thoughts-on-the-dark-knight/</link>
+      <pubDate>Mon, 28 Jul 2008 17:38:22 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/07/28/some-thoughts-on-the-dark-knight/</guid>
+      <description>&lt;p&gt;I went and saw the Dark Knight again. This time I went with my parents. My mom
+is a pretty devout woman with a decent artistic sensibility. Afterward she was
+still trying to process the experience, and it was good to get her take on
+things.&lt;/p&gt;
+
+&lt;p&gt;One thing she said that struck me: &amp;ldquo;Everyone says it&amp;rsquo;s lots darker than Batman
+Begins. I hate that. It&amp;rsquo;s not dark, it&amp;rsquo;s sadistic.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;In one sense, she&amp;rsquo;s right. It is sadistic. But the sense in which she&amp;rsquo;s right
+is incomplete. The &lt;em&gt;Joker&lt;/em&gt; is sadistic, not the film. He is a twisted sadist
+whose mere presence should have given the film an R rating. But the film
+doesn&amp;rsquo;t glorify that evil, it &lt;em&gt;exposes&lt;/em&gt; it. It presents a glimmer of hope and
+a dash of martyrdom in the face of such evil.&lt;/p&gt;
+
+&lt;p&gt;And what evil it is. The Joker embodies depravity detached from sanity and
+given free reign to deconstruct everything and everyone around him. And by
+deconstruct, I mean either blow up or bring to despair.&lt;/p&gt;
+
+&lt;p&gt;My mom had another point: &amp;ldquo;Won&amp;rsquo;t portraying that evil push some people over
+the edge?&amp;rdquo; Perhaps, but it is their choice to follow the siren song of evil.
+The film is structured in such a way to make it clear that there are many and
+profound negative consequences for allowing yourself to embrace that evil.
+Two-face dies, spiritually in his rampage and then actually. Batman, by way of
+contrast, has long ago learned to live with his grief and not succumb to the
+temptations of despair. The contrast clearly highlights that the evil is not
+to be trusted or embraced. Good clearly triumphs, to the extent that it can
+given the horrific, 9-11 scale circumstances.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m considering catching a third screening, partly to let it sink in one more
+time, and partly to see it in IMAX. And in choosing whether to, I do need to
+take some of my mother&amp;rsquo;s concerns into account. Art does affect us,
+powerfully, deeply, and there is a legitimate risk of responding improperly to
+art. And such art should play only a minimal role in our lives. One of my
+criticisms of the character of Father Ruiz-Sanchez in &lt;a href=&#34;h
+ttp://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http%3A%2F%2Fwww.amazon
+.com%2FCase-Conscience-Del-Rey-Impact%2Fdp%2F0345438353%3Fie%3DUTF8%26s%3Dbook
+s%26qid%3D1217280480%26sr%3D8-1&amp;amp;tag=phawkcom-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creativ
+e=9325&#34;&gt;A Case of Conscience&lt;/a&gt;&lt;img src=&#34;http://www.assoc-amazon.com/e/ir?t=phawkcom-20&amp;amp;l=ur2&amp;amp;o=1&#34; alt=&#34;&#34; /&gt; is that
+he didn&amp;rsquo;t read scripture or the divine office nearly as much as he read
+&lt;a href=&#34;http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;location=http
+%3A%2F%2Fwww.amazon.com%2FFinnegans-Wake-Penguin-Modern-Classics%2Fdp%2F014118
+311X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217280878%26sr%3D8-1&amp;amp;tag=phawkcom-20&amp;amp;lin
+kCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325&#34;&gt;Finnegan&amp;rsquo;s Wake&lt;/a&gt;&lt;img src=&#34;http://www.assoc-
+amazon.com/e/ir?t=phawkcom-20&amp;amp;l=ur2&amp;amp;o=1&#34; alt=&#34;&#34; /&gt;. Art was taking up an unhealthy chunk
+of his life, likely because he gave himself over to some aspects of the work
+that he responded wrongly to. But the work &lt;em&gt;as a whole&lt;/em&gt; needs to be
+considered, not just the villain. And you can&amp;rsquo;t allow a work of art to push
+you over the edge.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blogging is Not a Science</title>
+      <link>http://pfhawkins.com/2008/05/19/blogging-is-not-a-science/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/05/19/blogging-is-not-a-science/</guid>
+      <description>&lt;p&gt;There is something about data that recommends itself. The more data you have
+the more you ostensibly know about the subject; the more you know the better
+basis you have for your decisions; the better foundation for your decisions
+the higher the odds your decisions are the right ones. Everyone likes to make
+the right decisions. Few things are as truly satisfying.&lt;/p&gt;
+
+&lt;p&gt;That said, most data are crap. If they&amp;rsquo;re not inaccurate then they draw your
+focus to teh wrong thing. Instead of basing your decisions on what it is
+you&amp;rsquo;re actually doing, you&amp;rsquo;re basing them on a reading of the effects they had
+the last time you did them.&lt;/p&gt;
+
+&lt;p&gt;The above is exemplified in web statistics. Say, for example, that you start
+blogging. You&amp;rsquo;re shouting into the void on a regular basis, and then BAM!
+&lt;a href=&#34;http://sachachua.com/wp/2007/10/12/how-i-came-to-love-emacs/&#34;&gt;someone links&lt;/a&gt;
+to &lt;a href=&#34;http://pfhawkins.com/2007/10/10/how-i-came-to-love-
+emacs/&#34;&gt;one of your pieces&lt;/a&gt;, and you watch your stats shoot up. The tempting thing to do is write
+a &lt;a href=&#34;http://pfhawkins.com/2007/10/15/how-i-use-emacs/&#34;&gt;similar piece&lt;/a&gt; on the
+same topic. AND YOU WOULD BE WRONG.&lt;/p&gt;
+
+&lt;p&gt;What worked the first time? Writing something you wanted to write for the sake
+of writing it. The second time, your ulterior, utilitarian motives will work
+against you.&lt;/p&gt;
+
+&lt;p&gt;I was spurred to write this by &lt;a href=&#34;http://twitter.com/al3x/statuses/812166550&#34;&gt;this
+tweet&lt;/a&gt;, with which I completely
+agree. On the one hand, blogging is a conversation. On the other, it is
+shouting into the void. There are no guarantees that anyone will click your
+way, or read what you&amp;rsquo;ve written once they get there. And if &lt;a href=&#34;http://twitter.com/ronaldlewis/statuses/310321802&#34;&gt;that&amp;rsquo;s your
+focus&lt;/a&gt;, well, maybe you&amp;rsquo;ll
+get the links, but you&amp;rsquo;ll have sold out. I&amp;rsquo;m not condemning selling out, it
+has its time and place, but there is a reason people sneer when they say &amp;ldquo;he
+sold out&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m putting my money where my mouth is: goodbye Google Analytics. Goodbye
+data. If you need me, &lt;a href=&#34;http://pfhawkins.com/contact/&#34;&gt;email works best&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thoughts Writers Have</title>
+      <link>http://pfhawkins.com/2008/05/11/thoughts-writers-have/</link>
+      <pubDate>Sun, 11 May 2008 03:53:55 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/05/11/thoughts-writers-have/</guid>
+      <description>&lt;p&gt;I could really go for a smoke. I&amp;rsquo;m a non-smoker. The most I ever smoked was
+three times in one kinda stressful week in college. And I try to buy the good
+stuff when I do. No Camels for me.&lt;/p&gt;
+
+&lt;p&gt;If I ever want a smoke, it&amp;rsquo;s because I&amp;rsquo;ve an itch that needs scratching, and a
+cigarette seems like the shortest path to itch relief. It never is though.
+There&amp;rsquo;s a deeper underlying reason why I have dry skin. The itching won&amp;rsquo;t
+abate until I eat my vitamins, or eat animal fats, or stop eating melons, or
+get new genes. The rest is vapid style.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s so much style to smoking. Nowadays it happens outside. Always with the
+lighting it, holding it in your fingers, sucking on it, occasionally looking
+at it. It&amp;rsquo;s the perfect excuse to take a break, because who would deny an
+itching man his scratch? And it can&amp;rsquo;t be done indoors. So it becomes a
+paradigm shift. An opportunity for a moment. With friends, huddled against the
+cold and the itch. Or alone with the itch.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s that kind of moment, and then there&amp;rsquo;s mortal peril. That innocent
+girl, tied against the tracks, kicking her petticoat. The mustachioed man
+behind the bushes, twirling his handlebar with growing glee as his dastardly
+design is about to bear fruit. And our clean, upright protagonist, whose white
+teeth shine brightly in his favor as he strains against inconceivable odds to
+ride his worthy steed to the rails in time to throw the switch, sending the
+train on a different path, the one without a buxom beauty. The thrall of
+potential defeat in the moments before improbable success.&lt;/p&gt;
+
+&lt;p&gt;Catharsis. You can relax now.&lt;/p&gt;
+
+&lt;p&gt;In those moments, either smoking or rescuing a blossom of virginity from the
+jaws of death, in these moments are birthed a potential writer.&lt;/p&gt;
+
+&lt;p&gt;There is no such thing as a Greek muse, but there is such a thing as a moment.
+Live through enough successive ones with a tolerably observant eye, and one
+will feel, think, experience. And that will either need to be processed or
+dismissed.&lt;/p&gt;
+
+&lt;p&gt;Writing about it can scratch that itch. But the root cause will be here until
+judgment day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allen Ginsberg vs. the Internet</title>
+      <link>http://pfhawkins.com/2008/03/08/allen-ginsberg-vs-the-internet/</link>
+      <pubDate>Sat, 08 Mar 2008 00:48:34 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/03/08/allen-ginsberg-vs-the-internet/</guid>
+      <description>&lt;p&gt;Allen Ginsberg sang the slow poetry of the technological age before its time.
+He took the time to wallow in the horrors of the banal that flit by us as fast
+as we can click thru. With Whitman as his muse, he turned our eyes from nature
+to our fractured nature, and held our gaze.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t even especially like Ginsberg&amp;rsquo;s poetry. Give me Hopkins any day. But
+the torrent of measured fitfulness poured out as a fruitless libation, sterile
+poetry stank with death, demise, burrowing in little rat holes for faint hope;
+well there&amp;rsquo;s more &lt;em&gt;there&lt;/em&gt; there than the internet, right? A goodly bit of the
+tubes piping bare flesh into bare hands and barren hearts, the rest amalgams
+of news, quizzes, pokes, wanton squealing over shiny things, and poor people
+mortgaging themselves on the next turn-key SEO keyword whitepaper build an
+audience dropship four hour solution (run on index cards, of all things). Well
+of course Ginsberg&amp;rsquo;s deadbeat doped out strung hipster buds and their very
+real suffering has more life than that. Life takes time. Poetry takes time.
+The tubes steal attention, the grist of living. Time bandits. Attention
+pirates. Design masquerading as art. The shocking parading as feeling. This
+pause pretending to be an ending.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Use Emacs</title>
+      <link>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</link>
+      <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</guid>
+      <description>
+
+&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious
+amounts of prose, linking it together in all sorts of interesting and helpful
+ways, and basically revolutionizing the way I experienced computers. But most
+of all, I had a new and urgent desire to do everything from the keyboard in a
+blazingly efficient manner.&lt;/p&gt;
+
+&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I
+developed some slightly inefficient workflows (copying and pasting from text
+documents into OpenOffice documents, editing the original text file based on
+whatever page length I was going for, rinse and repeat until paper is
+produced) that were, on the whole, a net gain due to the speed of typing
+without mousing. The linux filesystem positively danced under my fingertips. I
+had more control over my system than I had ever had on Windows.&lt;/p&gt;
+
+&lt;p&gt;I progressed to producing documents and drafts in LaTeX. While it&amp;rsquo;s a bit
+arcane, using Emacs with AUCTeX made writing LaTeX arguably faster (and
+certainly prettier) than writing in Microsoft Word. My long-held desire,
+though, was to &lt;em&gt;learn a programming language&lt;/em&gt; (I chose python) and &lt;em&gt;code my
+own Content Management System&lt;/em&gt;. Events in meatspace have conspired against me
+acheiving that goal up to this point; now I am making progress. I can&amp;rsquo;t
+imagine working in any other editor. Oh wait: I can. I switched to vim for
+four months earlier this year.&lt;/p&gt;
+
+&lt;h3 id=&#34;yes-i-tried-vim:a832e82fbc16a5dad69526e9113f29d5&#34;&gt;Yes, I tried Vim&lt;/h3&gt;
+
+&lt;p&gt;You heard me: I tried vim. My main motivation was a bout of Emacs Pinky. My
+left pinky occasionally gets sore if I spend too much time on the laptop. At
+the time I attributed it to the control sequences that Emacs uses, but now I&amp;rsquo;m
+more aware that it&amp;rsquo;s just that my laptop has an inelegant and potentially
+harmful keyboard. If I use an ergonomic keyboard with Emacs, I&amp;rsquo;m fine.&lt;/p&gt;
+
+&lt;p&gt;Vim was fine. It&amp;rsquo;s a great text editor. If you want a powerful text editor,
+your two choices are vim and Emacs, and though I prefer Emacs, I won&amp;rsquo;t fault
+you for choosing vim. It does some fantabulous things. You can script it in
+python, for example. But scripting vim in python feels a &lt;strong&gt;lot&lt;/strong&gt; like
+scripting Emacs in python; there&amp;rsquo;s a lot of cruft, and it doesn&amp;rsquo;t play well
+with the innards of the system like elisp does. And there were all these
+little things that I missed.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-i-m-doing-with-emacs-now:a832e82fbc16a5dad69526e9113f29d5&#34;&gt;What I&amp;rsquo;m Doing With Emacs Now&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m evolving into the type of person who tries to do as much as possible
+inside Emacs. Here&amp;rsquo;s a partial list of how I use it now:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email client&lt;/li&gt;
+&lt;li&gt;Personal Planner&lt;/li&gt;
+&lt;li&gt;Coding environment for my as-yet-unfinished CMS&lt;/li&gt;
+&lt;li&gt;Twitter&lt;/li&gt;
+&lt;li&gt;Writing Fiction&lt;/li&gt;
+&lt;li&gt;irc&lt;/li&gt;
+&lt;li&gt;limited web browsing (mostly online APIs for the python libraries I&amp;rsquo;m investigating)&lt;/li&gt;
+&lt;li&gt;World Domination
+Okay, I really haven&amp;rsquo;t used Emacs for world domination yet. But as I was
+reading &lt;a href=&#34;http://www.amazon.com/gp/product/0812579844?ie=UTF8&amp;amp;t
+ag=phawkcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0812579844&#34;&gt;The Golden Age&lt;/a&gt;,
+I was slightly disappointed when he was naming some of the far-future self-
+aware AI characters, and Emacs didn&amp;rsquo;t make the list.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Came to Love Emacs</title>
+      <link>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</link>
+      <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;
+
+&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to
+highspeed internet that I had hitherto experienced. Which upped my time
+surfing the web. One of the delightful sites I lighted upon was
+&lt;a href=&#34;http://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;http://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs
+Notepad&lt;/a&gt;. I was intrigued. Having
+exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
+this Emacs thingy sounded fascinating. I downloaded a Windows version right
+away.&lt;/p&gt;
+
+&lt;p&gt;I soon found that the Windows port of Emacs was stuck on version 19, and the
+rest of the Emacs-lovin&amp;rsquo; universe was using version 21 on some posix-compliant
+operating system. I decided to hope and pray that soon the Emacs developers
+would take a little time out to help us poor souls using Windows.&lt;/p&gt;
+
+&lt;p&gt;It was a long wait. A long wait in which &lt;em&gt;I could not get LaTeX to work&lt;/em&gt;. So
+long, in fact, that the next fall, with the aid of a new dorm-mate, I dual-
+booted Red Hat 9 Linux.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s great about Emacs, and about free software in general, is that I have
+as much control as I desire over my computer. I haven&amp;rsquo;t taken the time to
+install Linux from scratch, but if I wanted to, the tools are there, and there
+aren&amp;rsquo;t any proprietary hindrances or DRM snafus to thwart my progress. My
+limited ability to understand maths may hinder me, but my software isn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;So actually, I am indebted to Emacs for not only making my computing life much
+easier and more productive, but from freeing me from the limitations of
+Microsoft. Although I see I didn&amp;rsquo;t really describe just how it has made my
+computing life easier, or more productive. I&amp;rsquo;ll have to remedy that in a
+future post.&lt;/p&gt;
+
+&lt;p&gt;DISCLAIMER: I never said it was a good story of a man and his favorite text
+editor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

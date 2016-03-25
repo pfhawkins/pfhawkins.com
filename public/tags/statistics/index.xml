@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on P.F. Hawkins</title>
+    <link>http://pfhawkins.com/tags/statistics/</link>
+    <description>Recent content in Statistics on P.F. Hawkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 May 2008 10:50:47 +0000</lastBuildDate>
+    <atom:link href="http://pfhawkins.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Blogging is Not a Science</title>
+      <link>http://pfhawkins.com/2008/05/19/blogging-is-not-a-science/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2008/05/19/blogging-is-not-a-science/</guid>
+      <description>&lt;p&gt;There is something about data that recommends itself. The more data you have
+the more you ostensibly know about the subject; the more you know the better
+basis you have for your decisions; the better foundation for your decisions
+the higher the odds your decisions are the right ones. Everyone likes to make
+the right decisions. Few things are as truly satisfying.&lt;/p&gt;
+
+&lt;p&gt;That said, most data are crap. If they&amp;rsquo;re not inaccurate then they draw your
+focus to teh wrong thing. Instead of basing your decisions on what it is
+you&amp;rsquo;re actually doing, you&amp;rsquo;re basing them on a reading of the effects they had
+the last time you did them.&lt;/p&gt;
+
+&lt;p&gt;The above is exemplified in web statistics. Say, for example, that you start
+blogging. You&amp;rsquo;re shouting into the void on a regular basis, and then BAM!
+&lt;a href=&#34;http://sachachua.com/wp/2007/10/12/how-i-came-to-love-emacs/&#34;&gt;someone links&lt;/a&gt;
+to &lt;a href=&#34;http://pfhawkins.com/2007/10/10/how-i-came-to-love-
+emacs/&#34;&gt;one of your pieces&lt;/a&gt;, and you watch your stats shoot up. The tempting thing to do is write
+a &lt;a href=&#34;http://pfhawkins.com/2007/10/15/how-i-use-emacs/&#34;&gt;similar piece&lt;/a&gt; on the
+same topic. AND YOU WOULD BE WRONG.&lt;/p&gt;
+
+&lt;p&gt;What worked the first time? Writing something you wanted to write for the sake
+of writing it. The second time, your ulterior, utilitarian motives will work
+against you.&lt;/p&gt;
+
+&lt;p&gt;I was spurred to write this by &lt;a href=&#34;http://twitter.com/al3x/statuses/812166550&#34;&gt;this
+tweet&lt;/a&gt;, with which I completely
+agree. On the one hand, blogging is a conversation. On the other, it is
+shouting into the void. There are no guarantees that anyone will click your
+way, or read what you&amp;rsquo;ve written once they get there. And if &lt;a href=&#34;http://twitter.com/ronaldlewis/statuses/310321802&#34;&gt;that&amp;rsquo;s your
+focus&lt;/a&gt;, well, maybe you&amp;rsquo;ll
+get the links, but you&amp;rsquo;ll have sold out. I&amp;rsquo;m not condemning selling out, it
+has its time and place, but there is a reason people sneer when they say &amp;ldquo;he
+sold out&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m putting my money where my mouth is: goodbye Google Analytics. Goodbye
+data. If you need me, &lt;a href=&#34;http://pfhawkins.com/contact/&#34;&gt;email works best&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

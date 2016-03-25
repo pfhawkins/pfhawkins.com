@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on P.F. Hawkins</title>
+    <link>http://pfhawkins.com/tags/emacs/</link>
+    <description>Recent content in Emacs on P.F. Hawkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Sep 2009 07:35:56 +0000</lastBuildDate>
+    <atom:link href="http://pfhawkins.com/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IN WHICH I Stump for Vi</title>
+      <link>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece
+explaining &lt;a href=&#34;http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings/&#34;&gt;why you need to know vi
+keybindings.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Announcing ihopesolution.com</title>
+      <link>http://pfhawkins.com/2009/07/07/announcing-ihopesolutioncom/</link>
+      <pubDate>Tue, 07 Jul 2009 10:24:32 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/07/07/announcing-ihopesolutioncom/</guid>
+      <description>&lt;p&gt;So a &lt;a href=&#34;http://hoobajoobfaq.org&#34;&gt;sysadmin friend&lt;/a&gt; and I decided that there just
+weren&amp;rsquo;t enough blogs about systems administration and linux out there. So we
+started another one:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ihopesolution.com&#34;&gt;ihopesolution.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure it will develop its own voice, since we both have, um, firmly held
+opinions about how things should be done. And odd senses of humor.&lt;/p&gt;
+
+&lt;p&gt;Since I tend to use emacs more for writing and org-mode rather than
+sysadminning, I&amp;rsquo;ll keep my emacs posts for my personal blog. (And so ends my
+feeble attempt to justify tagging this &amp;ldquo;emacs&amp;rdquo; and watching it hit planet
+emacsen.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On Finding a Document Production Workflow for Emacs</title>
+      <link>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward
+accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other
+externalities used to support this endeavor.&lt;/p&gt;
+
+&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;
+
+&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions
+from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;
+
+&lt;p&gt;If fictions were primarily distributed and displayed as &lt;a href=&#34;http://www.gutenberg.org/catalog/&#34;&gt;plain-text
+files&lt;/a&gt;, I&amp;rsquo;d be good to go. They aren&amp;rsquo;t, and
+I would like to at least attempt to send this higher up the food chain, ending
+in either a Microsoft Word Document or PDF.&lt;/p&gt;
+
+&lt;p&gt;Say, LaTeX makes some nice pdfs. While it manifestly does not suck, and
+&lt;a href=&#34;http://www.gnu.org/software/auctex/&#34;&gt;AucTeX&lt;/a&gt; is the bee&amp;rsquo;s knees, I want to do
+whatever I can in the way of premature optimization to tilt the ratio of
+writing to formatting heavily in writing&amp;rsquo;s favor. LaTeX is formatting heavy,
+so I&amp;rsquo;d like to avoid that.&lt;/p&gt;
+
+&lt;p&gt;Docbook XML also suffers from the same issue. It is a well-specced and quite
+nice document format. And while &lt;a href=&#34;http://www.emacswiki.org/emacs/NxmlMode&#34;&gt;nxml-
+mode&lt;/a&gt; is bar-none the premier way to
+edit straight XML, sorry, it ain&amp;rsquo;t happening.&lt;/p&gt;
+
+&lt;p&gt;So, what essentially plain-text formats can I convert to either LaTeX or
+Docbook XML, which I can then use to produce my output format of choice? As of
+this writing, I see three viable options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://orgmode.org/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mwolson.org/projects/EmacsMuse.html&#34;&gt;muse-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markdown.infogami.com/&#34;&gt;markdown&lt;/a&gt; and &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;pandoc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;org-mode ships with emacs, and is great. Writing novels in it would be
+orthogonal to its original purpose in note-taking and agenda-organizing. It
+only exports LaTeX/PDF, not Docbook. While it may work, I think successive
+options are more promising.&lt;/p&gt;
+
+&lt;p&gt;muse-mode is designed from the ground up for publishing, not note-taking. It
+exports both LaTeX and Docbook. This would probably be my first choice, except
+for one thing: its wiki syntax.&lt;/p&gt;
+
+&lt;p&gt;It seems asinine of me to start complaining about a wiki syntax now. I mean,
+isn&amp;rsquo;t that the whole point of this exercise, to find a wiki-like syntax I can
+convert from? Right. I&amp;rsquo;m not complaining about &lt;strong&gt;a&lt;/strong&gt; wiki syntax, I&amp;rsquo;m
+complaining about &lt;strong&gt;this&lt;/strong&gt; wiki syntax. All in all it&amp;rsquo;s not necessarily a bad
+one, but it is a domain-specific language for this mode only. &lt;a href=&#34;http://blog.wired.com/monkeybites/2008/05/a-million-littl.html&#34;&gt;It enjoys no
+reuse outside of this particular
+application.&lt;/a&gt;
+If the third option didn&amp;rsquo;t exist, I&amp;rsquo;d probably use it anyway.&lt;/p&gt;
+
+&lt;p&gt;But we have markdown, and the magical frobnicator that frobnicates markdown
+into a potpourri of other formats: namely, pandoc. &lt;a href=&#34;http://jblevins.org/projects/markdown-mode/&#34;&gt;Markdown
+mode&lt;/a&gt; is pretty handy, and I&amp;rsquo;ll
+probably end up writing a simple minor-mode or git-hook bash script for
+automating the pandoc conversions.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll let you know how this turns out.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Use Emacs</title>
+      <link>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</link>
+      <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</guid>
+      <description>
+
+&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious
+amounts of prose, linking it together in all sorts of interesting and helpful
+ways, and basically revolutionizing the way I experienced computers. But most
+of all, I had a new and urgent desire to do everything from the keyboard in a
+blazingly efficient manner.&lt;/p&gt;
+
+&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I
+developed some slightly inefficient workflows (copying and pasting from text
+documents into OpenOffice documents, editing the original text file based on
+whatever page length I was going for, rinse and repeat until paper is
+produced) that were, on the whole, a net gain due to the speed of typing
+without mousing. The linux filesystem positively danced under my fingertips. I
+had more control over my system than I had ever had on Windows.&lt;/p&gt;
+
+&lt;p&gt;I progressed to producing documents and drafts in LaTeX. While it&amp;rsquo;s a bit
+arcane, using Emacs with AUCTeX made writing LaTeX arguably faster (and
+certainly prettier) than writing in Microsoft Word. My long-held desire,
+though, was to &lt;em&gt;learn a programming language&lt;/em&gt; (I chose python) and &lt;em&gt;code my
+own Content Management System&lt;/em&gt;. Events in meatspace have conspired against me
+acheiving that goal up to this point; now I am making progress. I can&amp;rsquo;t
+imagine working in any other editor. Oh wait: I can. I switched to vim for
+four months earlier this year.&lt;/p&gt;
+
+&lt;h3 id=&#34;yes-i-tried-vim:a832e82fbc16a5dad69526e9113f29d5&#34;&gt;Yes, I tried Vim&lt;/h3&gt;
+
+&lt;p&gt;You heard me: I tried vim. My main motivation was a bout of Emacs Pinky. My
+left pinky occasionally gets sore if I spend too much time on the laptop. At
+the time I attributed it to the control sequences that Emacs uses, but now I&amp;rsquo;m
+more aware that it&amp;rsquo;s just that my laptop has an inelegant and potentially
+harmful keyboard. If I use an ergonomic keyboard with Emacs, I&amp;rsquo;m fine.&lt;/p&gt;
+
+&lt;p&gt;Vim was fine. It&amp;rsquo;s a great text editor. If you want a powerful text editor,
+your two choices are vim and Emacs, and though I prefer Emacs, I won&amp;rsquo;t fault
+you for choosing vim. It does some fantabulous things. You can script it in
+python, for example. But scripting vim in python feels a &lt;strong&gt;lot&lt;/strong&gt; like
+scripting Emacs in python; there&amp;rsquo;s a lot of cruft, and it doesn&amp;rsquo;t play well
+with the innards of the system like elisp does. And there were all these
+little things that I missed.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-i-m-doing-with-emacs-now:a832e82fbc16a5dad69526e9113f29d5&#34;&gt;What I&amp;rsquo;m Doing With Emacs Now&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m evolving into the type of person who tries to do as much as possible
+inside Emacs. Here&amp;rsquo;s a partial list of how I use it now:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Email client&lt;/li&gt;
+&lt;li&gt;Personal Planner&lt;/li&gt;
+&lt;li&gt;Coding environment for my as-yet-unfinished CMS&lt;/li&gt;
+&lt;li&gt;Twitter&lt;/li&gt;
+&lt;li&gt;Writing Fiction&lt;/li&gt;
+&lt;li&gt;irc&lt;/li&gt;
+&lt;li&gt;limited web browsing (mostly online APIs for the python libraries I&amp;rsquo;m investigating)&lt;/li&gt;
+&lt;li&gt;World Domination
+Okay, I really haven&amp;rsquo;t used Emacs for world domination yet. But as I was
+reading &lt;a href=&#34;http://www.amazon.com/gp/product/0812579844?ie=UTF8&amp;amp;t
+ag=phawkcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0812579844&#34;&gt;The Golden Age&lt;/a&gt;,
+I was slightly disappointed when he was naming some of the far-future self-
+aware AI characters, and Emacs didn&amp;rsquo;t make the list.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Came to Love Emacs</title>
+      <link>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</link>
+      <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;
+
+&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to
+highspeed internet that I had hitherto experienced. Which upped my time
+surfing the web. One of the delightful sites I lighted upon was
+&lt;a href=&#34;http://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;http://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs
+Notepad&lt;/a&gt;. I was intrigued. Having
+exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
+this Emacs thingy sounded fascinating. I downloaded a Windows version right
+away.&lt;/p&gt;
+
+&lt;p&gt;I soon found that the Windows port of Emacs was stuck on version 19, and the
+rest of the Emacs-lovin&amp;rsquo; universe was using version 21 on some posix-compliant
+operating system. I decided to hope and pray that soon the Emacs developers
+would take a little time out to help us poor souls using Windows.&lt;/p&gt;
+
+&lt;p&gt;It was a long wait. A long wait in which &lt;em&gt;I could not get LaTeX to work&lt;/em&gt;. So
+long, in fact, that the next fall, with the aid of a new dorm-mate, I dual-
+booted Red Hat 9 Linux.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s great about Emacs, and about free software in general, is that I have
+as much control as I desire over my computer. I haven&amp;rsquo;t taken the time to
+install Linux from scratch, but if I wanted to, the tools are there, and there
+aren&amp;rsquo;t any proprietary hindrances or DRM snafus to thwart my progress. My
+limited ability to understand maths may hinder me, but my software isn&amp;rsquo;t.&lt;/p&gt;
+
+&lt;p&gt;So actually, I am indebted to Emacs for not only making my computing life much
+easier and more productive, but from freeing me from the limitations of
+Microsoft. Although I see I didn&amp;rsquo;t really describe just how it has made my
+computing life easier, or more productive. I&amp;rsquo;ll have to remedy that in a
+future post.&lt;/p&gt;
+
+&lt;p&gt;DISCLAIMER: I never said it was a good story of a man and his favorite text
+editor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

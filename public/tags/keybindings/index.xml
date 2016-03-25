@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keybindings on P.F. Hawkins</title>
+    <link>http://pfhawkins.com/tags/keybindings/</link>
+    <description>Recent content in Keybindings on P.F. Hawkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 02 Sep 2009 07:35:56 +0000</lastBuildDate>
+    <atom:link href="http://pfhawkins.com/tags/keybindings/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>IN WHICH I Stump for Vi</title>
+      <link>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece
+explaining &lt;a href=&#34;http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings/&#34;&gt;why you need to know vi
+keybindings.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

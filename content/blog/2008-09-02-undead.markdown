@@ -1,0 +1,38 @@
+---
+author: pfhawkins
+categories:
+- essay
+date: 2008-09-02T10:09:45Z
+slug: undead
+status: publish
+tags:
+- linguistics
+- zombies
+title: Undead
+url: /2008/09/02/undead/
+wordpress_id: "50"
+---
+
+"Un-" is a negative prefix denoting the opposite of the word to which it is
+affixed. The nearest equivalent prefix is "non-", which denotes the same
+thing. "Un-", however, also possesses a connotation (in many applications of
+the prefix) of time, where previously the state or thing that is not, once
+was.
+
+In the case of zombies, the term "undead" is used to refer to them as a
+collective whole, as a race or species. "Nondead" is less appropriate, for
+while it would convey the fact that zombies are far more ambulatory than the
+normative deceased, it fails to convey that the zombies were once dead; or, if
+it does convey that, it does so with much less force.
+
+(Another example of this connotation, although one based in marketing rather
+than in organic etymology, holds for "uncola"; 7up has always been a
+carbonated sweet water, and therefore _a_ cola, although it subverts the usual
+formulae for what is deemed as cola, and in so doing is perceived [due to
+intensive advertising more than anything] as having progressed from a state of
+being cola to a state of being **beyond** cola.)
+
+The utility of the "un-" prefix used in this manner cannot be overstated. For
+clearly, the undead, while no longer deceased, also are no longer living. The
+simple addition of this prefix drums up a word for a third state of being.
+

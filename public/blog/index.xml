@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on P.F. Hawkins</title>
+    <link>http://pfhawkins.com/blog/</link>
+    <description>Recent content in Blog on P.F. Hawkins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 05 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pfhawkins.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>On Hyperverses</title>
+      <link>http://pfhawkins.com/2012/10/05/on-hyperverses/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/10/05/on-hyperverses/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m pretty sure that one of the reasons I never update this blog is
+because I don&amp;rsquo;t &lt;em&gt;focus&lt;/em&gt; on any particular topic. Some people can dash
+off unfocused blog posts at the drop of a hat. I, for good or ill, am
+not a member of &lt;a href=&#34;http://en.wikipedia.org/wiki/Set_theory&#34;&gt;that set&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Back in, oh, April-ish, I found a topic that not only I could obsess
+over, but has proven to be an inspiration to write about online. I
+started looking into Hypertext with a capital aitch, the idea that
+writing with little interlinking bits would revolutionize literature
+in unfathomable ways. It was a thing in the 90&amp;rsquo;s, right? Whatever
+happened to that?&lt;/p&gt;
+
+&lt;p&gt;One thing led to another, and I started a steady diet of reading on
+hypermedia APIs, hypertext, and electronic literature. And unlike
+other such interests, I kept at it. This one hasn&amp;rsquo;t flagged beyond
+reading a book or two. I am up to my armpits in instapaper articles
+and PDFs (and I even purchased a couple trade paperbacks) that I not
+only plan on reading some day, but am actually working on a reading
+list to make sure I cover certain topics. Which sounds like a totally
+normal thing to do, but it is far afield from my usual spotty reading
+habits.&lt;/p&gt;
+
+&lt;p&gt;Given the nature of the topic, I wanted not just to learn the topic,
+but create within the constraints of the topic. And while octopress is
+a fine blogging platform, I did not want to dash off a blog. I wanted
+to craft a site. Which meant I&amp;rsquo;ve spent more time than I probably
+ought to have diving into free font sites and learning CSS and Sass
+and ultimately &lt;a href=&#34;http://middlemanapp.com&#34;&gt;Middleman&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And then I managed to squeak out what you see at &lt;a href=&#34;http://www.hypervers.es&#34;&gt;Hyperverses&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While eventually (one of these days!) my coding chops will be almost
+good enough to get across to the computer what my brain wants to do,
+right now I generate a static site using Middleman. Which is classic
+hypertext. It&amp;rsquo;s a step up from writing my own HTML, to be sure. But
+it&amp;rsquo;s not as easy as blogging. I have to rewrite the site config every
+time I build the site just to make sure the index page consists of the
+new piece I&amp;rsquo;ve written. The CSS is atrocious, I bet the HTML is
+nonstandard. There is a good deal wrong with this site. But.&lt;/p&gt;
+
+&lt;p&gt;Since my focus is on hypertext, I wanted text to play a prominent role
+in the design. I had designed a pretty decent typographic logo for a
+header. It didn&amp;rsquo;t sit well. Finally I just ended up putting the site
+name as a straight typed logo for the site. It still didn&amp;rsquo;t set well
+on top, so I moved it and a lot of the boring site navigation stuff
+down in the footer.&lt;/p&gt;
+
+&lt;p&gt;The drawback to the approach I&amp;rsquo;ve taken is that while I&amp;rsquo;m happy with
+how the design has turned out, the architecture behind the site is not
+as &amp;ldquo;hypermedia&amp;rdquo; as I had originally envisioned. But at least now I
+have a spot to write about it.&lt;/p&gt;
+
+&lt;p&gt;I created &lt;a href=&#34;http://www.hypervers.es&#34;&gt;the site&lt;/a&gt; so I could spare the
+less than tens of numbers of readers of this blog endless diatribes on
+whatever literary or RESTful topic popped into my brain. Yet I did not
+write. Partly because my personal life has been busy, but mostly
+because I didn&amp;rsquo;t have a toolchain for the type of site I wanted to
+build until I discovered Middleman. And even then, I&amp;rsquo;m not sure how
+long middleman will be around. So it serves my purpose for now.&lt;/p&gt;
+
+&lt;p&gt;Normally in the past if I&amp;rsquo;d encountered the obstacle of not being able
+to write about the thing I really really wanted to write about right
+then, I&amp;rsquo;d have given up. But instead I got my feet wet by creating a
+twitter account, &lt;a href=&#34;http://twitter.com/hyperverses&#34;&gt;@hyperverses&lt;/a&gt;. And I
+got hooked with that, doing research and finding new things to read
+and occasionally making a point of my own.&lt;/p&gt;
+
+&lt;p&gt;The site only has one page. I will be adding more soon. The footer
+almost certainly will be expanding in scope. I&amp;rsquo;ve started tagging the
+pages within middleman but I have no idea if I&amp;rsquo;ll ever use the tags.
+But it&amp;rsquo;s a start, and I&amp;rsquo;m excited.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Principle Regarding Ends And Means</title>
+      <link>http://pfhawkins.com/2012/06/06/a-principle-regarding-ends-and-means/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/06/06/a-principle-regarding-ends-and-means/</guid>
+      <description>
+
+&lt;p&gt;Okay, listen up. This is pretty simple. I&amp;rsquo;m gonna start by defining terms.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ends&lt;/em&gt; are goals. If you take action, you usually do so to accomplish an end. Say, if I go buy bread and deli meat, I do so in order to accomplish the end of eating a sandwich.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Means&lt;/em&gt; are the steps you go through to accomplish an end. So, in the sandwich example, purchasing bread and deli meat, putting a few slices of meat on the bread, getting a knife out and slathering one of the bread slices with mayo: all these are means to the end of ultimately eating the sandwich.&lt;/p&gt;
+
+&lt;p&gt;For some reason, people don&amp;rsquo;t realize all the implications of what I&amp;rsquo;m about to say:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is never, NEVER okay to perform evil means in order to accomplish good ends!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;but-if-i-go-back-in-time-and-murder-hitler-i-could-save-so-many-jews:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;But, If I Go Back In Time And Murder Hitler, I Could Save So Many Jews!&lt;/h2&gt;
+
+&lt;p&gt;You just might save a bunch of Jews! Saving Jews is good. &lt;strong&gt;Murder is bad.&lt;/strong&gt; Guess what? &lt;em&gt;You can&amp;rsquo;t murder!&lt;/em&gt; Not without being evil, anyway. And you want to be good, not evil, for fairly obvious reasons I&amp;rsquo;m not going to go into here.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-ought-i-apply-this-principle:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;When Ought I Apply This Principle?&lt;/h2&gt;
+
+&lt;p&gt;All. The. Time.&lt;/p&gt;
+
+&lt;p&gt;Seriously. Any time someone suggests you do anything at all, or if you are considering any course of action, don&amp;rsquo;t just ask yourself &amp;ldquo;is my goal good?&amp;rdquo; Make sure you also ask yourself &amp;ldquo;are all the intermediary steps (that I can conceive of) that I need to take to accomplish my goal themselves good?&amp;rdquo; If even &lt;em&gt;one&lt;/em&gt; of those steps is just a &lt;em&gt;little&lt;/em&gt; evil, &lt;strong&gt;YOU NEED TO RETHINK THAT GOAL.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If your goal has an immoral mean somewhere, you can rethink it one of two ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;replace it with a moral mean&lt;/li&gt;
+&lt;li&gt;abandon that goal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to be good, those are your only options.&lt;/p&gt;
+
+&lt;h2 id=&#34;this-seems-hard:80b5f91d091b4f59956c27bed4a8ba46&#34;&gt;This Seems Hard.&lt;/h2&gt;
+
+&lt;p&gt;Yes! It&amp;rsquo;s very hard. If you actually try to live this out, you find yourself abandoning goals you would never in your most fevered imaginings dream you&amp;rsquo;d abandon. Giving up evil goals that seem like fun is hard enough; giving up legitimately &lt;em&gt;good&lt;/em&gt; goals is much harder. But it is completely and utterly worth it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wordsmithy</title>
+      <link>http://pfhawkins.com/2012/04/30/wordsmithy/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/04/30/wordsmithy/</guid>
+      <description>&lt;p&gt;The wordsmithy raided the vowel-shed&lt;br /&gt;
+For a round &amp;ldquo;O&amp;rdquo; to hold up surrounding consonants.&lt;br /&gt;
+In the smithy he realized that alone it could not hold the &amp;ldquo;R&amp;rdquo; and &amp;ldquo;T&amp;rdquo; together,&lt;br /&gt;
+But he always kept a few &amp;ldquo;E&amp;rdquo; at the workbench.&lt;/p&gt;
+
+&lt;p&gt;In two short decades he found his job obsoleted by script kiddies crawling the fourth channel,&lt;br /&gt;
+RSI brain cramps birthing automated skynet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Gamification of Storytelling</title>
+      <link>http://pfhawkins.com/2012/01/25/the-gamification-of-storytelling/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/01/25/the-gamification-of-storytelling/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;IN WHICH&lt;/strong&gt; Story meets Technology, and they exchange Awkward Pleasantries&lt;/p&gt;
+
+&lt;p&gt;I kept &lt;a href=&#34;http://blog.usabilla.com/why-we-need-better-tools-to-tell-stories-with/&#34;&gt;this blog post about using technology to tell stories&lt;/a&gt; by Jurian Baas around because the underlying premise got under my skin. From the article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;…the connectedness and interactive nature of the Internet can not only give us multimedia experiences, but also change the way we interact with text, our most basic manner of communicating after speech. I totally agree with Bret Victor on this: “People currently think of text as information to be consumed. I want text to be an environment to think in“.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is insane.&lt;/p&gt;
+
+&lt;p&gt;Text &lt;strong&gt;is&lt;/strong&gt; an environment to think in. Oral storytelling &lt;strong&gt;is&lt;/strong&gt; an environment to think in. Stories don&amp;rsquo;t need to be reactive in order to be good stories. Text is not broken!&lt;/p&gt;
+
+&lt;p&gt;Reading this piece, it seems that the approach that Baas wants to take is the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gamification&#34;&gt;gamification&lt;/a&gt; of storytelling. Gamification at its essence is taking the techniques used in games to make whatever one is gamifying more engaging. The first example of experimental storytelling he gives is, unsurprisingly, an online game. (The other two examples, while they demonstrate the type of interactivity he is interested in, aren&amp;rsquo;t fully fledged stories.)&lt;/p&gt;
+
+&lt;p&gt;While games are a fine medium in which to tell stories, the real tell that Baas is referring to gamification appears at the end, when he calls for the creation of more apps and frameworks to &amp;ldquo;create more compelling stories&amp;rdquo;. Here he confuses the medium with the message. There are plenty of terrible, non-interactive books that are just not compelling. There are a smaller number of books that, while just as non-interactive, are &lt;em&gt;extremely&lt;/em&gt; compelling. What makes some books compelling while the vast bulk languish in mediocrity?&lt;/p&gt;
+
+&lt;p&gt;The NARRATIVE! The story that is being told! A story could be interactive as all get-out, and not compelling. Heck, there are some books with prose as clear as meticulously polished crystal that bore the reader to tears with a limp tale.&lt;/p&gt;
+
+&lt;p&gt;What worries me about what Baas is advocating is, frankly, FarmVille. At its worst, gaming becomes non-compelling as a story, but extremely addictive as an activity. THIS is what gamification risks bringing to the table: tales full of empty interactions, devoid of story, signifying nothing.&lt;/p&gt;
+
+&lt;p&gt;While I applaud anyone attempting to create a story in a new medium, never lose sight that the narrative, the story, is what drives &lt;em&gt;all&lt;/em&gt; mediums.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Fling With Mixel</title>
+      <link>http://pfhawkins.com/2012/01/19/my-fling-with-mixel/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2012/01/19/my-fling-with-mixel/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;IN WHICH&lt;/strong&gt; Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce&lt;/p&gt;
+
+&lt;h2 id=&#34;on-mixel:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Mixel&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://mixel.cc&#34; title=&#34;Mixel&#34;&gt;Mixel&lt;/a&gt; confounds me as a piece of software that shines so brightly, the shadows of its flaws are made proportionately more apparent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/yeti.jpg&#34; alt=&#34;A Yeti walks in the snowy woods&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mixel is an iPad app for making collages that has the whole &amp;ldquo;social networking&amp;rdquo; thing baked into its DNA.&lt;/p&gt;
+
+&lt;p&gt;Making a collage feels like something the iPad was &lt;em&gt;born&lt;/em&gt; to do. Swipe swipe, swipe swipe, tap, swipe, BOOM! ART! I am not an artist by training or temperament, although I do doodle extensively in the margins of my notebooks. Using a pile of raw ingredients and the few methods mixel provides for manipulating them, I can create something that, if it isn&amp;rsquo;t art, looks and feels like &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-art:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Art&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/jiminy-stardust.jpg&#34; alt=&#34;A silhouetted Jiminy Cricket umbrellas down over a bleak yet sparkly landscape&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The feeling of creating art is addicting, to an extent. In the first few weeks of use I found myself making mixels in the time I usually allot myself to attempt to write. I consider writing my usual art, and Mixel briefly supplanted it.&lt;/p&gt;
+
+&lt;p&gt;One of the great things about collage is that pretty much anyone with scissors and someone else&amp;rsquo;s art can jump in. Mixel provides the scissors, pasteboard, and glue; the web provides the found art.&lt;/p&gt;
+
+&lt;h3 id=&#34;art-is-communication:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;Art is Communication&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/birdswave.jpg&#34; alt=&#34;A wave crashes into the birds, as a saddened Awesomeface looks on&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At its most basic, art is a form of communication. The artist attempts to share anything from a stray thought to a full-blown series of experiences to the viewer of the art. As far as I can see (and I am no art theorist), the success of an artist might be judged in two ways: by the degree to which a piece of art succeeds in conveying its meaning to a viewer, and by the sheer number of people who view a piece of art.&lt;/p&gt;
+
+&lt;p&gt;When art is at its best, e.g. Michaelangelo&amp;rsquo;s &lt;em&gt;David&lt;/em&gt;, it is deeply evocative and widely-known. Art that is of high quality, but is not widely-known, is still a success. Art that is widely-known, but of low quality, I would call unsuccessful, as I would any art of low quality. Conveying its meaning is the ultimate purpose of art.&lt;/p&gt;
+
+&lt;p&gt;Mixel, as an app, cannot directly focus on the quality of the art; that is the artist&amp;rsquo;s responsibility. What it &lt;em&gt;can&lt;/em&gt; (and does) do is get art out to the masses, both at creation and distribution. Mixel absolutely excels at this. From the creation standpoint, the choices the artist can make are limited, like any medium, but are not overly restrictive. It is easy to dive right in, and not too difficult to make more complex works.&lt;/p&gt;
+
+&lt;p&gt;From the distribution standpoint, Mixel uses an asynchronus follow system (think Twitter rather than Facebook). It has likes, and a limited amount of &amp;ldquo;loves&amp;rdquo;, or super-likes. Fairly standard social media fare.&lt;/p&gt;
+
+&lt;p&gt;The real innovation is in allowing anyone to remix any other mixel. When a mixel is viewed, it is shown with any other remixes of that mixel immediately following. If someone you follow loves a mixel, and you tap on it to get a better view, you will soon find yourself flipping through a remix thread, ogling the art therein. It is a completely natural (or perhaps completely human) way of serendipitously discovering new art and new artists to follow.&lt;/p&gt;
+
+&lt;p&gt;“If you could combine art-making with a dynamic social graph, then it can become addictive.” Khoi Vinh says in &lt;a href=&#34;http://www.macworld.com/article/163514/2011/11/mixel_lets_you_create_and_share_ipad_art.html&#34; title=&#34;Macworld review of Mixel&#34;&gt;this Macworld piece on Mixel&lt;/a&gt;. Part of me has trepidations about this sentiment. Addictions are bad, mmkay? And another qualm lurks in the background.&lt;/p&gt;
+
+&lt;h2 id=&#34;on-identity:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;On Identity&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/planet-test-pattern.jpg&#34; alt=&#34;Still Life with Test Pattern and Planets&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although I missed it when Mixel launched, there was a dustup right out of the gate with Mixel&amp;rsquo;s requirement that one use a Facebook account to log in. As far as external dependencies go, Facebook is a weighty one.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://www.subtraction.com/2011/11/16/why-mixel-requires-facebook-login&#34;&gt;this post&lt;/a&gt; one week after launch, Vinh details why they chose Facebook for auth, as opposed to Twitter or rolling their own. While I would have attributed the choice to the fact that it&amp;rsquo;s easier to piggyback a social network off of the behemoth Facebook (e.g. as Spotify moved to for their signups), they really chose it because it practically requires someone to use their legal name. They want people to use their legal names in order to foster a certain type of sharing, a type that pseudonyms would, in their view, obscure.&lt;/p&gt;
+
+&lt;p&gt;The best argument against this decision is in the comments thread of Vinh&amp;rsquo;s post: &amp;ldquo;You’ve created graffiti, but are keeping out Banksy.&amp;rdquo; Would Banksy be a worse community member of Mixel than if he wished to use his legal name? The second best argument, also in that thread, notes that &lt;a href=&#34;http://metafilter.com&#34; title=&#34;Metafilter&#34;&gt;Metafilter&lt;/a&gt; seems to get by just fine without requiring legal names. Metafilter made two decisions that foster the sharing and keep out the trolls: moderation and up front cost.&lt;/p&gt;
+
+&lt;p&gt;Metafilter employs several moderators who police the site for bad actors. Many sites do this. Even 4chan! And while Metafilter has superlative moderators, I don&amp;rsquo;t think that this is as big a factor as the $5 entry fee.&lt;/p&gt;
+
+&lt;p&gt;To be able to post and comment on Metafilter, you need to create a profile, which costs $5. That alone keeps the cost of trolling far higher than most trolls are willing to pay. This barrier to entry is a much more egalitarian barrier than requiring someone sign up for a third-party social networking service. It also has the added benefit of bringing in actual revenues. Right now, we are all creating mixels at the largesse of venture capitalists. Those VCs will want a return on their investment. I cannot envision a revenue scenario (aside from Mixel users actually paying for the app) that doesn&amp;rsquo;t drastically alter the &lt;em&gt;fantastic&lt;/em&gt; experience. Ads? Product placement? Make a Mixel with a coke bottle in it and be eligible for sweepstakes? Any of those would alter the type of sharing the app is currently creating far more than letting some people use pseudonyms.&lt;/p&gt;
+
+&lt;h3 id=&#34;art-is-communication-of-self:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;Art is Communication of Self&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/sanity-and-sensibility.jpg&#34; alt=&#34;Mosaic ladies with phrenological facial features&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ultimately, how one chooses to communicate oneself is an intensely personal decision. Art is intensely personal. A name, or the forgoing thereof, is intensely personal. My disapproval of Mixel&amp;rsquo;s choice to require Facebook is also personal.&lt;/p&gt;
+
+&lt;p&gt;Online, on &lt;a href=&#34;http://twitter.com/pfhawkins&#34;&gt;twitter&lt;/a&gt;, on this blog, just about everywhere, I present myself to the world as P. F. Hawkins. I don&amp;rsquo;t on Facebook, for two reasons. First, I use Facebook for friends I have met offline, and would know me by my given name. Second, Facebook won&amp;rsquo;t let me be P. F. Hawkins; I apparently have too many periods in my name. G. K. Chesterton, C. S. Lewis, and countless others from the past would not be able to use their most well-known names on Facebook.&lt;/p&gt;
+
+&lt;p&gt;P. F. Hawkins is not a pseudonym. It is my real name. It is very easy for the public to tie it to my legal name. It is how I pursue and intend to pursue my primary art, writing. Mixel&amp;rsquo;s dependence on Facebook (and Facebook&amp;rsquo;s username choices, which Mixel has no control over) prevents me from presenting myself in this art form as the self I usually provide art as.&lt;/p&gt;
+
+&lt;h2 id=&#34;to-sum-up:9c701e3c2ee6d80e586d212a2c236110&#34;&gt;To Sum Up&lt;/h2&gt;
+
+&lt;p&gt;Mixel is a fantastic collage app. It really is! I enjoyed it thoroughly. But it has ceded so much control over the identity of its users to Facebook that it undermines its stated mission of bringing art to the masses. The masses use pseudonyms!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://pfhawkins.com/images/mixel/stop-making-mixels.jpg&#34; alt=&#34;David Byrne gives highly opinionted advice over a late eighties pastiche&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mundanities Behind the Curtain</title>
+      <link>http://pfhawkins.com/2011/12/18/mundanities-behind-the-curtain/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2011/12/18/mundanities-behind-the-curtain/</guid>
+      <description>&lt;p&gt;There is no story of consequence to this. I tire of using &lt;a href=&#34;wordpress.org&#34;&gt;WordPress&lt;/a&gt;. I deal with it at work and it wearies me. So I am trying something new here.&lt;/p&gt;
+
+&lt;p&gt;This next iteration of the blog employs &lt;a href=&#34;http://octopress.org&#34;&gt;Octopress&lt;/a&gt;. I may have to update the colophon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hawkins&#39; Law</title>
+      <link>http://pfhawkins.com/2011/09/22/hawkins-law/</link>
+      <pubDate>Thu, 22 Sep 2011 16:39:11 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2011/09/22/hawkins-law/</guid>
+      <description>&lt;p&gt;The office VPN works excellently, except right now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grass Demons</title>
+      <link>http://pfhawkins.com/2010/12/14/grass-demons/</link>
+      <pubDate>Tue, 14 Dec 2010 00:12:29 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2010/12/14/grass-demons/</guid>
+      <description>&lt;p&gt;Black twisted gnarled gristle&lt;br /&gt;
+Lawn dance and howl whistle&lt;br /&gt;
+Spew out the fire bile&lt;br /&gt;
+Hate-wracked the whole while&lt;br /&gt;
+Teeth gnawing blood-glistened&lt;br /&gt;
+No time to love-listen.&lt;br /&gt;
+Can&amp;rsquo;t rue the damned day&lt;br /&gt;
+Eternity&amp;rsquo;s the same way&lt;br /&gt;
+Dance down the death-glade&lt;br /&gt;
+Empty with heart spayed.&lt;br /&gt;
+What&amp;rsquo;s left is tied taut;&lt;br /&gt;
+Pain fills the no-thought.&lt;br /&gt;
+What was the self thing,&lt;br /&gt;
+Clutched, did this hell bring?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dank</title>
+      <link>http://pfhawkins.com/2010/01/29/dank/</link>
+      <pubDate>Fri, 29 Jan 2010 06:37:15 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2010/01/29/dank/</guid>
+      <description>&lt;p&gt;He drove into the dark night&lt;br /&gt;
+That street lamps barely beat back with bleak light.&lt;br /&gt;
+The spastic highway loomed languid, leapt aside,&lt;br /&gt;
+Bowed down before the doomed ride&lt;br /&gt;
+As he barrelled toward his dead bride,&lt;br /&gt;
+Seeking pitch to patch the gape in his side.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IN WHICH I Stump for Vi</title>
+      <link>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece
+explaining &lt;a href=&#34;http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings/&#34;&gt;why you need to know vi
+keybindings.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hell, or Something Like It</title>
+      <link>http://pfhawkins.com/2009/08/06/hell-or-something-like-it/</link>
+      <pubDate>Thu, 06 Aug 2009 07:57:48 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/08/06/hell-or-something-like-it/</guid>
+      <description>&lt;p&gt;Darksomeness engulfs&lt;br /&gt;
+Low fallow fields left&lt;br /&gt;
+Firm as rock dried in sun,&lt;br /&gt;
+Cold as crisp iceberg submerged.&lt;/p&gt;
+
+&lt;p&gt;Submariners stumble on&lt;br /&gt;
+Unseen fissues, folds,&lt;br /&gt;
+Crevasses, barren blisters&lt;br /&gt;
+Of lifeless locked land.&lt;/p&gt;
+
+&lt;p&gt;Passengers punched their tickets,&lt;br /&gt;
+Paid their fares, folded&lt;br /&gt;
+Clothes, packed bags, braved&lt;br /&gt;
+Jet lag just to be here.&lt;/p&gt;
+
+&lt;p&gt;Groping in obsidian night, all&lt;br /&gt;
+Rend asunder suddenly, then&lt;br /&gt;
+Rend again, rend again,&lt;br /&gt;
+Ever tearing never ending&lt;/p&gt;
+
+&lt;p&gt;Souls unbending, breaking o&amp;rsquo;er&lt;br /&gt;
+And o&amp;rsquo;er again in pain&lt;br /&gt;
+Unmending, sending lame&lt;br /&gt;
+Desires (unquenched fires) drowning.&lt;/p&gt;
+
+&lt;p&gt;Powdered blood evaporates&lt;br /&gt;
+In self-blind souls enslaved in state&lt;br /&gt;
+Of everlasting fruitless wait.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talkies</title>
+      <link>http://pfhawkins.com/2009/07/16/talkies/</link>
+      <pubDate>Thu, 16 Jul 2009 10:14:53 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/07/16/talkies/</guid>
+      <description>&lt;p&gt;stars scream heavy metal silver screen&lt;br /&gt;
+heart strings tugged taut ripped clean&lt;br /&gt;
+death dealt down to damn mean&lt;br /&gt;
+man brought through no more green&lt;br /&gt;
+played for laughs aged thirteen&lt;br /&gt;
+main stream man&amp;rsquo;s a sad scene&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Entropy Lament</title>
+      <link>http://pfhawkins.com/2009/07/13/entropy-lament/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/07/13/entropy-lament/</guid>
+      <description>&lt;p&gt;In the morning as I brushed my teeth&lt;br /&gt;
+I vowed to mark the day by valiant ways:&lt;br /&gt;
+To rescue orphans, open up a shop,&lt;br /&gt;
+Write that novel, win that maiden&amp;rsquo;s heart,&lt;br /&gt;
+Climb that hill, convince a bitter friend&lt;br /&gt;
+Of God&amp;rsquo;s wide mercy, till the soil, plant&lt;br /&gt;
+The choicest vegetables, grill meat&lt;br /&gt;
+Upon an open flame. In short,&lt;br /&gt;
+Engage in derring-do,&lt;br /&gt;
+And leave upon the earth a healthy brand.&lt;/p&gt;
+
+&lt;p&gt;Instead I shuffled off toward my job&lt;br /&gt;
+(leeching little life from radio&amp;rsquo;s wiles),&lt;br /&gt;
+Sat in my cubicle, answered emails,&lt;br /&gt;
+Took calls, called shots, most of which were small,&lt;br /&gt;
+Mundane, of little consequence. And while&lt;br /&gt;
+I always tried to do my best, at end&lt;br /&gt;
+Of day I&amp;rsquo;d lost so much to waste,&lt;br /&gt;
+My puny fight &amp;lsquo;gainst entropy unwon,&lt;br /&gt;
+And still to lose. I shuffled home, then&lt;br /&gt;
+Microwaved some food, watched video,&lt;br /&gt;
+Paid homage to the goods that fence me in&lt;br /&gt;
+And hinder me from seeing the sublime&lt;br /&gt;
+In humble living, mastery of self,&lt;br /&gt;
+Right conduct, purity of heart,&lt;br /&gt;
+And noble deed. Indulged on, fat&lt;br /&gt;
+And restless, I hied myself to bed&lt;br /&gt;
+So I could rest to do it all again,&lt;br /&gt;
+And leave yet more undone.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Announcing ihopesolution.com</title>
+      <link>http://pfhawkins.com/2009/07/07/announcing-ihopesolutioncom/</link>
+      <pubDate>Tue, 07 Jul 2009 10:24:32 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/07/07/announcing-ihopesolutioncom/</guid>
+      <description>&lt;p&gt;So a &lt;a href=&#34;http://hoobajoobfaq.org&#34;&gt;sysadmin friend&lt;/a&gt; and I decided that there just
+weren&amp;rsquo;t enough blogs about systems administration and linux out there. So we
+started another one:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ihopesolution.com&#34;&gt;ihopesolution.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure it will develop its own voice, since we both have, um, firmly held
+opinions about how things should be done. And odd senses of humor.&lt;/p&gt;
+
+&lt;p&gt;Since I tend to use emacs more for writing and org-mode rather than
+sysadminning, I&amp;rsquo;ll keep my emacs posts for my personal blog. (And so ends my
+feeble attempt to justify tagging this &amp;ldquo;emacs&amp;rdquo; and watching it hit planet
+emacsen.)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Follies</title>
+      <link>http://pfhawkins.com/2009/05/11/goodbye-follies/</link>
+      <pubDate>Mon, 11 May 2009 08:17:57 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/2009/05/11/goodbye-follies/</guid>
+      <description>&lt;p&gt;The tree-struck star stuck the landing,&lt;br /&gt;
+Knees nailed to ground, brow down,&lt;br /&gt;
+Soul still ensconced in briar crown.&lt;/p&gt;
+
+&lt;p&gt;Apart from Him he&amp;rsquo;d hewn to&lt;br /&gt;
+Aspirations, plans He&amp;rsquo;d blewn to&lt;br /&gt;
+Smithereens; and left bereft he&lt;br /&gt;
+Clung to holy barque.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

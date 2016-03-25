@@ -1,0 +1,33 @@
+baseurl = "http://pfhawkins.com/" # TODO
+builddrafts = false
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "P.F. Hawkins"
+title = "P.F. Hawkins"
+pygmentsuseclasses = true
+# disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
+pluralizelisttitles = false
+theme = "cocoa"
+
+[permalinks]
+fixed = ":title/"
+blog = ":slug/"
+
+[params]
+Author = "P.F. Hawkins"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
+Description = "A Personal Web Log"
+Email = "pf@pfhawkins.com" # TODO:
+FaviconFile = "img/leaf.ico"
+GATracker = "XYZ" # TODO:
+GitHub = "//github.com/pfhawkins" # TODO:
+Initials = "pf" # displayed on single post page; DEPRECATED in v0.3.0
+Lang = "en"
+LinkedIn = "//linkedin.com/in/patrickhawkins" # TODO:
+Twitter = "//twitter.com/pfhawkins" # TODO:
+ExtraCssFiles = [ "/css/override.css" ] # relative to public directory
