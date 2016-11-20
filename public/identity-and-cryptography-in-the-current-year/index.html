@@ -13,10 +13,10 @@
 <title>
 
 
-     Decisions, decisions 
+     Identity and Cryptography in the Current Year 
 
 </title>
-<link rel="canonical" href="http://pfhawkins.com/2007/09/14/decisions-decisions/">
+<link rel="canonical" href="http://pfhawkins.com/identity-and-cryptography-in-the-current-year/">
 
 
 <script type="text/javascript">
@@ -126,69 +126,71 @@
                 <div class="title-container">
                     <div class="page-heading">
 
-    Decisions, decisions
+    Identity and Cryptography in the Current Year
 
 </div>
 
                     <div class="initials"><a href="http://pfhawkins.com/"></a></div>
                 </div>
                 <div class="meta">
-                    <div class="date" title="Fri Sep 14 2007 07:02:23 UTC">Sep 14, 2007</div>
+                    <div class="date" title="Sun Nov 20 2016 20:18:29 &#43;0000">Nov 20, 2016</div>
                     <div class="reading-time"><div class="middot"></div>3 minutes read</div>
                 </div>
             </div>
             <div class="markdown">
-                
+                <p>I&rsquo;ve got about three different lead-ins to this post rattling around my head.
+There&rsquo;s the &ldquo;we don&rsquo;t have flying cars, but we have public-key cryptography
+that isn&rsquo;t completely terrible&rdquo; angle. There&rsquo;s the &ldquo;truly we are living
+in a William Gibson novel&rdquo; angle. But I think I&rsquo;ll take the &ldquo;here&rsquo;s a true story
+about how <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">public-key cryptography</a>
+is being used right this second&rdquo; angle.
+Everybody loves a good anecdote, right?</p>
 
-<p>I&rsquo;m not just being quiet here, dear hypothetical reader; I&rsquo;m sitting on a
-couple of posts, waiting for the perfect time to post them. I realize that
-they are going unread just sitting on my hard drive. It&rsquo;s just that I&rsquo;m not
-confident that they are any good.</p>
+<p>So there&rsquo;s this fellow by the name of <a href="https://keybase.io/microchip">Michael Anderson</a>.
+Big alt-right Trump
+supporter type. He tends to approach Twitter the way Leroy Jenkins approaches
+WoW raids: big, loud, and in a way that aggravates a large number of the party.
+Mr. Anderson has had his account banned repeatedly, both before and after Twitter&rsquo;s
+recent <a href="http://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html">purges of alt-right accounts</a>.
+But every time his account is suspended for good, he makes a new account and keeps
+on trucking.</p>
 
-<p>One of the posts is the first in a series of posts on authors who choose to
-utilize their first and middle initials in public, rather than their full
-names. (Thanks to the reality of domain names, and the fact that <a href="http://www.patrickhawkins.net">some
-organist</a> beat me to it, I&rsquo;ve decided to go
-down this route as well.) Interesting concept for a series, or a complete dud?
-Who knows until I actually post?</p>
+<p>If you or I had to start a new twitter account, it would take us quite a while
+to get the word out that the new account is actually a replacement for the old
+account. It would likely take
+months to regain just a fraction of the followers. If Twitter didn&rsquo;t grace us
+with a blue check mark, some would be skeptical that the new account was ours.
+But MicroTurkeyLeaks&rsquo; few thousand followers
+are able to easily find his latest account, even though he&rsquo;s cycled
+through as many as three accounts in a <em>single day</em>. And what&rsquo;s more, they&rsquo;re
+almost positive it&rsquo;s his, even without a blue checkmark.</p>
 
-<p>But the first post in that series I&rsquo;ve written, on G.K. Chesterton, blows.
-Well, it&rsquo;s not horrible, but it has no zest. Which, for a post on someone as
-witty as Chesterton, is inexcusable. It&rsquo;s got the one funny anecdote, but I&rsquo;m
-still not sure about the whole format for it.</p>
+<p>How does he manage this impressive feat? <a href="https://keybase.io">keybase.io</a>.</p>
 
-<p>The other post I&rsquo;m sitting on is another review, on another science fiction
-novel to which I had another &ldquo;meh&rdquo; reaction. It was simply blah. And is that
-really worth letting the whole world know?</p>
+<p>Keybase describes itself thusly:</p>
 
-<h3 id="the-other-distraction">The Other Distraction</h3>
+<blockquote>
+<p>Keybase maps your identity to your public keys, and vice versa.</p>
+</blockquote>
 
-<p>My other distraction is trying to start learning
-<a href="http://djangoproject.com">django</a> so I can write my own content management
-system that not only keeps track of what I publish to this site but also as
-much information as possible on books I&rsquo;ve read, as well as tracking the books
-I own. I want an insanely detailed database of what books I&rsquo;ve read, which
-ones I own, perhaps a mini-review or mini-impression of every single one, an
-easy-for-me system for gathering that information all in one place and setting
-down to write a review. But time I work on that is time I&rsquo;m not writing
-something for the website as it is. Which is wordpress. And I&rsquo;m not sure I
-want to get addicted to some wordpress features that I&rsquo;ll have to take much
-time, as well as wailing and gnashing of teeth, to properly re-implement in my
-custom django solution. Icky.</p>
+<p>Traditional use of PGP (the most popular form of public-key cryptography)
+requires <a href="https://en.wikipedia.org/wiki/Key_signing_party">key-signing parties</a>
+in real life in order for people to vouch for each other&rsquo;s PGP identities.
+Keybase uses less direct methods of verification. I don&rsquo;t wish to get into the
+nitty gritty of cryptographic signing here, but once you have a PGP public key
+in keybase&rsquo;s system, you can then sign proofs on various social media accounts,
+as well as any websites you run. Others <a href="https://keybase.io/docs/server_security/following">can then review and sign off on those
+proofs</a>, building a web of
+trust much more easily than with straight PGP.</p>
 
-<h3 id="the-third-distraction">The Third Distraction</h3>
+<p>I&rsquo;ve set up a <a href="https://keybase.io/pfhawkins">keybase profile for P.F. Hawkins</a>.
+I cannot stress enough that not only has much thought been put into the system,
+but it&rsquo;s been the <em>right</em> thought. The process was streamlined, the UX intuitive,
+the copy understandable and engaging… I&rsquo;ll stop gushing over it sometime, I
+suppose, but only when it (or a system like it) becomes <em>de rigueur</em>.</p>
 
-<p>Which brings us to the little matter of hey, pf, if you&rsquo;re working on this
-website as much as it sounds like, are you actually writing any fiction like
-you promised yourself? To which I would say, &ldquo;Hah! Of course not.&rdquo; I&rsquo;m not
-writing more than a few hundred words a week, which would get you a short
-story a quarter after revising. Not a good schedule. I need to amp up my
-output. Big time.</p>
-
-<h3 id="finally">Finally</h3>
-
-<p>The good thing about having a personal website is that you can whine as much
-as you want. Whine whine whine!</p>
+<p>We don&rsquo;t have flying cars, but we now have non-terrible public-key cryptography.
+Truly we are living in a William Gibson novel.</p>
 
                 <br>
                 <p><a href="http://pfhawkins.com/blog/">Back to posts</a></p>

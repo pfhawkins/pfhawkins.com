@@ -6,8 +6,70 @@
     <description>Recent content on P.F. Hawkins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Nov 2016 20:18:29 +0000</lastBuildDate>
     <atom:link href="http://pfhawkins.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Identity and Cryptography in the Current Year</title>
+      <link>http://pfhawkins.com/identity-and-cryptography-in-the-current-year/</link>
+      <pubDate>Sun, 20 Nov 2016 20:18:29 +0000</pubDate>
+      
+      <guid>http://pfhawkins.com/identity-and-cryptography-in-the-current-year/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve got about three different lead-ins to this post rattling around my head.
+There&amp;rsquo;s the &amp;ldquo;we don&amp;rsquo;t have flying cars, but we have public-key cryptography
+that isn&amp;rsquo;t completely terrible&amp;rdquo; angle. There&amp;rsquo;s the &amp;ldquo;truly we are living
+in a William Gibson novel&amp;rdquo; angle. But I think I&amp;rsquo;ll take the &amp;ldquo;here&amp;rsquo;s a true story
+about how &lt;a href=&#34;https://en.wikipedia.org/wiki/Public-key_cryptography&#34;&gt;public-key cryptography&lt;/a&gt;
+is being used right this second&amp;rdquo; angle.
+Everybody loves a good anecdote, right?&lt;/p&gt;
+
+&lt;p&gt;So there&amp;rsquo;s this fellow by the name of &lt;a href=&#34;https://keybase.io/microchip&#34;&gt;Michael Anderson&lt;/a&gt;.
+Big alt-right Trump
+supporter type. He tends to approach Twitter the way Leroy Jenkins approaches
+WoW raids: big, loud, and in a way that aggravates a large number of the party.
+Mr. Anderson has had his account banned repeatedly, both before and after Twitter&amp;rsquo;s
+recent &lt;a href=&#34;http://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html&#34;&gt;purges of alt-right accounts&lt;/a&gt;.
+But every time his account is suspended for good, he makes a new account and keeps
+on trucking.&lt;/p&gt;
+
+&lt;p&gt;If you or I had to start a new twitter account, it would take us quite a while
+to get the word out that the new account is actually a replacement for the old
+account. It would likely take
+months to regain just a fraction of the followers. If Twitter didn&amp;rsquo;t grace us
+with a blue check mark, some would be skeptical that the new account was ours.
+But MicroTurkeyLeaks&amp;rsquo; few thousand followers
+are able to easily find his latest account, even though he&amp;rsquo;s cycled
+through as many as three accounts in a &lt;em&gt;single day&lt;/em&gt;. And what&amp;rsquo;s more, they&amp;rsquo;re
+almost positive it&amp;rsquo;s his, even without a blue checkmark.&lt;/p&gt;
+
+&lt;p&gt;How does he manage this impressive feat? &lt;a href=&#34;https://keybase.io&#34;&gt;keybase.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Keybase describes itself thusly:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Keybase maps your identity to your public keys, and vice versa.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Traditional use of PGP (the most popular form of public-key cryptography)
+requires &lt;a href=&#34;https://en.wikipedia.org/wiki/Key_signing_party&#34;&gt;key-signing parties&lt;/a&gt;
+in real life in order for people to vouch for each other&amp;rsquo;s PGP identities.
+Keybase uses less direct methods of verification. I don&amp;rsquo;t wish to get into the
+nitty gritty of cryptographic signing here, but once you have a PGP public key
+in keybase&amp;rsquo;s system, you can then sign proofs on various social media accounts,
+as well as any websites you run. Others &lt;a href=&#34;https://keybase.io/docs/server_security/following&#34;&gt;can then review and sign off on those
+proofs&lt;/a&gt;, building a web of
+trust much more easily than with straight PGP.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve set up a &lt;a href=&#34;https://keybase.io/pfhawkins&#34;&gt;keybase profile for P.F. Hawkins&lt;/a&gt;.
+I cannot stress enough that not only has much thought been put into the system,
+but it&amp;rsquo;s been the &lt;em&gt;right&lt;/em&gt; thought. The process was streamlined, the UX intuitive,
+the copy understandable and engaging… I&amp;rsquo;ll stop gushing over it sometime, I
+suppose, but only when it (or a system like it) becomes &lt;em&gt;de rigueur&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;We don&amp;rsquo;t have flying cars, but we now have non-terrible public-key cryptography.
+Truly we are living in a William Gibson novel.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Hyperverses</title>
@@ -437,23 +499,6 @@ opinions about how things should be done. And odd senses of humor.&lt;/p&gt;
 sysadminning, I&amp;rsquo;ll keep my emacs posts for my personal blog. (And so ends my
 feeble attempt to justify tagging this &amp;ldquo;emacs&amp;rdquo; and watching it hit planet
 emacsen.)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Goodbye Follies</title>
-      <link>http://pfhawkins.com/2009/05/11/goodbye-follies/</link>
-      <pubDate>Mon, 11 May 2009 08:17:57 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2009/05/11/goodbye-follies/</guid>
-      <description>&lt;p&gt;The tree-struck star stuck the landing,&lt;br /&gt;
-Knees nailed to ground, brow down,&lt;br /&gt;
-Soul still ensconced in briar crown.&lt;/p&gt;
-
-&lt;p&gt;Apart from Him he&amp;rsquo;d hewn to&lt;br /&gt;
-Aspirations, plans He&amp;rsquo;d blewn to&lt;br /&gt;
-Smithereens; and left bereft he&lt;br /&gt;
-Clung to holy barque.&lt;/p&gt;
 </description>
     </item>
     
