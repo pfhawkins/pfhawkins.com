@@ -29,7 +29,9 @@ of the scripts I used to move the bookmarks back into delicious:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;bibsonomy handles unicode characters, delicious doesn&amp;rsquo;t. I opted to delete/edit the few bibsonomy bookmarks that were giving me those errors, but it will error out when you pass delicious a title with a smart apostrophe, smart quotes, em-dash, or other non-ascii character.&lt;/li&gt;
 &lt;li&gt;It is a dumb script. It will take all your bibsonomy bookmarks and add them one by one, with a 1.1 second delay in between to keep delicious happy. If, for some reason, you pass delicious a unicode character and it errors out, it will attempt to readd all the bookmarks you successfully added the last go round.&lt;/li&gt;
-&lt;li&gt;You will need to ask bibsonomy nicely for a developer&amp;rsquo;s api key. delicious only needs username and password.&lt;/li&gt;
+&lt;li&gt;You will need to ask bibsonomy nicely for a developer&amp;rsquo;s api key. delicious only needs username and password.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;I could have written something that stored the bibsonomy bookmarks locally,

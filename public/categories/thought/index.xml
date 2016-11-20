@@ -122,7 +122,9 @@ of the scripts I used to move the bookmarks back into delicious:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;bibsonomy handles unicode characters, delicious doesn&amp;rsquo;t. I opted to delete/edit the few bibsonomy bookmarks that were giving me those errors, but it will error out when you pass delicious a title with a smart apostrophe, smart quotes, em-dash, or other non-ascii character.&lt;/li&gt;
 &lt;li&gt;It is a dumb script. It will take all your bibsonomy bookmarks and add them one by one, with a 1.1 second delay in between to keep delicious happy. If, for some reason, you pass delicious a unicode character and it errors out, it will attempt to readd all the bookmarks you successfully added the last go round.&lt;/li&gt;
-&lt;li&gt;You will need to ask bibsonomy nicely for a developer&amp;rsquo;s api key. delicious only needs username and password.&lt;/li&gt;
+&lt;li&gt;You will need to ask bibsonomy nicely for a developer&amp;rsquo;s api key. delicious only needs username and password.
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;I could have written something that stored the bibsonomy bookmarks locally,
@@ -195,7 +197,7 @@ still not sure about the whole format for it.&lt;/p&gt;
 novel to which I had another &amp;ldquo;meh&amp;rdquo; reaction. It was simply blah. And is that
 really worth letting the whole world know?&lt;/p&gt;
 
-&lt;h3 id=&#34;the-other-distraction:f03af293aa6d32ac25d221ee9ce0a18d&#34;&gt;The Other Distraction&lt;/h3&gt;
+&lt;h3 id=&#34;the-other-distraction&#34;&gt;The Other Distraction&lt;/h3&gt;
 
 &lt;p&gt;My other distraction is trying to start learning
 &lt;a href=&#34;http://djangoproject.com&#34;&gt;django&lt;/a&gt; so I can write my own content management
@@ -210,7 +212,7 @@ want to get addicted to some wordpress features that I&amp;rsquo;ll have to take
 time, as well as wailing and gnashing of teeth, to properly re-implement in my
 custom django solution. Icky.&lt;/p&gt;
 
-&lt;h3 id=&#34;the-third-distraction:f03af293aa6d32ac25d221ee9ce0a18d&#34;&gt;The Third Distraction&lt;/h3&gt;
+&lt;h3 id=&#34;the-third-distraction&#34;&gt;The Third Distraction&lt;/h3&gt;
 
 &lt;p&gt;Which brings us to the little matter of hey, pf, if you&amp;rsquo;re working on this
 website as much as it sounds like, are you actually writing any fiction like
@@ -219,7 +221,7 @@ writing more than a few hundred words a week, which would get you a short
 story a quarter after revising. Not a good schedule. I need to amp up my
 output. Big time.&lt;/p&gt;
 
-&lt;h3 id=&#34;finally:f03af293aa6d32ac25d221ee9ce0a18d&#34;&gt;Finally&lt;/h3&gt;
+&lt;h3 id=&#34;finally&#34;&gt;Finally&lt;/h3&gt;
 
 &lt;p&gt;The good thing about having a personal website is that you can whine as much
 as you want. Whine whine whine!&lt;/p&gt;
