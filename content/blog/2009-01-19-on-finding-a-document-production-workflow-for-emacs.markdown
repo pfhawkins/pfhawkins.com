@@ -47,7 +47,7 @@ Docbook XML, which I can then use to produce my output format of choice? As of
 this writing, I see three viable options:
 
   * [org-mode](http://orgmode.org/)
-  * [muse-mode](http://mwolson.org/projects/EmacsMuse.html)
+  * [muse-mode](http://www.gnu.org/software/emacs-muse/)
   * [markdown](http://markdown.infogami.com/) and [pandoc](http://johnmacfarlane.net/pandoc/)
   
 org-mode ships with emacs, and is great. Writing novels in it would be
