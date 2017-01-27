@@ -6,7 +6,8 @@ title: The Gamification of Storytelling
 url: /2012/01/25/the-gamification-of-storytelling/
 ---
 
-**IN WHICH** Story meets Technology, and they exchange Awkward Pleasantries
+_IN WHICH Story meets Technology, and they exchange Awkward
+Pleasantries_
 
 I kept [this blog post about using technology to tell stories](http://blog.usabilla.com/why-we-need-better-tools-to-tell-stories-with/) by Jurian Baas around because the underlying premise got under my skin. From the article:
 

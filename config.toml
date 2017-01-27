@@ -1,4 +1,4 @@
-baseurl = "http://pfhawkins.com/" # TODO
+baseurl = "https://pfhawkins.com/" # TODO
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
@@ -6,11 +6,11 @@ languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
 author = "P.F. Hawkins"
-title = "P.F. Hawkins"
+title = "P.F. Hawkins’ Web Log"
 pygmentsuseclasses = true
 # disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
-theme = "cocoa"
+theme = "gr8r"
 
 [permalinks]
 fixed = ":title/"
@@ -18,15 +18,17 @@ blog = ":slug/"
 
 [params]
 author = "P.F. Hawkins"
+title = "P.F. Hawkins' Web Log"
 cachebuster = true
-dateform = "Jan 2, 2006"
-dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+dateform = "2006-01-02"
+dateformfull = "Mon Jan 2 2006 15:04:05 EST"
 description = "A Personal Web Log"
 email = "pf@pfhawkins.com" # TODO:
 faviconfile = "img/leaf.ico"
 gatracker = "XYZ" # TODO:
 github = "//github.com/pfhawkins" # TODO:
-initials = "pf" # displayed on single post page; DEPRECATED in v0.3.0
+#gravatar = "7033d0e84d10d256a4b850461f69a10b"
+#initials = "P.F.H." # displayed on single post page; DEPRECATED in v0.3.0
 lang = "en"
 linkedin = "//linkedin.com/in/patrickhawkins1" # TODO:
 twitter = "//twitter.com/pfhawkins" # TODO:

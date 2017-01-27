@@ -6,7 +6,7 @@ title: My Fling With Mixel
 url: /2012/01/19/my-fling-with-mixel/
 ---
 
-**IN WHICH** Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce
+_IN WHICH Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce_
 
 ## On Mixel
 

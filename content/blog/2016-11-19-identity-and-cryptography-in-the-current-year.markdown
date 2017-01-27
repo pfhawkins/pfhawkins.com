@@ -56,3 +56,6 @@ suppose, but only when it (or a system like it) becomes _de rigueur_.
 
 We don't have flying cars, but we now have non-terrible public-key cryptography.
 Truly we are living in a William Gibson novel.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr">Verifying myself: I am pfhawkins on Keybase.io. 0uTF6wyyXhVGK_QGhh2zfFB3RZuW4PrFCE-l / <a href="https://t.co/TVorAyf35g">https://t.co/TVorAyf35g</a></p>&mdash; P.F. Hawkins (@pfhawkins) <a href="https://twitter.com/pfhawkins/status/800045976551563264">November 19, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
