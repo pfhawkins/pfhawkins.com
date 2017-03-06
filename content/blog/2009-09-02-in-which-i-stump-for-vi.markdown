@@ -16,7 +16,7 @@ wordpress_id: "103"
 
 At the mundane little sysadmin blog I contribute to, I wrote a little piece
 explaining [why you need to know vi
-keybindings.](http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings/)
+keybindings.](http://web.archive.org/web/20091202043219/http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings)
 
 I'm sure you emacsheads will love it.
 
