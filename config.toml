@@ -10,7 +10,6 @@ title = "P.F. Hawkins’ Web Log"
 pygmentsuseclasses = true
 # disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
-theme = "gr8r"
 
 [permalinks]
 fixed = ":title/"

@@ -1,0 +1,19 @@
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css"/>
+  <link rel="stylesheet" href="/css/main.css">
+  <base href="{{ .Site.BaseURL }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>
+  {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+  {{ if eq $url "/" }}
+      {{ .Site.Title }}
+  {{ else }}
+      {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}
+  {{ end }}
+  </title>
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ end }}
+</head>
