@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
   <article class="cf bg-near-black">
-    <div class="fl w-100 tc bg-near-black orange">
-      <h1 class="f1 ttu helvetica">{{ .Site.Params.title }}</h1>
-      <a href="/about" class="link dark-pink"><h2 class="f2 avenir">about</h2></a>
+    <div class="fl w-100 ph4 bg-near-white near-black">
+      <h1 class="f1 ph2 ttu helvetica">{{ .Site.Params.title }}</h1>
+      <a href="/about" class="link dark-red"><h2 class="f2 ph2 helvetica">about</h2></a>
     </div>
-    <div class="fl w-100 helvetica ttc bg-near-white ">
-            <ul class="center">
+    <div class="cf fl w-100 helvetica ttc bg-near-white pr4">
+            <ul class="">
             {{ range where (.Paginator 10000).Pages "Section" "blog"}}
                     {{ partial "li.html" . }}
             {{ end }}
