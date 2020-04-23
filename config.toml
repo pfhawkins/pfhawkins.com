@@ -32,6 +32,6 @@ github = "//github.com/pfhawkins" # TODO:
 #gravatar = "7033d0e84d10d256a4b850461f69a10b"
 #initials = "P.F.H." # displayed on single post page; DEPRECATED in v0.3.0
 lang = "en"
-linkedin = "//linkedin.com/in/patrickhawkins1" # TODO:
+#linkedin = "//linkedin.com/in/patrickhawkins1" # TODO:
 twitter = "//twitter.com/pfhawkins" # TODO:
 extracssfiles = [ "/css/override.css" ] # relative to public directory
