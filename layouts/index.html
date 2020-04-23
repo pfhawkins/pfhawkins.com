@@ -7,10 +7,8 @@
       </div>
     <div class="fl w-100 w-50-ns helvetica ttc bg-near-white ">
             <ul class="w-90 center">
-            {{ range .Data.Pages.ByPublishDate }}
-                {{ if eq .Section "blog" }}
+            {{ range where (.Paginator 10000).Pages "Section" "blog"}}
                     {{ partial "li.html" . }}
-                {{ end }}
             {{ end }}
             </ul>
     </div>
