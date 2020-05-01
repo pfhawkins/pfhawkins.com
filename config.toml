@@ -6,7 +6,7 @@ languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
 author = "P.F. Hawkins"
-title = "P.F. Hawkins’ Web Log"
+title = "P.F. Hawkins’ Dot Com"
 pygmentsuseclasses = true
 # disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
@@ -20,7 +20,7 @@ blog = ":slug/"
 
 [params]
 author = "P.F. Hawkins"
-title = "P.F. Hawkins' Web Log"
+title = "P.F. Hawkins' Dot Com"
 cachebuster = true
 dateform = "2006-01-02"
 dateformfull = "Mon Jan 2 2006 15:04:05 EST"
