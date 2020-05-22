@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
 
-<section class="w-100 w-80-ns mw9-ns center pa4 pa5-ns bg-white">
+<section class="w-100 mw-100 center pa4 pa5-ns bg-white">
             <div class="title-container">
                 {{ partial "page-heading" . }}
                 <div class="initials"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Initials }}</a></div>
             </div>
-            <div class="f5 f4-ns helvetica lh-copy measure nested-links">
+            <div class="f5 f4-ns helvetica lh-copy measure-wide nested-links">
                 {{ .Content }}
                 <br>
                     <div title="{{ .Date.Format .Site.Params.dateformfull }}">
