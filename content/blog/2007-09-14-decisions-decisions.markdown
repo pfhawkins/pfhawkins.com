@@ -18,7 +18,7 @@ confident that they are any good.
 One of the posts is the first in a series of posts on authors who choose to
 utilize their first and middle initials in public, rather than their full
 names. (Thanks to the reality of domain names, and the fact that [some
-organist](http://www.patrickhawkins.net) beat me to it, I've decided to go
+organist](https://www.patrickhawkins.net) beat me to it, I've decided to go
 down this route as well.) Interesting concept for a series, or a complete dud?
 Who knows until I actually post?
 
@@ -34,7 +34,7 @@ really worth letting the whole world know?
 ### The Other Distraction
 
 My other distraction is trying to start learning
-[django](http://djangoproject.com) so I can write my own content management
+[django](https://djangoproject.com) so I can write my own content management
 system that not only keeps track of what I publish to this site but also as
 much information as possible on books I've read, as well as tracking the books
 I own. I want an insanely detailed database of what books I've read, which

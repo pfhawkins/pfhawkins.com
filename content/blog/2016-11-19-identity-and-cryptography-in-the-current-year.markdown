@@ -18,7 +18,7 @@ Big alt-right Trump
 supporter type. He tends to approach Twitter the way Leroy Jenkins approaches
 WoW raids: big, loud, and in a way that aggravates a large number of the party.
 Mr. Anderson has had his account banned repeatedly, both before and after Twitter's
-recent [purges of alt-right accounts](http://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html).
+recent [purges of alt-right accounts](https://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html).
 But every time his account is suspended for good, he makes a new account and keeps
 on trucking.
 

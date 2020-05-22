@@ -14,8 +14,8 @@ url: /2007/09/06/review-nova-by-samuel-delany/
 wordpress_id: "10"
 ---
 
-[Nova](http://www.amazon.com/gp/product/0375706704?ie=UTF8&tag=phawkcom-20&lin
-kCode=as2&camp=1789&creative=9325&creativeASIN=0375706704)![](http://www
+[Nova](https://www.amazon.com/gp/product/0375706704?ie=UTF8&tag=phawkcom-20&lin
+kCode=as2&camp=1789&creative=9325&creativeASIN=0375706704)![](https://www
 .assoc-amazon.com/e/ir?t=phawkcom-20&l=as2&o=1&a=0375706704) is a gem of a
 novel. If you can get past one huge _faux pas_, any sf buff with half a brain
 should find something to enjoy in this book.

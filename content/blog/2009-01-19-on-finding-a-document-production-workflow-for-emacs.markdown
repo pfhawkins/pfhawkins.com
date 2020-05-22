@@ -27,28 +27,28 @@ I will use a text editor. Since I don't want to have to run into frictions
 from modal editing while fiction writing, I will be using Emacs.
 
 If fictions were primarily distributed and displayed as [plain-text
-files](http://www.gutenberg.org/catalog/), I'd be good to go. They aren't, and
+files](https://www.gutenberg.org/catalog/), I'd be good to go. They aren't, and
 I would like to at least attempt to send this higher up the food chain, ending
 in either a Microsoft Word Document or PDF.
 
 Say, LaTeX makes some nice pdfs. While it manifestly does not suck, and
-[AucTeX](http://www.gnu.org/software/auctex/) is the bee's knees, I want to do
+[AucTeX](https://www.gnu.org/software/auctex/) is the bee's knees, I want to do
 whatever I can in the way of premature optimization to tilt the ratio of
 writing to formatting heavily in writing's favor. LaTeX is formatting heavy,
 so I'd like to avoid that.
 
 Docbook XML also suffers from the same issue. It is a well-specced and quite
 nice document format. And while [nxml-
-mode](http://www.emacswiki.org/emacs/NxmlMode) is bar-none the premier way to
+mode](https://www.emacswiki.org/emacs/NxmlMode) is bar-none the premier way to
 edit straight XML, sorry, it ain't happening.
 
 So, what essentially plain-text formats can I convert to either LaTeX or
 Docbook XML, which I can then use to produce my output format of choice? As of
 this writing, I see three viable options:
 
-  * [org-mode](http://orgmode.org/)
-  * [muse-mode](http://www.gnu.org/software/emacs-muse/)
-  * [markdown](http://markdown.infogami.com/) and [pandoc](http://johnmacfarlane.net/pandoc/)
+  * [org-mode](https://orgmode.org/)
+  * [muse-mode](https://www.gnu.org/software/emacs-muse/)
+  * [markdown](https://markdown.infogami.com/) and [pandoc](https://johnmacfarlane.net/pandoc/)
   
 org-mode ships with emacs, and is great. Writing novels in it would be
 orthogonal to its original purpose in note-taking and agenda-organizing. It
@@ -65,12 +65,12 @@ convert from? Right. I'm not complaining about **a** wiki syntax, I'm
 complaining about **this** wiki syntax. All in all it's not necessarily a bad
 one, but it is a domain-specific language for this mode only. [It enjoys no
 reuse outside of this particular
-application.](http://blog.wired.com/monkeybites/2008/05/a-million-littl.html)
+application.](https://blog.wired.com/monkeybites/2008/05/a-million-littl.html)
 If the third option didn't exist, I'd probably use it anyway.
 
 But we have markdown, and the magical frobnicator that frobnicates markdown
 into a potpourri of other formats: namely, pandoc. [Markdown
-mode](http://jblevins.org/projects/markdown-mode/) is pretty handy, and I'll
+mode](https://jblevins.org/projects/markdown-mode/) is pretty handy, and I'll
 probably end up writing a simple minor-mode or git-hook bash script for
 automating the pandoc conversions.
 

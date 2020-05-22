@@ -9,7 +9,7 @@ url: /2012/10/05/on-hyperverses/
 I'm pretty sure that one of the reasons I never update this blog is
 because I don't *focus* on any particular topic. Some people can dash
 off unfocused blog posts at the drop of a hat. I, for good or ill, am
-not a member of [that set](http://en.wikipedia.org/wiki/Set_theory).
+not a member of [that set](https://en.wikipedia.org/wiki/Set_theory).
 
 Back in, oh, April-ish, I found a topic that not only I could obsess
 over, but has proven to be an inspiration to write about online. I
@@ -33,9 +33,9 @@ but create within the constraints of the topic. And while octopress is
 a fine blogging platform, I did not want to dash off a blog. I wanted
 to craft a site. Which meant I've spent more time than I probably
 ought to have diving into free font sites and learning CSS and Sass
-and ultimately [Middleman](http://middlemanapp.com).
+and ultimately [Middleman](https://middlemanapp.com).
 
-And then I managed to squeak out what you see at [Hyperverses](http://www.hypervers.es).
+And then I managed to squeak out what you see at [Hyperverses](https://www.hypervers.es).
 
 While eventually (one of these days!) my coding chops will be almost
 good enough to get across to the computer what my brain wants to do,
@@ -58,7 +58,7 @@ how the design has turned out, the architecture behind the site is not
 as "hypermedia" as I had originally envisioned. But at least now I
 have a spot to write about it.
 
-I created [the site](http://www.hypervers.es) so I could spare the
+I created [the site](https://www.hypervers.es) so I could spare the
 less than tens of numbers of readers of this blog endless diatribes on
 whatever literary or RESTful topic popped into my brain. Yet I did not
 write. Partly because my personal life has been busy, but mostly
@@ -69,7 +69,7 @@ long middleman will be around. So it serves my purpose for now.
 Normally in the past if I'd encountered the obstacle of not being able
 to write about the thing I really really wanted to write about right
 then, I'd have given up. But instead I got my feet wet by creating a
-twitter account, [@hyperverses](http://twitter.com/hyperverses). And I
+twitter account, [@hyperverses](https://twitter.com/hyperverses). And I
 got hooked with that, doing research and finding new things to read
 and occasionally making a point of my own.
 

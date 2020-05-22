@@ -12,6 +12,6 @@ wordpress_id: "13"
 
 I previously mentioned that I was working on my own custom blog software for
 this site. I'm not posting as I do so, because if I did, I'd end up with
-something like [this](http://www.ftrain.com/archive_ftrainone_919746918.html).
+something like [this](https://www.ftrain.com/archive_ftrainone_919746918.html).
 And you don't want to read that, do you?
 

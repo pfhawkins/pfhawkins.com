@@ -18,14 +18,14 @@ url: /2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/
 wordpress_id: "45"
 ---
 
-A while back I switched from [delicious](http://delicious.com) to
-[bibsonomy](http://bibsonomy.org) to handle all my social bookmarking needs. I
+A while back I switched from [delicious](https://delicious.com) to
+[bibsonomy](https://bibsonomy.org) to handle all my social bookmarking needs. I
 was all taken in by the RDF backing. I decided recently to switch back, since
 it didn't have the user base and general ecosystem, it's geared toward more
 academic pursuits, and RDF isn't all it's cracked up to be. Here's a tarball
 of the scripts I used to move the bookmarks back into delicious:
 
-Download: [bib2del](http://pfhawkins.com/bib2del.tgz)
+Download: [bib2del](https://pfhawkins.com/bib2del.tgz)
 
 Caveats:
 

@@ -15,11 +15,11 @@ url: /2009/07/07/announcing-ihopesolutioncom/
 wordpress_id: "87"
 ---
 
-So a [sysadmin friend](http://hoobajoobfaq.org) and I decided that there just
+So a [sysadmin friend](https://hoobajoobfaq.org) and I decided that there just
 weren't enough blogs about systems administration and linux out there. So we
 started another one:
 
-[ihopesolution.com](http://ihopesolution.com)
+[ihopesolution.com](https://ihopesolution.com)
 
 I'm sure it will develop its own voice, since we both have, um, firmly held
 opinions about how things should be done. And odd senses of humor.

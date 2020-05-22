@@ -21,10 +21,10 @@ This is the story of a man and his favorite text editor.
 In 2001, I was a freshman in college, which meant the closest thing to
 highspeed internet that I had hitherto experienced. Which upped my time
 surfing the web. One of the delightful sites I lighted upon was
-[Ftrain.](http://ftrain.com)
+[Ftrain.](https://ftrain.com)
 
 One day, I dug through Ftrain's archives and found [Emacs
-Notepad](http://ftrain.com/util_emacs_hints.html). I was intrigued. Having
+Notepad](https://ftrain.com/util_emacs_hints.html). I was intrigued. Having
 exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
 this Emacs thingy sounded fascinating. I downloaded a Windows version right
 away.
