@@ -1,4 +1,4 @@
-baseurl = "https://pfhawkins.com/" # TODO
+baseurl = "https://messenger-mole-70327.netlify.app/" # TODO
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
