@@ -8,9 +8,8 @@
             <div class="f5 f4-ns helvetica lh-copy measure nested-links">
                 {{ .Content }}
                 <br>
-                    <div class="code" title="{{ .Date.Format .Site.Params.dateformfull }}">
-                      <p>{{ .Site.Params.author }}</p>
-                      <p>{{ .Date.Format .Site.Params.dateform }}</p>
+                    <div title="{{ .Date.Format .Site.Params.dateformfull }}">
+                      <p>{{ .Site.Params.author }}<br/>{{ .Date.Format .Site.Params.dateform }}</p>
                     </div>
                 <p><a href="/">Back to posts</a></p>
             </div>
