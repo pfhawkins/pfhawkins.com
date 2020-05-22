@@ -5,7 +5,7 @@
                 {{ partial "page-heading" . }}
                 <div class="initials"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Initials }}</a></div>
             </div>
-            <div class="f5 f4-ns helvetica lh-copy measure-wide nested-links">
+            <div class="f5 f4-ns helvetica lh-copy measure nested-links">
                 {{ .Content }}
                 <br>
                     <div title="{{ .Date.Format .Site.Params.dateformfull }}">
