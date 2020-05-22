@@ -1,4 +1,4 @@
-baseurl = "https://messenger-mole-70327.netlify.app/" # TODO
+baseurl = "https://sharp-lichterman-7db3de.netlify.app/" # TODO
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
