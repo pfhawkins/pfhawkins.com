@@ -11,6 +11,13 @@
                     <div title="{{ .Date.Format .Site.Params.dateformfull }}">
                       <p>{{ .Site.Params.author }}<br/>{{ .Date.Format .Site.Params.dateform }}</p>
                     </div>
+
+            <ul class="list pa0">
+              {{ range (.GetTerms "tags") }}
+              <li class="dib mr2"><a class="f4 f3-ns b db ph1 link dim" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+              {{ end }}
+            </ul>
+
                 <p><a href="/">Back to posts</a></p>
             </div>
             <br>

@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<section class="w-100 mw-100 center pa4 pa5-ns bg-white helvetica">
+
+<h1 class="f2 f-subheadline-m f-headline-l">{{ .Page.Title }}</h1>
+
+<ul class="list helvetica pa0">
+    {{ range .Site.Taxonomies.categories }}
+            <li class="dib mr2"><a class="f4 f2-ns b db pa2 link dim blue" href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+    {{ end }}
+</ul>
+
+
+</section>
+
+{{ partial "footer.html" . }}
