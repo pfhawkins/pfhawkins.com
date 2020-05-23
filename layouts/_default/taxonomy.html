@@ -4,13 +4,13 @@
 
 <h1 class="f2 f-subheadline-m f-headline-l">{{ .Page.Title }}</h1>
 
-<ul class="f3 pa0 list lh-copy" >
+<ul class="f4 f2-ns pa0 list lh-copy" >
   {{ range .Pages }}
   <li class="">
-      <a href="{{ .Permalink }}" class="f2 link blue dim">
+      <a href="{{ .Permalink }}" class="link blue dim">
         {{ .Title }}
       </a>
-      <p>{{ .Summary }}</p>
+      <p class="f5 f4-ns">{{ .Summary }}</p>
   </li>
   {{ end }}
 
