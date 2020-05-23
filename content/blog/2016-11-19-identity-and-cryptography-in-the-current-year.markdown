@@ -2,7 +2,8 @@
 date = "2016-11-20T20:18:29+00:00"
 draft = false
 title = "Identity and Cryptography in the Current Year"
-
+categories = ["essay"]
+tags = ["cryptography","identity","keybase","PGP"]
 +++
 
 I've got about three different lead-ins to this post rattling around my head.

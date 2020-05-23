@@ -8,6 +8,8 @@ status: publish
 title: First Post
 url: /2007/08/11/first-post/
 wordpress_id: "5"
+tags:
+- cringe
 ---
 
 Welcome to pfhawkins.com!

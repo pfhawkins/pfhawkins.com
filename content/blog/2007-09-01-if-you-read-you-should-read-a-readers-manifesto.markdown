@@ -8,6 +8,9 @@ status: publish
 title: If You Read, You Should Read “A Reader’s Manifesto”
 url: /2007/09/01/if-you-read-you-should-read-a-readers-manifesto/
 wordpress_id: "9"
+tags:
+- literature
+- story
 ---
 
 This essay on reading is captioned by the editor "An attack on the growing

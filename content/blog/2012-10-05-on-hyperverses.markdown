@@ -4,6 +4,13 @@ comments: false
 date: 2012-10-05T00:00:00Z
 title: On Hyperverses
 url: /2012/10/05/on-hyperverses/
+categories:
+- essay
+tags:
+- hypertext
+- hyperverses
+- api
+- literature
 ---
 
 I'm pretty sure that one of the reasons I never update this blog is

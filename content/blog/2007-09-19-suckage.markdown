@@ -8,6 +8,8 @@ status: publish
 title: Suckage
 url: /2007/09/19/suckage/
 wordpress_id: "12"
+tags:
+- cringe
 ---
 
 The only to write well is to write often and get the kinks out. I don't write

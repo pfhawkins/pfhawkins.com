@@ -8,6 +8,8 @@ status: publish
 title: I don’t want to end up like this
 url: /2007/10/03/i-dont-want-to-end-up-like-this/
 wordpress_id: "13"
+tags:
+- cringe
 ---
 
 I previously mentioned that I was working on my own custom blog software for

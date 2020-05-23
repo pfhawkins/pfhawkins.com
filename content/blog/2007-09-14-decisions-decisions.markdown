@@ -8,6 +8,8 @@ status: publish
 title: Decisions, decisions
 url: /2007/09/14/decisions-decisions/
 wordpress_id: "11"
+tags:
+- cringe
 ---
 
 I'm not just being quiet here, dear hypothetical reader; I'm sitting on a

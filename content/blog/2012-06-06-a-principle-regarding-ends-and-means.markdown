@@ -4,6 +4,12 @@ comments: false
 date: 2012-06-06T00:00:00Z
 title: A Principle Regarding Ends And Means
 url: /2012/06/06/a-principle-regarding-ends-and-means/
+tags: 
+- philosophy
+- ethics
+- morality
+- ends
+- means
 ---
 
 Okay, listen up. This is pretty simple. I'm gonna start by defining terms.

@@ -4,6 +4,10 @@ comments: false
 date: 2012-01-19T00:00:00Z
 title: My Fling With Mixel
 url: /2012/01/19/my-fling-with-mixel/
+tags:
+- art
+- apps
+- collage
 ---
 
 _IN WHICH Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce_

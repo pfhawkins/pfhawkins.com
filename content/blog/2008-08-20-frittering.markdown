@@ -8,6 +8,8 @@ status: publish
 title: Frittering
 url: /2008/08/20/frittering/
 wordpress_id: "47"
+tags:
+- productivity
 ---
 
 I fritter away a lot of time. This bothers. I have a stack or two of notecards

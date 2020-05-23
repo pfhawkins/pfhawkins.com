@@ -8,6 +8,8 @@ status: publish
 title: Hell, or Something Like It
 url: /2009/08/06/hell-or-something-like-it/
 wordpress_id: "100"
+tags:
+- eternal damnation
 ---
 
 Darksomeness engulfs  

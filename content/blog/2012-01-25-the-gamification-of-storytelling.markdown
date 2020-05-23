@@ -4,6 +4,11 @@ comments: false
 date: 2012-01-25T00:00:00Z
 title: The Gamification of Storytelling
 url: /2012/01/25/the-gamification-of-storytelling/
+tags: 
+- psychology
+- medium and the message
+- narrative
+- story
 ---
 
 _IN WHICH Story meets Technology, and they exchange Awkward
