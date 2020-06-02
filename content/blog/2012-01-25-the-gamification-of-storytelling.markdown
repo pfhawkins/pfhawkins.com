@@ -1,5 +1,6 @@
 ---
-categories: essay
+categories: 
+- essay
 comments: false
 date: 2012-01-25T00:00:00Z
 title: The Gamification of Storytelling

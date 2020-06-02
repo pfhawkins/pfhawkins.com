@@ -1,5 +1,6 @@
 ---
-categories: essay
+categories: 
+- essay
 comments: false
 date: 2012-06-06T00:00:00Z
 title: A Principle Regarding Ends And Means
