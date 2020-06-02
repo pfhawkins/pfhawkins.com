@@ -1,4 +1,4 @@
-baseurl = "https://sharp-lichterman-7db3de.netlify.app/" # TODO
+baseurl = "https://pfhawkins.com/" # TODO
 builddrafts = false
 canonifyurls = false
 contentdir = "content"
