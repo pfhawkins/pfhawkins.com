@@ -2,7 +2,6 @@
 author: pfhawkins
 categories:
 - essay
-- fiction
 date: 2009-01-19T10:48:56Z
 slug: on-finding-a-document-production-workflow-for-emacs
 status: publish

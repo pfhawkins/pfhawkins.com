@@ -2,7 +2,6 @@
 author: pfhawkins
 categories:
 - link
-- thought
 date: 2009-07-07T10:24:32Z
 slug: announcing-ihopesolutioncom
 status: publish
