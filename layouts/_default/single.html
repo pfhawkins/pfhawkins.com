@@ -5,15 +5,17 @@
                 {{ partial "page-heading" . }}
                 <div class="initials"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Initials }}</a></div>
             </div>
-            <div class="f5 f4-ns helvetica lh-copy measure nested-links">
+            <div class="f5 f4-ns helvetica lh-copy measure ">
               {{ range .Params.categories }}
                 {{ if eq . "essay"}}
-                <p class="f2 f2-ns i">an <a href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="f2 f2-ns i b">an <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
               {{ else }}
-                <p class="f2 f2-ns i">a <a href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="f2 f2-ns i b">a <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
                 {{ end }}
               {{ end }}
+              <div class="nested-links">
                 {{ .Content }}
+              </div>
                 <br>
                     <div title="{{ .Date.Format .Site.Params.dateformfull }}">
                       <p>{{ .Site.Params.author }}<br/>{{ .Date.Format .Site.Params.dateform }}</p>
@@ -21,11 +23,11 @@
 
             <ul class="list pa0">
               {{ range (.GetTerms "tags") }}
-              <li class="dib mr2"><a class="f4 f3-ns b db ph1 link dim" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+              <li class="dib mr2"><a class="f4 f3-ns b db ph1 red link dim" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
               {{ end }}
             </ul>
 
-                <p><a href="/">Back to posts</a></p>
+                <p><a class="blue link dim" href="/">Back to posts</a></p>
             </div>
             <br>
 </section>
