@@ -13,10 +13,10 @@ url: /2009/03/17/when-love-attacks/
 wordpress_id: "76"
 ---
 
-Love lies crouched on haunches,  
-Coiled prehensile set to spring  
+Love lies crouched on haunches,
+Coiled prehensile set to spring
 Unsuspecting upon prey.
 
-In the proper hour Love leaps,  
-Thrusting self through myocardial tissue,  
+In the proper hour Love leaps,
+Thrusting self through myocardial tissue,
 Dissolving as a tear gas in the bloodstream.

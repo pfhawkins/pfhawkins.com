@@ -7,14 +7,15 @@ slug: dank
 status: publish
 tags:
 - highway
+- drive
 title: Dank
 url: /2010/01/29/dank/
 wordpress_id: "106"
 ---
 
-He drove into the dark night  
-That street lamps barely beat back with bleak light.  
-The spastic highway loomed languid, leapt aside,  
-Bowed down before the doomed ride   
-As he barrelled toward his dead bride,  
+He drove into the dark night
+That street lamps barely beat back with bleak light.
+The spastic highway loomed languid, leapt aside,
+Bowed down before the doomed ride
+As he barrelled toward his dead bride,
 Seeking pitch to patch the gape in his side.

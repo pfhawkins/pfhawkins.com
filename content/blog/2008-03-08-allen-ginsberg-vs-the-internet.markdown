@@ -8,6 +8,7 @@ status: publish
 tags:
 - Allen Ginsberg
 - intertubes
+- internet
 title: Allen Ginsberg vs. the Internet
 url: /2008/03/08/allen-ginsberg-vs-the-internet/
 wordpress_id: "39"

@@ -1,11 +1,11 @@
 ---
-categories: 
+categories:
 - essay
 comments: false
 date: 2012-06-06T00:00:00Z
 title: A Principle Regarding Ends And Means
 url: /2012/06/06/a-principle-regarding-ends-and-means/
-tags: 
+tags:
 - philosophy
 - ethics
 - morality

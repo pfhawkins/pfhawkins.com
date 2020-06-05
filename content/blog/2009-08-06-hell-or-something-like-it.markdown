@@ -12,31 +12,31 @@ tags:
 - eternal damnation
 ---
 
-Darksomeness engulfs  
-Low fallow fields left  
-Firm as rock dried in sun,  
+Darksomeness engulfs
+Low fallow fields left
+Firm as rock dried in sun,
 Cold as crisp iceberg submerged.
 
-Submariners stumble on  
-Unseen fissues, folds,  
-Crevasses, barren blisters  
+Submariners stumble on
+Unseen fissues, folds,
+Crevasses, barren blisters
 Of lifeless locked land.
 
-Passengers punched their tickets,  
-Paid their fares, folded  
-Clothes, packed bags, braved  
+Passengers punched their tickets,
+Paid their fares, folded
+Clothes, packed bags, braved
 Jet lag just to be here.
 
-Groping in obsidian night, all  
-Rend asunder suddenly, then  
-Rend again, rend again,  
+Groping in obsidian night, all
+Rend asunder suddenly, then
+Rend again, rend again,
 Ever tearing never ending
 
-Souls unbending, breaking o'er  
-And o'er again in pain  
-Unmending, sending lame  
+Souls unbending, breaking o'er
+And o'er again in pain
+Unmending, sending lame
 Desires (unquenched fires) drowning.
 
-Powdered blood evaporates  
-In self-blind souls enslaved in state  
+Powdered blood evaporates
+In self-blind souls enslaved in state
 Of everlasting fruitless wait.
