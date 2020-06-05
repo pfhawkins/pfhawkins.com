@@ -11,7 +11,6 @@ tags:
 - software
 - computers
 - Von Neumann
-- poem
 title: Paradigmatic Computational Constructs
 url: /2008/06/18/paradigmatic-computational-constructs/
 wordpress_id: "42"

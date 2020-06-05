@@ -6,7 +6,6 @@ date: 2012-04-30T00:00:00Z
 tags:
 - words
 - etymology
-- RSI
 - skynet
 title: Wordsmithy
 url: /2012/04/30/wordsmithy/

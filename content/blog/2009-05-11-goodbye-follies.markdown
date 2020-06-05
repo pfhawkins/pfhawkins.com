@@ -8,7 +8,6 @@ status: publish
 tags:
 - aspirations
 - barque
-- follies
 title: Goodbye Follies
 url: /2009/05/11/goodbye-follies/
 wordpress_id: "83"

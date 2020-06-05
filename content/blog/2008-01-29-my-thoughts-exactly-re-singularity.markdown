@@ -7,7 +7,6 @@ slug: my-thoughts-exactly-re-singularity
 status: publish
 tags:
 - sf
-- singularity
 title: 'My Thoughts Exactly re: Singularity'
 url: /2008/01/29/my-thoughts-exactly-re-singularity/
 wordpress_id: "37"

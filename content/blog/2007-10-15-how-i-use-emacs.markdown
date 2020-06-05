@@ -9,7 +9,6 @@ tags:
 - editing
 - Emacs
 - programming
-- prose
 - Vim
 - writing
 title: How I Use Emacs

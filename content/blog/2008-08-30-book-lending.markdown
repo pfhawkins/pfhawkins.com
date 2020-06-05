@@ -9,7 +9,6 @@ status: publish
 tags:
 - books
 - economics
-- watchmen
 title: Book Lending
 url: /2008/08/30/book-lending/
 wordpress_id: "49"

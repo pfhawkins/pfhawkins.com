@@ -6,7 +6,6 @@ date: 2008-08-12T09:29:35Z
 slug: only-the-things-that-are-dead-are-electric
 status: publish
 tags:
-- goldstars
 - rainbows
 - unicorns
 title: Only the Things that are Dead are Electric

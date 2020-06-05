@@ -6,7 +6,7 @@ date: 2008-11-01T23:22:59Z
 slug: spaceman-in-space
 status: publish
 tags:
-- lonely
+- loneliness
 - space
 - tango
 title: Spaceman In Space

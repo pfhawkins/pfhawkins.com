@@ -10,7 +10,6 @@ tags:
 - cubicle
 - death
 - entropy
-- follies
 - systems administration
 - work
 title: Entropy Lament
