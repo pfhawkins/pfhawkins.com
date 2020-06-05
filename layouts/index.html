@@ -1,15 +1,16 @@
 {{ partial "header.html" . }}
   <article class="cf bg-near-black">
     <div class="fl w-100 ph4 bg-white near-black">
-      <h1 class="f2 f-subheadline-m f-headline-l mv4 ttu tracked-tight helvetica lh-title">{{ .Site.Params.title }}</h1>
-      <div>
-        <a href="/categories" class="link dim red f3 f1-m f1-l ph2 helvetica b">categories</a>
-        <a href="/tags" class="link dim red f3 f1-m f1-l ph2 helvetica b">tags</a>
-        <a href="/about" class="link dim red f3 f1-m f1-l ph2 helvetica b">about</a>
-      </div>
+      <h1 class="f2 f-subheadline-m f-headline-l mt4 mb2 ttu tracked-tight helvetica ">{{ .Site.Params.title }}</h1>
+      <p class="f1 mt1 mb0 pt0 pb4 b helvetica">{{ $.Site.Params.description }}</p>
     </div>
+      <div class="fl w-100 bg-white near-black pl4">
+        <a href="/categories" class="link dim red f3 f1-m f1-l pr4 helvetica b">categories</a>
+        <a href="/tags" class="link dim red f3 f1-m f1-l pr4 helvetica b">tags</a>
+        <a href="/about" class="link dim red f3 f1-m f1-l pr4 helvetica b">about</a>
+      </div>
     <div class="cf fl w-100 helvetica ttc bg-white pr4">
-            <ul class="">
+            <ul class="pl4">
             {{ range where (.Paginator 10000).Pages "Section" "blog"}}
                     {{ partial "li.html" . }}
             {{ end }}
