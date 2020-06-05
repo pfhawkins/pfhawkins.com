@@ -7,15 +7,15 @@ slug: talkies
 status: publish
 tags:
 - film
-- entertainment
+- follies
 title: Talkies
 url: /2009/07/16/talkies/
 wordpress_id: "96"
 ---
 
-stars scream heavy metal silver screen
-heart strings tugged taut ripped clean
-death dealt down to damn mean
-man brought through no more green
-played for laughs aged thirteen
+stars scream heavy metal silver screen  
+heart strings tugged taut ripped clean  
+death dealt down to damn mean  
+man brought through no more green  
+played for laughs aged thirteen  
 main stream man's a sad scene

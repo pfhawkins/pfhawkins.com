@@ -7,7 +7,7 @@ title: My Fling With Mixel
 url: /2012/01/19/my-fling-with-mixel/
 tags:
 - art
-- software
+- apps
 - collage
 ---
 

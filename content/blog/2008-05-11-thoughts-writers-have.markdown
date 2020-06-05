@@ -6,6 +6,7 @@ date: 2008-05-11T03:53:55Z
 slug: thoughts-writers-have
 status: publish
 tags:
+- itch
 - muse
 - smoking
 - writing
