@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-  <article class="cf bg-near-black">
+  <main class="cf">
     <div class="fl w-100 ph4 bg-white near-black">
       <h1 class="f2 f-subheadline-m f-headline-l mt4 mb2 ttu tracked-tight helvetica ">{{ .Site.Params.title }}</h1>
       <p class="f1-ns f3 mt1 mb0 pt0 pb3 b helvetica">{{ $.Site.Params.description }}</p>
@@ -16,5 +16,5 @@
             {{ end }}
             </ul>
     </div>
-  </article>
+  </main>
 {{ partial "footer.html" . }}
