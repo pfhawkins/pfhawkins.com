@@ -22,7 +22,7 @@ the higher the odds your decisions are the right ones. Everyone likes to make
 the right decisions. Few things are as truly satisfying.
 
 That said, most data are crap. If they're not inaccurate then they draw your
-focus to teh wrong thing. Instead of basing your decisions on what it is
+focus to the wrong thing. Instead of basing your decisions on what it is
 you're actually doing, you're basing them on a reading of the effects they had
 the last time you did them.
 
