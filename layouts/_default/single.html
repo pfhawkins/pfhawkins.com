@@ -4,12 +4,12 @@
             <div class="title-container">
                 {{ partial "page-heading" . }}
             </div>
-            <div class="f5 f4-ns georgia lh-copy measure ">
+            <div class="f5 f4-ns helvetica lh-copy measure ">
               {{ range .Params.categories }}
                 {{ if eq . "essay"}}
-                <p class="f2 f2-ns i b mt1">an <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="f2 f2-ns i b mt1 georgia">an <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
               {{ else }}
-                <p class="f2 f2-ns i b mt1">a <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="f2 f2-ns i b mt1 georgia">a <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
                 {{ end }}
               {{ end }}
               <div class="nested-links">
