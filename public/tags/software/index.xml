@@ -1,78 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/tags/software/</link>
-    <description>Recent content in Software on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Software on </title>
+    <link>http://localhost:1315/tags/software/</link>
+    <description>Recent content in Software on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Jun 2008 08:19:31 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 19 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1315/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Fling With Mixel</title>
+      <link>http://localhost:1315/2012/01/19/my-fling-with-mixel/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/2012/01/19/my-fling-with-mixel/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IN WHICH Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-mixel&#34;&gt;On Mixel&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mixel.cc&#34; title=&#34;Mixel&#34;&gt;Mixel&lt;/a&gt; confounds me as a piece of software that shines so brightly, the shadows of its flaws are made proportionately more apparent.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1315/images/mixel/yeti.jpg&#34; alt=&#34;A Yeti walks in the snowy woods&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mixel is an iPad app for making collages that has the whole &amp;ldquo;social networking&amp;rdquo; thing baked into its DNA.&lt;/p&gt;&#xA;&lt;p&gt;Making a collage feels like something the iPad was &lt;em&gt;born&lt;/em&gt; to do. Swipe swipe, swipe swipe, tap, swipe, BOOM! ART! I am not an artist by training or temperament, although I do doodle extensively in the margins of my notebooks. Using a pile of raw ingredients and the few methods mixel provides for manipulating them, I can create something that, if it isn&amp;rsquo;t art, looks and feels like &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Paradigmatic Computational Constructs</title>
-      <link>http://pfhawkins.com/2008/06/18/paradigmatic-computational-constructs/</link>
+      <link>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</link>
       <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2008/06/18/paradigmatic-computational-constructs/</guid>
-      <description>&lt;p&gt;Bits byte the address space&lt;br /&gt;
-All round the spinning plate,&lt;br /&gt;
-In the Mathematic place;&lt;/p&gt;
-
-&lt;p&gt;Objects soon instantiate;&lt;br /&gt;
-Network packets rush to take;&lt;br /&gt;
-Threads start to bifurcate;&lt;/p&gt;
-
-&lt;p&gt;Dot/configure and and make;&lt;br /&gt;
-Computation filled with grace.&lt;br /&gt;
-Unto us, Von Neumann spake.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</guid>
+      <description>&lt;p&gt;Bits byte the address space&lt;br&gt;&#xA;All round the spinning plate,&lt;br&gt;&#xA;In the Mathematic place;&lt;/p&gt;&#xA;&lt;p&gt;Objects soon instantiate;&lt;br&gt;&#xA;Network packets rush to take;&lt;br&gt;&#xA;Threads start to bifurcate;&lt;/p&gt;&#xA;&lt;p&gt;Dot/configure and and make;&lt;br&gt;&#xA;Computation filled with grace.&lt;br&gt;&#xA;Unto us, Von Neumann spake.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How I Came to Love Emacs</title>
-      <link>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</link>
+      <link>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</link>
       <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</guid>
-      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;
-
-&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to
-highspeed internet that I had hitherto experienced. Which upped my time
-surfing the web. One of the delightful sites I lighted upon was
-&lt;a href=&#34;http://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;http://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs
-Notepad&lt;/a&gt;. I was intrigued. Having
-exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
-this Emacs thingy sounded fascinating. I downloaded a Windows version right
-away.&lt;/p&gt;
-
-&lt;p&gt;I soon found that the Windows port of Emacs was stuck on version 19, and the
-rest of the Emacs-lovin&amp;rsquo; universe was using version 21 on some posix-compliant
-operating system. I decided to hope and pray that soon the Emacs developers
-would take a little time out to help us poor souls using Windows.&lt;/p&gt;
-
-&lt;p&gt;It was a long wait. A long wait in which &lt;em&gt;I could not get LaTeX to work&lt;/em&gt;. So
-long, in fact, that the next fall, with the aid of a new dorm-mate, I dual-
-booted Red Hat 9 Linux.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s great about Emacs, and about free software in general, is that I have
-as much control as I desire over my computer. I haven&amp;rsquo;t taken the time to
-install Linux from scratch, but if I wanted to, the tools are there, and there
-aren&amp;rsquo;t any proprietary hindrances or DRM snafus to thwart my progress. My
-limited ability to understand maths may hinder me, but my software isn&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;So actually, I am indebted to Emacs for not only making my computing life much
-easier and more productive, but from freeing me from the limitations of
-Microsoft. Although I see I didn&amp;rsquo;t really describe just how it has made my
-computing life easier, or more productive. I&amp;rsquo;ll have to remedy that in a
-future post.&lt;/p&gt;
-
-&lt;p&gt;DISCLAIMER: I never said it was a good story of a man and his favorite text
-editor.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;&#xA;&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to&#xA;highspeed internet that I had hitherto experienced. Which upped my time&#xA;surfing the web. One of the delightful sites I lighted upon was&#xA;&lt;a href=&#34;https://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;https://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs&#xA;Notepad&lt;/a&gt;. I was intrigued. Having&#xA;exclusively used Word (and Notepad to edit HTML - ha!) up until that point,&#xA;this Emacs thingy sounded fascinating. I downloaded a Windows version right&#xA;away.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medium and the Message on </title>
+    <link>http://localhost:1315/tags/medium-and-the-message/</link>
+    <description>Recent content in Medium and the Message on </description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1315/tags/medium-and-the-message/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Gamification of Storytelling</title>
+      <link>http://localhost:1315/2012/01/25/the-gamification-of-storytelling/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/2012/01/25/the-gamification-of-storytelling/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IN WHICH Story meets Technology, and they exchange Awkward&#xA;Pleasantries&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I kept &lt;a href=&#34;https://blog.usabilla.com/why-we-need-better-tools-to-tell-stories-with/&#34;&gt;this blog post about using technology to tell stories&lt;/a&gt; by Jurian Baas around because the underlying premise got under my skin. From the article:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;…the connectedness and interactive nature of the Internet can not only give us multimedia experiences, but also change the way we interact with text, our most basic manner of communicating after speech. I totally agree with Bret Victor on this: “People currently think of text as information to be consumed. I want text to be an environment to think in“.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

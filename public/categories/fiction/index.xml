@@ -1,149 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fiction on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/categories/fiction/</link>
-    <description>Recent content in Fiction on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Fiction on </title>
+    <link>http://localhost:1315/categories/fiction/</link>
+    <description>Recent content in Fiction on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Jan 2009 10:48:56 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>On Finding a Document Production Workflow for Emacs</title>
-      <link>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
-      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
-      <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward
-accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other
-externalities used to support this endeavor.&lt;/p&gt;
-
-&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;
-
-&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions
-from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;
-
-&lt;p&gt;If fictions were primarily distributed and displayed as &lt;a href=&#34;http://www.gutenberg.org/catalog/&#34;&gt;plain-text
-files&lt;/a&gt;, I&amp;rsquo;d be good to go. They aren&amp;rsquo;t, and
-I would like to at least attempt to send this higher up the food chain, ending
-in either a Microsoft Word Document or PDF.&lt;/p&gt;
-
-&lt;p&gt;Say, LaTeX makes some nice pdfs. While it manifestly does not suck, and
-&lt;a href=&#34;http://www.gnu.org/software/auctex/&#34;&gt;AucTeX&lt;/a&gt; is the bee&amp;rsquo;s knees, I want to do
-whatever I can in the way of premature optimization to tilt the ratio of
-writing to formatting heavily in writing&amp;rsquo;s favor. LaTeX is formatting heavy,
-so I&amp;rsquo;d like to avoid that.&lt;/p&gt;
-
-&lt;p&gt;Docbook XML also suffers from the same issue. It is a well-specced and quite
-nice document format. And while &lt;a href=&#34;http://www.emacswiki.org/emacs/NxmlMode&#34;&gt;nxml-
-mode&lt;/a&gt; is bar-none the premier way to
-edit straight XML, sorry, it ain&amp;rsquo;t happening.&lt;/p&gt;
-
-&lt;p&gt;So, what essentially plain-text formats can I convert to either LaTeX or
-Docbook XML, which I can then use to produce my output format of choice? As of
-this writing, I see three viable options:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://orgmode.org/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mwolson.org/projects/EmacsMuse.html&#34;&gt;muse-mode&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://markdown.infogami.com/&#34;&gt;markdown&lt;/a&gt; and &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;pandoc&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;org-mode ships with emacs, and is great. Writing novels in it would be
-orthogonal to its original purpose in note-taking and agenda-organizing. It
-only exports LaTeX/PDF, not Docbook. While it may work, I think successive
-options are more promising.&lt;/p&gt;
-
-&lt;p&gt;muse-mode is designed from the ground up for publishing, not note-taking. It
-exports both LaTeX and Docbook. This would probably be my first choice, except
-for one thing: its wiki syntax.&lt;/p&gt;
-
-&lt;p&gt;It seems asinine of me to start complaining about a wiki syntax now. I mean,
-isn&amp;rsquo;t that the whole point of this exercise, to find a wiki-like syntax I can
-convert from? Right. I&amp;rsquo;m not complaining about &lt;strong&gt;a&lt;/strong&gt; wiki syntax, I&amp;rsquo;m
-complaining about &lt;strong&gt;this&lt;/strong&gt; wiki syntax. All in all it&amp;rsquo;s not necessarily a bad
-one, but it is a domain-specific language for this mode only. &lt;a href=&#34;http://blog.wired.com/monkeybites/2008/05/a-million-littl.html&#34;&gt;It enjoys no
-reuse outside of this particular
-application.&lt;/a&gt;
-If the third option didn&amp;rsquo;t exist, I&amp;rsquo;d probably use it anyway.&lt;/p&gt;
-
-&lt;p&gt;But we have markdown, and the magical frobnicator that frobnicates markdown
-into a potpourri of other formats: namely, pandoc. &lt;a href=&#34;http://jblevins.org/projects/markdown-mode/&#34;&gt;Markdown
-mode&lt;/a&gt; is pretty handy, and I&amp;rsquo;ll
-probably end up writing a simple minor-mode or git-hook bash script for
-automating the pandoc conversions.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll let you know how this turns out.&lt;/p&gt;
-</description>
-    </item>
-    
+    <lastBuildDate>Mon, 22 Sep 2008 16:00:43 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1315/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sombriety</title>
-      <link>http://pfhawkins.com/2008/09/22/sombriety/</link>
+      <link>http://localhost:1315/2008/09/22/sombriety/</link>
       <pubDate>Mon, 22 Sep 2008 16:00:43 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2008/09/22/sombriety/</guid>
-      <description>&lt;p&gt;&amp;ldquo;You&amp;rsquo;re too funny.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Why? What did I do?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;She was laughing too hard to be taken aback. &amp;ldquo;What do you mean?&amp;rdquo; Snort.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;If I was &lt;em&gt;too&lt;/em&gt; funny, then I wasn&amp;rsquo;t &lt;em&gt;just the right amount&lt;/em&gt; of funny. When
-did I cross the line?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Her hysterics subsided. &amp;ldquo;I&amp;rsquo;m not sure.&amp;rdquo; She instinctively reached for his
-hand.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;I simply showed you the comic, which I thought was simply funny, and then
-reiterated that I like the man in the last panel would be thinking about how
-the bear might defend himself from&amp;hellip;&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;She interrupted. &amp;ldquo;Don&amp;rsquo;t, you&amp;rsquo;ll kill it,&amp;rdquo; she said, her face drawing down into
-a pout.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;But I thought I did kill it; I went too far.&amp;rdquo; He very nearly looked her full
-in the face.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Now you have.&amp;rdquo; She actively avoided his stare.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;So I hadn&amp;rsquo;t before?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;I was laughing my fool head off!&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;But you said I was &lt;em&gt;too&lt;/em&gt; funny.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;God!&amp;rdquo; she blasphemed loudly enough for other passengers to hear. &amp;ldquo;Did you not
-catch the emphasis you just repeated back to me? You&amp;rsquo;re too funny doesn&amp;rsquo;t mean
-you&amp;rsquo;re &lt;em&gt;excessively&lt;/em&gt; funny, just that I find you &lt;em&gt;very&lt;/em&gt; funny.&amp;rdquo; She lightly
-punched him in the should; he was oblivious to it. He was too busy thinking.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Oh,&amp;rdquo; he said after a while. &amp;ldquo;I think I blew it.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Yes.&amp;rdquo; She was looking straight ahead. &amp;ldquo;Yes you did.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;I suppose now isn&amp;rsquo;t the time to talk about marriage then.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;I suppose not,&amp;rdquo; she said. &amp;ldquo;I thought we were going to have a nice discussion
-about it.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;On a bus? Because I showed you a comic strip?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Why on earth must you always do this?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Do what?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;One minute you&amp;rsquo;re hilarious and then you&amp;rsquo;re still huggable but then you&amp;rsquo;re
-still so serious about everything it just&amp;hellip; you eat moments like zombies eat
-brains.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Unthinkingly?&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;She burst out laughing and whacked his chest with her purse.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2008/09/22/sombriety/</guid>
+      <description>&lt;p&gt;&amp;ldquo;You&amp;rsquo;re too funny.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Why? What did I do?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;She was laughing too hard to be taken aback. &amp;ldquo;What do you mean?&amp;rdquo; Snort.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;If I was &lt;em&gt;too&lt;/em&gt; funny, then I wasn&amp;rsquo;t &lt;em&gt;just the right amount&lt;/em&gt; of funny. When&#xA;did I cross the line?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Her hysterics subsided. &amp;ldquo;I&amp;rsquo;m not sure.&amp;rdquo; She instinctively reached for his&#xA;hand.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;I simply showed you the comic, which I thought was simply funny, and then&#xA;reiterated that I like the man in the last panel would be thinking about how&#xA;the bear might defend himself from&amp;hellip;&amp;rdquo;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,97 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vim on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/tags/vim/</link>
-    <description>Recent content in Vim on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Vim on </title>
+    <link>http://localhost:1315/tags/vim/</link>
+    <description>Recent content in Vim on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Sep 2009 07:35:56 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/tags/vim/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://localhost:1315/tags/vim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IN WHICH I Stump for Vi</title>
-      <link>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</link>
+      <link>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</link>
       <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2009/09/02/in-which-i-stump-for-vi/</guid>
-      <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece
-explaining &lt;a href=&#34;http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings/&#34;&gt;why you need to know vi
-keybindings.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece&#xA;explaining &lt;a href=&#34;https://web.archive.org/web/20091202043219/http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings&#34;&gt;why you need to know vi&#xA;keybindings.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How I Use Emacs</title>
-      <link>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</link>
+      <link>http://localhost:1315/2007/10/15/how-i-use-emacs/</link>
       <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2007/10/15/how-i-use-emacs/</guid>
-      <description>
-
-&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious
-amounts of prose, linking it together in all sorts of interesting and helpful
-ways, and basically revolutionizing the way I experienced computers. But most
-of all, I had a new and urgent desire to do everything from the keyboard in a
-blazingly efficient manner.&lt;/p&gt;
-
-&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I
-developed some slightly inefficient workflows (copying and pasting from text
-documents into OpenOffice documents, editing the original text file based on
-whatever page length I was going for, rinse and repeat until paper is
-produced) that were, on the whole, a net gain due to the speed of typing
-without mousing. The linux filesystem positively danced under my fingertips. I
-had more control over my system than I had ever had on Windows.&lt;/p&gt;
-
-&lt;p&gt;I progressed to producing documents and drafts in LaTeX. While it&amp;rsquo;s a bit
-arcane, using Emacs with AUCTeX made writing LaTeX arguably faster (and
-certainly prettier) than writing in Microsoft Word. My long-held desire,
-though, was to &lt;em&gt;learn a programming language&lt;/em&gt; (I chose python) and &lt;em&gt;code my
-own Content Management System&lt;/em&gt;. Events in meatspace have conspired against me
-acheiving that goal up to this point; now I am making progress. I can&amp;rsquo;t
-imagine working in any other editor. Oh wait: I can. I switched to vim for
-four months earlier this year.&lt;/p&gt;
-
-&lt;h3 id=&#34;yes-i-tried-vim&#34;&gt;Yes, I tried Vim&lt;/h3&gt;
-
-&lt;p&gt;You heard me: I tried vim. My main motivation was a bout of Emacs Pinky. My
-left pinky occasionally gets sore if I spend too much time on the laptop. At
-the time I attributed it to the control sequences that Emacs uses, but now I&amp;rsquo;m
-more aware that it&amp;rsquo;s just that my laptop has an inelegant and potentially
-harmful keyboard. If I use an ergonomic keyboard with Emacs, I&amp;rsquo;m fine.&lt;/p&gt;
-
-&lt;p&gt;Vim was fine. It&amp;rsquo;s a great text editor. If you want a powerful text editor,
-your two choices are vim and Emacs, and though I prefer Emacs, I won&amp;rsquo;t fault
-you for choosing vim. It does some fantabulous things. You can script it in
-python, for example. But scripting vim in python feels a &lt;strong&gt;lot&lt;/strong&gt; like
-scripting Emacs in python; there&amp;rsquo;s a lot of cruft, and it doesn&amp;rsquo;t play well
-with the innards of the system like elisp does. And there were all these
-little things that I missed.&lt;/p&gt;
-
-&lt;h3 id=&#34;what-i-m-doing-with-emacs-now&#34;&gt;What I&amp;rsquo;m Doing With Emacs Now&lt;/h3&gt;
-
-&lt;p&gt;I&amp;rsquo;m evolving into the type of person who tries to do as much as possible
-inside Emacs. Here&amp;rsquo;s a partial list of how I use it now:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Email client&lt;/li&gt;
-&lt;li&gt;Personal Planner&lt;/li&gt;
-&lt;li&gt;Coding environment for my as-yet-unfinished CMS&lt;/li&gt;
-&lt;li&gt;Twitter&lt;/li&gt;
-&lt;li&gt;Writing Fiction&lt;/li&gt;
-&lt;li&gt;irc&lt;/li&gt;
-&lt;li&gt;limited web browsing (mostly online APIs for the python libraries I&amp;rsquo;m investigating)&lt;/li&gt;
-&lt;li&gt;World Domination
-Okay, I really haven&amp;rsquo;t used Emacs for world domination yet. But as I was
-reading &lt;a href=&#34;http://www.amazon.com/gp/product/0812579844?ie=UTF8&amp;amp;t
-ag=phawkcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0812579844&#34;&gt;The Golden Age&lt;/a&gt;,
-I was slightly disappointed when he was naming some of the far-future self-
-aware AI characters, and Emacs didn&amp;rsquo;t make the list.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://localhost:1315/2007/10/15/how-i-use-emacs/</guid>
+      <description>&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious&#xA;amounts of prose, linking it together in all sorts of interesting and helpful&#xA;ways, and basically revolutionizing the way I experienced computers. But most&#xA;of all, I had a new and urgent desire to do everything from the keyboard in a&#xA;blazingly efficient manner.&lt;/p&gt;&#xA;&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I&#xA;developed some slightly inefficient workflows (copying and pasting from text&#xA;documents into OpenOffice documents, editing the original text file based on&#xA;whatever page length I was going for, rinse and repeat until paper is&#xA;produced) that were, on the whole, a net gain due to the speed of typing&#xA;without mousing. The linux filesystem positively danced under my fingertips. I&#xA;had more control over my system than I had ever had on Windows.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

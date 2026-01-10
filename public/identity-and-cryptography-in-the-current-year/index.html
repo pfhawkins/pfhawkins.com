@@ -1,143 +1,42 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="A Personal Web Log">
-
-<base href="http://pfhawkins.com/">
-<title>
-
-
-     Identity and Cryptography in the Current Year 
-
-</title>
-<link rel="canonical" href="http://pfhawkins.com/identity-and-cryptography-in-the-current-year/">
-
-
-<script type="text/javascript">
-    var baseURL = 'http:\/\/pfhawkins.com\/';
-    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
-    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
-        window.location.protocol = 'https:';
-    }
-</script>
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="http://pfhawkins.com/css/reset.css">
-<link rel="stylesheet" href="http://pfhawkins.com/css/pygments.css">
-<link rel="stylesheet" href="http://pfhawkins.com/css/main.css">
-
-
-    <link rel="stylesheet" href="http://pfhawkins.com/css/override.css">
-
-
-
-
-
-<link rel="shortcut icon"
-
-    href="http://pfhawkins.com/img/leaf.ico"
-
->
-
-
-
-
-
-
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1315&amp;path=livereload" data-no-instant defer></script>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+  <base href="http://localhost:1315/">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>
+  
+  
+       Identity and Cryptography in the Current Year 
+  
+  </title>
+  <link rel="canonical" href="http://localhost:1315/identity-and-cryptography-in-the-current-year/">
+  <link href="" rel="alternate" type="application/rss+xml" title="" />
+  <link href="" rel="feed" type="application/rss+xml" title="" />
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
 </head>
 
 
-<body lang="en">
-
-<section class="header"> 
-    <div class="container">
-        <div class="content">
-            
-            <a href="http://pfhawkins.com/"><div class="name">P.F. Hawkins</div></a>
-            <nav>
-                <ul>
-                    <a href="http://pfhawkins.com/blog/"><li>Blog</li></a>
-                    <a href="http://pfhawkins.com/about/"><li>About</li></a>
-                    
-                </ul>
-            </nav>
-        </div>
-    </div>
-</section>
-
-<section class="icons">
-    <div class="container">
-        <div class="content">
-
-        
-            <a href="//github.com/pfhawkins" target="_blank">
-                <i class="icon ion-social-github"></i>
-            </a>
-        
-        
-        
-            <a href="//twitter.com/pfhawkins" target="_blank">
-                <i class="icon ion-social-twitter"></i>
-            </a>
-        
-
-        
-            <a href="//linkedin.com/in/patrickhawkins1" target="_blank">
-                <i class="icon ion-social-linkedin"></i>
-            </a>
-        
-
-        
-
-        
-
-        
-            <a href="mailto:pf@pfhawkins.com">
-                <i class="icon ion-ios-email larger"></i>
-            </a>
-        
-
-        
-            <a href="http://pfhawkins.com/index.xml">
-                <i class="icon ion-social-rss larger"></i>
-            </a>
-        
-        </div>
-    </div>
-</section>
+<body lang="en" class="bg-white ba bw4-ns bw0 b--lightest-blue">
 
 
-<section class="main post non-narrow zero-top-spacing">
-    <div class="container">
-        <div class="content">
-            <div class="front-matter">
-                <div class="title-container">
-                    <div class="page-heading">
+<main class="w-100 mw-100 center pa4 pa5-ns bg-white">
+            <div class="title-container">
+                <div class="">
 
-    Identity and Cryptography in the Current Year
+    <h1 class="f2 f-subheadline-m f-headline-l b helvetica mt0 near-black lh-title mb0">Identity and Cryptography in the Current Year</h1>
 
 </div>
 
-                    <div class="initials"><a href="http://pfhawkins.com/"></a></div>
-                </div>
-                <div class="meta">
-                    <div class="date" title="Sun Nov 20 2016 20:18:29 &#43;0000">Nov 20, 2016</div>
-                    <div class="reading-time"><div class="middot"></div>3 minutes read</div>
-                </div>
             </div>
-            <div class="markdown">
+            <div class="f5 f4-ns helvetica lh-copy measure ">
+              
+                
+                <p class="f2 f2-ns i b mt1 georgia">an <a class="link dim red" href="https://pfhawkins.com/categories/essay/"> essay </a></p>
+              
+              
+              <div class="nested-links">
                 <p>I&rsquo;ve got about three different lead-ins to this post rattling around my head.
 There&rsquo;s the &ldquo;we don&rsquo;t have flying cars, but we have public-key cryptography
 that isn&rsquo;t completely terrible&rdquo; angle. There&rsquo;s the &ldquo;truly we are living
@@ -145,16 +44,14 @@ in a William Gibson novel&rdquo; angle. But I think I&rsquo;ll take the &ldquo;h
 about how <a href="https://en.wikipedia.org/wiki/Public-key_cryptography">public-key cryptography</a>
 is being used right this second&rdquo; angle.
 Everybody loves a good anecdote, right?</p>
-
 <p>So there&rsquo;s this fellow by the name of <a href="https://keybase.io/microchip">Michael Anderson</a>.
 Big alt-right Trump
 supporter type. He tends to approach Twitter the way Leroy Jenkins approaches
 WoW raids: big, loud, and in a way that aggravates a large number of the party.
 Mr. Anderson has had his account banned repeatedly, both before and after Twitter&rsquo;s
-recent <a href="http://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html">purges of alt-right accounts</a>.
+recent <a href="https://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html">purges of alt-right accounts</a>.
 But every time his account is suspended for good, he makes a new account and keeps
 on trucking.</p>
-
 <p>If you or I had to start a new twitter account, it would take us quite a while
 to get the word out that the new account is actually a replacement for the old
 account. It would likely take
@@ -164,15 +61,11 @@ But MicroTurkeyLeaks&rsquo; few thousand followers
 are able to easily find his latest account, even though he&rsquo;s cycled
 through as many as three accounts in a <em>single day</em>. And what&rsquo;s more, they&rsquo;re
 almost positive it&rsquo;s his, even without a blue checkmark.</p>
-
 <p>How does he manage this impressive feat? <a href="https://keybase.io">keybase.io</a>.</p>
-
 <p>Keybase describes itself thusly:</p>
-
 <blockquote>
 <p>Keybase maps your identity to your public keys, and vice versa.</p>
 </blockquote>
-
 <p>Traditional use of PGP (the most popular form of public-key cryptography)
 requires <a href="https://en.wikipedia.org/wiki/Key_signing_party">key-signing parties</a>
 in real life in order for people to vouch for each other&rsquo;s PGP identities.
@@ -182,44 +75,44 @@ in keybase&rsquo;s system, you can then sign proofs on various social media acco
 as well as any websites you run. Others <a href="https://keybase.io/docs/server_security/following">can then review and sign off on those
 proofs</a>, building a web of
 trust much more easily than with straight PGP.</p>
-
 <p>I&rsquo;ve set up a <a href="https://keybase.io/pfhawkins">keybase profile for P.F. Hawkins</a>.
 I cannot stress enough that not only has much thought been put into the system,
 but it&rsquo;s been the <em>right</em> thought. The process was streamlined, the UX intuitive,
 the copy understandable and engaging… I&rsquo;ll stop gushing over it sometime, I
 suppose, but only when it (or a system like it) becomes <em>de rigueur</em>.</p>
-
 <p>We don&rsquo;t have flying cars, but we now have non-terrible public-key cryptography.
 Truly we are living in a William Gibson novel.</p>
+<!-- raw HTML omitted -->
 
+              </div>
                 <br>
-                <p><a href="http://pfhawkins.com/blog/">Back to posts</a></p>
+                    <div class="f5 lh-copy helvetica" title="Sun Nov 20 2016 20:18:29 EST">
+                      <p>P.F. Hawkins<br/>2016-11-20</p>
+                    </div>
+
+            <ul class="list pa0 helvetica">
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/cryptography/">Cryptography</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/identity/">Identity</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/keybase/">Keybase</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/pgp/">PGP</a></li>
+              
+            </ul>
+
+                <p class="helvetica"><a class="blue link dim" href="/">Back to posts</a></p>
             </div>
             <br>
-            <div class="disqus">
-                
-            </div>
-        </div>
-    </div>
-</section>
+</main>
 
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.0.0/quicklink.umd.js"></script>
+<script>
+window.addEventListener('load', () => {
+  quicklink.listen();
+});
 </script>
-<script type="text/javascript">
-try {
-    var pageTracker = _gat._getTracker("XYZ");
-    pageTracker._trackPageview();
-} catch(err) {}
-</script>
-
-
-
-
-
 </body>
 </html>
 

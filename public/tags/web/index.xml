@@ -1,58 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/tags/web/</link>
-    <description>Recent content in Web on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Web on </title>
+    <link>http://localhost:1315/tags/web/</link>
+    <description>Recent content in Web on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 10 Oct 2007 11:25:26 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://localhost:1315/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Came to Love Emacs</title>
-      <link>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</link>
+      <link>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</link>
       <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/</guid>
-      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;
-
-&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to
-highspeed internet that I had hitherto experienced. Which upped my time
-surfing the web. One of the delightful sites I lighted upon was
-&lt;a href=&#34;http://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;http://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs
-Notepad&lt;/a&gt;. I was intrigued. Having
-exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
-this Emacs thingy sounded fascinating. I downloaded a Windows version right
-away.&lt;/p&gt;
-
-&lt;p&gt;I soon found that the Windows port of Emacs was stuck on version 19, and the
-rest of the Emacs-lovin&amp;rsquo; universe was using version 21 on some posix-compliant
-operating system. I decided to hope and pray that soon the Emacs developers
-would take a little time out to help us poor souls using Windows.&lt;/p&gt;
-
-&lt;p&gt;It was a long wait. A long wait in which &lt;em&gt;I could not get LaTeX to work&lt;/em&gt;. So
-long, in fact, that the next fall, with the aid of a new dorm-mate, I dual-
-booted Red Hat 9 Linux.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s great about Emacs, and about free software in general, is that I have
-as much control as I desire over my computer. I haven&amp;rsquo;t taken the time to
-install Linux from scratch, but if I wanted to, the tools are there, and there
-aren&amp;rsquo;t any proprietary hindrances or DRM snafus to thwart my progress. My
-limited ability to understand maths may hinder me, but my software isn&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;So actually, I am indebted to Emacs for not only making my computing life much
-easier and more productive, but from freeing me from the limitations of
-Microsoft. Although I see I didn&amp;rsquo;t really describe just how it has made my
-computing life easier, or more productive. I&amp;rsquo;ll have to remedy that in a
-future post.&lt;/p&gt;
-
-&lt;p&gt;DISCLAIMER: I never said it was a good story of a man and his favorite text
-editor.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;&#xA;&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to&#xA;highspeed internet that I had hitherto experienced. Which upped my time&#xA;surfing the web. One of the delightful sites I lighted upon was&#xA;&lt;a href=&#34;https://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;https://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs&#xA;Notepad&lt;/a&gt;. I was intrigued. Having&#xA;exclusively used Word (and Notepad to edit HTML - ha!) up until that point,&#xA;this Emacs thingy sounded fascinating. I downloaded a Windows version right&#xA;away.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

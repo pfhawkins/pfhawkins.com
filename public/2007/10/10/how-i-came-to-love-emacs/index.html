@@ -1,208 +1,103 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="chrome=1">
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="A Personal Web Log">
-
-<base href="http://pfhawkins.com/">
-<title>
-
-
-     How I Came to Love Emacs 
-
-</title>
-<link rel="canonical" href="http://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/">
-
-
-<script type="text/javascript">
-    var baseURL = 'http:\/\/pfhawkins.com\/';
-    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
-    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
-        window.location.protocol = 'https:';
-    }
-</script>
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="http://pfhawkins.com/css/reset.css">
-<link rel="stylesheet" href="http://pfhawkins.com/css/pygments.css">
-<link rel="stylesheet" href="http://pfhawkins.com/css/main.css">
-
-
-    <link rel="stylesheet" href="http://pfhawkins.com/css/override.css">
-
-
-
-
-
-<link rel="shortcut icon"
-
-    href="http://pfhawkins.com/img/leaf.ico"
-
->
-
-
-
-
-
-
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1315&amp;path=livereload" data-no-instant defer></script>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+  <base href="http://localhost:1315/">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <title>
+  
+  
+       How I Came to Love Emacs 
+  
+  </title>
+  <link rel="canonical" href="http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/">
+  <link href="" rel="alternate" type="application/rss+xml" title="" />
+  <link href="" rel="feed" type="application/rss+xml" title="" />
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
 </head>
 
 
-<body lang="en">
-
-<section class="header"> 
-    <div class="container">
-        <div class="content">
-            
-            <a href="http://pfhawkins.com/"><div class="name">P.F. Hawkins</div></a>
-            <nav>
-                <ul>
-                    <a href="http://pfhawkins.com/blog/"><li>Blog</li></a>
-                    <a href="http://pfhawkins.com/about/"><li>About</li></a>
-                    
-                </ul>
-            </nav>
-        </div>
-    </div>
-</section>
-
-<section class="icons">
-    <div class="container">
-        <div class="content">
-
-        
-            <a href="//github.com/pfhawkins" target="_blank">
-                <i class="icon ion-social-github"></i>
-            </a>
-        
-        
-        
-            <a href="//twitter.com/pfhawkins" target="_blank">
-                <i class="icon ion-social-twitter"></i>
-            </a>
-        
-
-        
-            <a href="//linkedin.com/in/patrickhawkins1" target="_blank">
-                <i class="icon ion-social-linkedin"></i>
-            </a>
-        
-
-        
-
-        
-
-        
-            <a href="mailto:pf@pfhawkins.com">
-                <i class="icon ion-ios-email larger"></i>
-            </a>
-        
-
-        
-            <a href="http://pfhawkins.com/index.xml">
-                <i class="icon ion-social-rss larger"></i>
-            </a>
-        
-        </div>
-    </div>
-</section>
+<body lang="en" class="bg-white ba bw4-ns bw0 b--lightest-blue">
 
 
-<section class="main post non-narrow zero-top-spacing">
-    <div class="container">
-        <div class="content">
-            <div class="front-matter">
-                <div class="title-container">
-                    <div class="page-heading">
+<main class="w-100 mw-100 center pa4 pa5-ns bg-white">
+            <div class="title-container">
+                <div class="">
 
-    How I Came to Love Emacs
+    <h1 class="f2 f-subheadline-m f-headline-l b helvetica mt0 near-black lh-title mb0">How I Came to Love Emacs</h1>
 
 </div>
 
-                    <div class="initials"><a href="http://pfhawkins.com/"></a></div>
-                </div>
-                <div class="meta">
-                    <div class="date" title="Wed Oct 10 2007 11:25:26 UTC">Oct 10, 2007</div>
-                    <div class="reading-time"><div class="middot"></div>2 minutes read</div>
-                </div>
             </div>
-            <div class="markdown">
+            <div class="f5 f4-ns helvetica lh-copy measure ">
+              
+                
+                <p class="f2 f2-ns i b mt1 georgia">an <a class="link dim red" href="https://pfhawkins.com/categories/essay/"> essay </a></p>
+              
+              
+              <div class="nested-links">
                 <p>This is the story of a man and his favorite text editor.</p>
-
 <p>In 2001, I was a freshman in college, which meant the closest thing to
 highspeed internet that I had hitherto experienced. Which upped my time
 surfing the web. One of the delightful sites I lighted upon was
-<a href="http://ftrain.com">Ftrain.</a></p>
-
-<p>One day, I dug through Ftrain&rsquo;s archives and found <a href="http://ftrain.com/util_emacs_hints.html">Emacs
+<a href="https://ftrain.com">Ftrain.</a></p>
+<p>One day, I dug through Ftrain&rsquo;s archives and found <a href="https://ftrain.com/util_emacs_hints.html">Emacs
 Notepad</a>. I was intrigued. Having
 exclusively used Word (and Notepad to edit HTML - ha!) up until that point,
 this Emacs thingy sounded fascinating. I downloaded a Windows version right
 away.</p>
-
 <p>I soon found that the Windows port of Emacs was stuck on version 19, and the
 rest of the Emacs-lovin&rsquo; universe was using version 21 on some posix-compliant
 operating system. I decided to hope and pray that soon the Emacs developers
 would take a little time out to help us poor souls using Windows.</p>
-
 <p>It was a long wait. A long wait in which <em>I could not get LaTeX to work</em>. So
 long, in fact, that the next fall, with the aid of a new dorm-mate, I dual-
 booted Red Hat 9 Linux.</p>
-
 <p>What&rsquo;s great about Emacs, and about free software in general, is that I have
 as much control as I desire over my computer. I haven&rsquo;t taken the time to
 install Linux from scratch, but if I wanted to, the tools are there, and there
 aren&rsquo;t any proprietary hindrances or DRM snafus to thwart my progress. My
 limited ability to understand maths may hinder me, but my software isn&rsquo;t.</p>
-
 <p>So actually, I am indebted to Emacs for not only making my computing life much
 easier and more productive, but from freeing me from the limitations of
 Microsoft. Although I see I didn&rsquo;t really describe just how it has made my
 computing life easier, or more productive. I&rsquo;ll have to remedy that in a
 future post.</p>
-
 <p>DISCLAIMER: I never said it was a good story of a man and his favorite text
 editor.</p>
 
+              </div>
                 <br>
-                <p><a href="http://pfhawkins.com/blog/">Back to posts</a></p>
+                    <div class="f5 lh-copy helvetica" title="Wed Oct 10 2007 11:25:26 EST">
+                      <p>P.F. Hawkins<br/>2007-10-10</p>
+                    </div>
+
+            <ul class="list pa0 helvetica">
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/editor/">Editor</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/emacs/">Emacs</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/linux/">Linux</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/software/">Software</a></li>
+              
+              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="http://localhost:1315/tags/web/">Web</a></li>
+              
+            </ul>
+
+                <p class="helvetica"><a class="blue link dim" href="/">Back to posts</a></p>
             </div>
             <br>
-            <div class="disqus">
-                
-            </div>
-        </div>
-    </div>
-</section>
+</main>
 
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+<script src="https://cdnjs.cloudflare.com/ajax/libs/quicklink/2.0.0/quicklink.umd.js"></script>
+<script>
+window.addEventListener('load', () => {
+  quicklink.listen();
+});
 </script>
-<script type="text/javascript">
-try {
-    var pageTracker = _gat._getTracker("XYZ");
-    pageTracker._trackPageview();
-} catch(err) {}
-</script>
-
-
-
-
-
 </body>
 </html>
 

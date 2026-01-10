@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>http://localhost:1315/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Jun 2020 14:36:07 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1315/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography</title>
+      <link>http://localhost:1315/tags/cryptography/</link>
+      <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
+      <guid>http://localhost:1315/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Identity</title>
+      <link>http://localhost:1315/tags/identity/</link>
+      <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
+      <guid>http://localhost:1315/tags/identity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keybase</title>
+      <link>http://localhost:1315/tags/keybase/</link>
+      <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
+      <guid>http://localhost:1315/tags/keybase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zoom</title>
+      <link>http://localhost:1315/tags/zoom/</link>
+      <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
+      <guid>http://localhost:1315/tags/zoom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PGP</title>
+      <link>http://localhost:1315/tags/pgp/</link>
+      <pubDate>Sun, 20 Nov 2016 20:18:29 +0000</pubDate>
+      <guid>http://localhost:1315/tags/pgp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Api</title>
+      <link>http://localhost:1315/tags/api/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hypertext</title>
+      <link>http://localhost:1315/tags/hypertext/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/hypertext/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperverses</title>
+      <link>http://localhost:1315/tags/hyperverses/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/hyperverses/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Literature</title>
+      <link>http://localhost:1315/tags/literature/</link>
+      <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/literature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ends</title>
+      <link>http://localhost:1315/tags/ends/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/ends/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>http://localhost:1315/tags/ethics/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Means</title>
+      <link>http://localhost:1315/tags/means/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/means/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Morality</title>
+      <link>http://localhost:1315/tags/morality/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/morality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1315/tags/philosophy/</link>
+      <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etymology</title>
+      <link>http://localhost:1315/tags/etymology/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/etymology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skynet</title>
+      <link>http://localhost:1315/tags/skynet/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/skynet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Words</title>
+      <link>http://localhost:1315/tags/words/</link>
+      <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/words/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medium and the Message</title>
+      <link>http://localhost:1315/tags/medium-and-the-message/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/medium-and-the-message/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narrative</title>
+      <link>http://localhost:1315/tags/narrative/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/narrative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>http://localhost:1315/tags/psychology/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Story</title>
+      <link>http://localhost:1315/tags/story/</link>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Art</title>
+      <link>http://localhost:1315/tags/art/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/art/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collage</title>
+      <link>http://localhost:1315/tags/collage/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/collage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://localhost:1315/tags/software/</link>
+      <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colophon</title>
+      <link>http://localhost:1315/tags/colophon/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/colophon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cringe</title>
+      <link>http://localhost:1315/tags/cringe/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/cringe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meta</title>
+      <link>http://localhost:1315/tags/meta/</link>
+      <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1315/tags/meta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laws</title>
+      <link>http://localhost:1315/tags/laws/</link>
+      <pubDate>Thu, 22 Sep 2011 16:39:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/laws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demon</title>
+      <link>http://localhost:1315/tags/demon/</link>
+      <pubDate>Tue, 14 Dec 2010 00:12:29 +0000</pubDate>
+      <guid>http://localhost:1315/tags/demon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hell</title>
+      <link>http://localhost:1315/tags/hell/</link>
+      <pubDate>Tue, 14 Dec 2010 00:12:29 +0000</pubDate>
+      <guid>http://localhost:1315/tags/hell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Highway</title>
+      <link>http://localhost:1315/tags/highway/</link>
+      <pubDate>Fri, 29 Jan 2010 06:37:15 +0000</pubDate>
+      <guid>http://localhost:1315/tags/highway/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1315/tags/emacs/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/emacs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keybindings</title>
+      <link>http://localhost:1315/tags/keybindings/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/keybindings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>http://localhost:1315/tags/vim/</link>
+      <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eternal Damnation</title>
+      <link>http://localhost:1315/tags/eternal-damnation/</link>
+      <pubDate>Thu, 06 Aug 2009 07:57:48 +0000</pubDate>
+      <guid>http://localhost:1315/tags/eternal-damnation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Film</title>
+      <link>http://localhost:1315/tags/film/</link>
+      <pubDate>Thu, 16 Jul 2009 10:14:53 +0000</pubDate>
+      <guid>http://localhost:1315/tags/film/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aspirations</title>
+      <link>http://localhost:1315/tags/aspirations/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/aspirations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cubicle</title>
+      <link>http://localhost:1315/tags/cubicle/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/cubicle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Death</title>
+      <link>http://localhost:1315/tags/death/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/death/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entropy</title>
+      <link>http://localhost:1315/tags/entropy/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/entropy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems Administration</title>
+      <link>http://localhost:1315/tags/systems-administration/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/systems-administration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work</title>
+      <link>http://localhost:1315/tags/work/</link>
+      <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
+      <guid>http://localhost:1315/tags/work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1315/tags/linux/</link>
+      <pubDate>Tue, 07 Jul 2009 10:24:32 +0000</pubDate>
+      <guid>http://localhost:1315/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barque</title>
+      <link>http://localhost:1315/tags/barque/</link>
+      <pubDate>Mon, 11 May 2009 08:17:57 +0000</pubDate>
+      <guid>http://localhost:1315/tags/barque/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Park Bench</title>
+      <link>http://localhost:1315/tags/park-bench/</link>
+      <pubDate>Fri, 08 May 2009 09:42:27 +0000</pubDate>
+      <guid>http://localhost:1315/tags/park-bench/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sandwich</title>
+      <link>http://localhost:1315/tags/sandwich/</link>
+      <pubDate>Fri, 08 May 2009 09:42:27 +0000</pubDate>
+      <guid>http://localhost:1315/tags/sandwich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trickster</title>
+      <link>http://localhost:1315/tags/trickster/</link>
+      <pubDate>Fri, 08 May 2009 09:42:27 +0000</pubDate>
+      <guid>http://localhost:1315/tags/trickster/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Love</title>
+      <link>http://localhost:1315/tags/love/</link>
+      <pubDate>Tue, 17 Mar 2009 14:05:34 +0000</pubDate>
+      <guid>http://localhost:1315/tags/love/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Myocardial Tissue</title>
+      <link>http://localhost:1315/tags/myocardial-tissue/</link>
+      <pubDate>Tue, 17 Mar 2009 14:05:34 +0000</pubDate>
+      <guid>http://localhost:1315/tags/myocardial-tissue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1315/tags/git/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1315/tags/markdown/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pandoc</title>
+      <link>http://localhost:1315/tags/pandoc/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/pandoc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1315/tags/writing/</link>
+      <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
+      <guid>http://localhost:1315/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Loneliness</title>
+      <link>http://localhost:1315/tags/loneliness/</link>
+      <pubDate>Sat, 01 Nov 2008 23:22:59 +0000</pubDate>
+      <guid>http://localhost:1315/tags/loneliness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>http://localhost:1315/tags/space/</link>
+      <pubDate>Sat, 01 Nov 2008 23:22:59 +0000</pubDate>
+      <guid>http://localhost:1315/tags/space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tango</title>
+      <link>http://localhost:1315/tags/tango/</link>
+      <pubDate>Sat, 01 Nov 2008 23:22:59 +0000</pubDate>
+      <guid>http://localhost:1315/tags/tango/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Batman</title>
+      <link>http://localhost:1315/tags/batman/</link>
+      <pubDate>Mon, 22 Sep 2008 16:00:43 +0000</pubDate>
+      <guid>http://localhost:1315/tags/batman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bus</title>
+      <link>http://localhost:1315/tags/bus/</link>
+      <pubDate>Mon, 22 Sep 2008 16:00:43 +0000</pubDate>
+      <guid>http://localhost:1315/tags/bus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zombies</title>
+      <link>http://localhost:1315/tags/zombies/</link>
+      <pubDate>Mon, 22 Sep 2008 16:00:43 +0000</pubDate>
+      <guid>http://localhost:1315/tags/zombies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linguistics</title>
+      <link>http://localhost:1315/tags/linguistics/</link>
+      <pubDate>Tue, 02 Sep 2008 10:09:45 +0000</pubDate>
+      <guid>http://localhost:1315/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1315/tags/books/</link>
+      <pubDate>Sat, 30 Aug 2008 09:23:29 +0000</pubDate>
+      <guid>http://localhost:1315/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1315/tags/economics/</link>
+      <pubDate>Sat, 30 Aug 2008 09:23:29 +0000</pubDate>
+      <guid>http://localhost:1315/tags/economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Office</title>
+      <link>http://localhost:1315/tags/office/</link>
+      <pubDate>Fri, 22 Aug 2008 17:27:01 +0000</pubDate>
+      <guid>http://localhost:1315/tags/office/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>http://localhost:1315/tags/productivity/</link>
+      <pubDate>Wed, 20 Aug 2008 09:32:32 +0000</pubDate>
+      <guid>http://localhost:1315/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rainbows</title>
+      <link>http://localhost:1315/tags/rainbows/</link>
+      <pubDate>Tue, 12 Aug 2008 09:29:35 +0000</pubDate>
+      <guid>http://localhost:1315/tags/rainbows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unicorns</title>
+      <link>http://localhost:1315/tags/unicorns/</link>
+      <pubDate>Tue, 12 Aug 2008 09:29:35 +0000</pubDate>
+      <guid>http://localhost:1315/tags/unicorns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bibsonomy</title>
+      <link>http://localhost:1315/tags/bibsonomy/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/bibsonomy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bookmarks</title>
+      <link>http://localhost:1315/tags/bookmarks/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/bookmarks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Delicious</title>
+      <link>http://localhost:1315/tags/delicious/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/delicious/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:1315/tags/project/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1315/tags/python/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST</title>
+      <link>http://localhost:1315/tags/rest/</link>
+      <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
+      <guid>http://localhost:1315/tags/rest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evil</title>
+      <link>http://localhost:1315/tags/evil/</link>
+      <pubDate>Mon, 28 Jul 2008 17:38:22 +0000</pubDate>
+      <guid>http://localhost:1315/tags/evil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computation</title>
+      <link>http://localhost:1315/tags/computation/</link>
+      <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
+      <guid>http://localhost:1315/tags/computation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computers</title>
+      <link>http://localhost:1315/tags/computers/</link>
+      <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
+      <guid>http://localhost:1315/tags/computers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>http://localhost:1315/tags/hardware/</link>
+      <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
+      <guid>http://localhost:1315/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Von Neumann</title>
+      <link>http://localhost:1315/tags/von-neumann/</link>
+      <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
+      <guid>http://localhost:1315/tags/von-neumann/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1315/tags/blogging/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      <guid>http://localhost:1315/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversation</title>
+      <link>http://localhost:1315/tags/conversation/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      <guid>http://localhost:1315/tags/conversation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>http://localhost:1315/tags/data/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      <guid>http://localhost:1315/tags/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1315/tags/statistics/</link>
+      <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
+      <guid>http://localhost:1315/tags/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Muse</title>
+      <link>http://localhost:1315/tags/muse/</link>
+      <pubDate>Sun, 11 May 2008 03:53:55 +0000</pubDate>
+      <guid>http://localhost:1315/tags/muse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smoking</title>
+      <link>http://localhost:1315/tags/smoking/</link>
+      <pubDate>Sun, 11 May 2008 03:53:55 +0000</pubDate>
+      <guid>http://localhost:1315/tags/smoking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Allen Ginsberg</title>
+      <link>http://localhost:1315/tags/allen-ginsberg/</link>
+      <pubDate>Sat, 08 Mar 2008 00:48:34 +0000</pubDate>
+      <guid>http://localhost:1315/tags/allen-ginsberg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intertubes</title>
+      <link>http://localhost:1315/tags/intertubes/</link>
+      <pubDate>Sat, 08 Mar 2008 00:48:34 +0000</pubDate>
+      <guid>http://localhost:1315/tags/intertubes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sf</title>
+      <link>http://localhost:1315/tags/sf/</link>
+      <pubDate>Tue, 29 Jan 2008 13:58:01 +0000</pubDate>
+      <guid>http://localhost:1315/tags/sf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Editing</title>
+      <link>http://localhost:1315/tags/editing/</link>
+      <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
+      <guid>http://localhost:1315/tags/editing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1315/tags/programming/</link>
+      <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
+      <guid>http://localhost:1315/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Editor</title>
+      <link>http://localhost:1315/tags/editor/</link>
+      <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
+      <guid>http://localhost:1315/tags/editor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1315/tags/web/</link>
+      <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
+      <guid>http://localhost:1315/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://localhost:1315/tags/review/</link>
+      <pubDate>Thu, 06 Sep 2007 07:19:38 +0000</pubDate>
+      <guid>http://localhost:1315/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space Opera</title>
+      <link>http://localhost:1315/tags/space-opera/</link>
+      <pubDate>Thu, 06 Sep 2007 07:19:38 +0000</pubDate>
+      <guid>http://localhost:1315/tags/space-opera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vocabulary</title>
+      <link>http://localhost:1315/tags/vocabulary/</link>
+      <pubDate>Wed, 22 Aug 2007 13:03:28 +0000</pubDate>
+      <guid>http://localhost:1315/tags/vocabulary/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

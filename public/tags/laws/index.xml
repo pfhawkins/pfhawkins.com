@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Laws on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/tags/laws/</link>
-    <description>Recent content in Laws on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Laws on </title>
+    <link>http://localhost:1315/tags/laws/</link>
+    <description>Recent content in Laws on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 22 Sep 2011 16:39:11 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/tags/laws/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://localhost:1315/tags/laws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hawkins&#39; Law</title>
-      <link>http://pfhawkins.com/2011/09/22/hawkins-law/</link>
+      <link>http://localhost:1315/2011/09/22/hawkins-law/</link>
       <pubDate>Thu, 22 Sep 2011 16:39:11 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2011/09/22/hawkins-law/</guid>
-      <description>&lt;p&gt;The office VPN works excellently, except right now.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2011/09/22/hawkins-law/</guid>
+      <description>&lt;p&gt;The office VPN works excellently, except right now.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

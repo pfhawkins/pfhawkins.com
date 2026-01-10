@@ -1,29 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Love on P.F. Hawkins</title>
-    <link>http://pfhawkins.com/tags/love/</link>
-    <description>Recent content in Love on P.F. Hawkins</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Love on </title>
+    <link>http://localhost:1315/tags/love/</link>
+    <description>Recent content in Love on </description>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 17 Mar 2009 14:05:34 +0000</lastBuildDate>
-    <atom:link href="http://pfhawkins.com/tags/love/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://localhost:1315/tags/love/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When Love Attacks</title>
-      <link>http://pfhawkins.com/2009/03/17/when-love-attacks/</link>
+      <link>http://localhost:1315/2009/03/17/when-love-attacks/</link>
       <pubDate>Tue, 17 Mar 2009 14:05:34 +0000</pubDate>
-      
-      <guid>http://pfhawkins.com/2009/03/17/when-love-attacks/</guid>
-      <description>&lt;p&gt;Love lies crouched on haunches,&lt;br /&gt;
-Coiled prehensile set to spring&lt;br /&gt;
-Unsuspecting upon prey.&lt;/p&gt;
-
-&lt;p&gt;In the proper hour Love leaps,&lt;br /&gt;
-Thrusting self through myocardial tissue,&lt;br /&gt;
-Dissolving as a tear gas in the bloodstream.&lt;/p&gt;
-</description>
+      <guid>http://localhost:1315/2009/03/17/when-love-attacks/</guid>
+      <description>&lt;p&gt;Love lies crouched on haunches,&lt;br&gt;&#xA;Coiled prehensile set to spring&lt;br&gt;&#xA;Unsuspecting upon prey.&lt;/p&gt;&#xA;&lt;p&gt;In the proper hour Love leaps,&lt;br&gt;&#xA;Thrusting self through myocardial tissue,&lt;br&gt;&#xA;Dissolving as a tear gas in the bloodstream.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

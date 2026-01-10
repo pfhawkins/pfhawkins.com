@@ -9,8 +9,7 @@ pygmentsuseclasses = true
 # disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
 
-[markup]
-  defaultMarkdownHandler = "blackfriday"
+
 
 [permalinks]
 fixed = ":title/"
