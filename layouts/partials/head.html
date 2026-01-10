@@ -15,6 +15,9 @@
   {{ end }}
   <base href="{{ .Site.BaseURL }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://api.fonts.coollabs.io" crossorigin />
+  <link rel="preconnect" href="https://cdn.fonts.coollabs.io" crossorigin />
+  <link href="https://api.fonts.coollabs.io/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <title>
     {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
     {{ if eq $url "/" }}

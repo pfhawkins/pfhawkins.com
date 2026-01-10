@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 
 @theme {
-  --font-sans: 'Helvetica', system-ui, sans-serif;
+  --font-sans: 'Inter', 'Helvetica', system-ui, sans-serif;
   --font-serif: 'Georgia', serif;
 }
 
