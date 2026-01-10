@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ends on </title>
-    <link>http://localhost:1315/tags/ends/</link>
+    <link>http://localhost:1314/tags/ends/</link>
     <description>Recent content in Ends on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 06 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/ends/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/ends/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Principle Regarding Ends And Means</title>
-      <link>http://localhost:1315/2012/06/06/a-principle-regarding-ends-and-means/</link>
+      <link>http://localhost:1314/2012/06/06/a-principle-regarding-ends-and-means/</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/06/06/a-principle-regarding-ends-and-means/</guid>
+      <guid>http://localhost:1314/2012/06/06/a-principle-regarding-ends-and-means/</guid>
       <description>&lt;p&gt;Okay, listen up. This is pretty simple. I&amp;rsquo;m gonna start by defining terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ends&lt;/em&gt; are goals. If you take action, you usually do so to accomplish an end. Say, if I go buy bread and deli meat, I do so in order to accomplish the end of eating a sandwich.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Means&lt;/em&gt; are the steps you go through to accomplish an end. So, in the sandwich example, purchasing bread and deli meat, putting a few slices of meat on the bread, getting a knife out and slathering one of the bread slices with mayo: all these are means to the end of ultimately eating the sandwich.&lt;/p&gt;</description>
     </item>
   </channel>

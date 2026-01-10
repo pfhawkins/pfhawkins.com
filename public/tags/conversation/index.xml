@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conversation on </title>
-    <link>http://localhost:1315/tags/conversation/</link>
+    <link>http://localhost:1314/tags/conversation/</link>
     <description>Recent content in Conversation on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 19 May 2008 10:50:47 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/conversation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/conversation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging is Not a Science</title>
-      <link>http://localhost:1315/2008/05/19/blogging-is-not-a-science/</link>
+      <link>http://localhost:1314/2008/05/19/blogging-is-not-a-science/</link>
       <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
-      <guid>http://localhost:1315/2008/05/19/blogging-is-not-a-science/</guid>
+      <guid>http://localhost:1314/2008/05/19/blogging-is-not-a-science/</guid>
       <description>&lt;p&gt;There is something about data that recommends itself. The more data you have&#xA;the more you ostensibly know about the subject; the more you know the better&#xA;basis you have for your decisions; the better foundation for your decisions&#xA;the higher the odds your decisions are the right ones. Everyone likes to make&#xA;the right decisions. Few things are as truly satisfying.&lt;/p&gt;&#xA;&lt;p&gt;That said, most data are crap. If they&amp;rsquo;re not inaccurate then they draw your&#xA;focus to the wrong thing. Instead of basing your decisions on what it is&#xA;you&amp;rsquo;re actually doing, you&amp;rsquo;re basing them on a reading of the effects they had&#xA;the last time you did them.&lt;/p&gt;</description>
     </item>
   </channel>

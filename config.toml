@@ -9,6 +9,23 @@ pygmentsuseclasses = true
 # disqusShortname = "cocoaexamplesite" # TODO: optional, comment out to disable Disqus
 pluralizelisttitles = false
 
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
+
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+
 
 
 [permalinks]
@@ -31,4 +48,4 @@ github = "//github.com/pfhawkins" # TODO:
 lang = "en"
 #linkedin = "//linkedin.com/in/patrickhawkins1" # TODO:
 #twitter = "//twitter.com/pfhawkins" # TODO:
-extracssfiles = [ "/css/override.css" ] # relative to public directory
+ignoreLogs = ['warning-goldmark-raw-html']

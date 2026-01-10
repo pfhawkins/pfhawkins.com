@@ -1,0 +1,53 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Helvetica', system-ui, sans-serif;
+  --font-serif: 'Georgia', serif;
+}
+
+@utility measure {
+  max-width: 30em;
+}
+
+@utility nested-links {
+  & a {
+    @apply text-blue-600 underline;
+  }
+  & a:hover {
+    @apply text-blue-800;
+  }
+}
+
+@layer base {
+  body {
+    @apply font-sans text-gray-900;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-bold;
+  }
+  
+  .helvetica {
+    @apply font-sans;
+  }
+  
+  .georgia {
+    @apply font-serif;
+  }
+  
+  a:link {
+    @apply text-red-600 no-underline;
+  }
+  
+  a:visited {
+    @apply text-red-600 no-underline;
+  }
+  
+  a:hover {
+    @apply text-red-700 underline;
+  }
+  
+  a:active {
+    @apply text-red-600 no-underline;
+  }
+}

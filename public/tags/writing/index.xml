@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on </title>
-    <link>http://localhost:1315/tags/writing/</link>
+    <link>http://localhost:1314/tags/writing/</link>
     <description>Recent content in Writing on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 19 Jan 2009 10:48:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Finding a Document Production Workflow for Emacs</title>
-      <link>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <link>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
       <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <guid>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
       <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward&#xA;accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other&#xA;externalities used to support this endeavor.&lt;/p&gt;&#xA;&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;&#xA;&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions&#xA;from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughts Writers Have</title>
-      <link>http://localhost:1315/2008/05/11/thoughts-writers-have/</link>
+      <link>http://localhost:1314/2008/05/11/thoughts-writers-have/</link>
       <pubDate>Sun, 11 May 2008 03:53:55 +0000</pubDate>
-      <guid>http://localhost:1315/2008/05/11/thoughts-writers-have/</guid>
+      <guid>http://localhost:1314/2008/05/11/thoughts-writers-have/</guid>
       <description>&lt;p&gt;I could really go for a smoke. I&amp;rsquo;m a non-smoker. The most I ever smoked was&#xA;three times in one kinda stressful week in college. And I try to buy the good&#xA;stuff when I do. No Camels for me.&lt;/p&gt;&#xA;&lt;p&gt;If I ever want a smoke, it&amp;rsquo;s because I&amp;rsquo;ve an itch that needs scratching, and a&#xA;cigarette seems like the shortest path to itch relief. It never is though.&#xA;There&amp;rsquo;s a deeper underlying reason why I have dry skin. The itching won&amp;rsquo;t&#xA;abate until I eat my vitamins, or eat animal fats, or stop eating melons, or&#xA;get new genes. The rest is vapid style.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Use Emacs</title>
-      <link>http://localhost:1315/2007/10/15/how-i-use-emacs/</link>
+      <link>http://localhost:1314/2007/10/15/how-i-use-emacs/</link>
       <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/15/how-i-use-emacs/</guid>
+      <guid>http://localhost:1314/2007/10/15/how-i-use-emacs/</guid>
       <description>&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious&#xA;amounts of prose, linking it together in all sorts of interesting and helpful&#xA;ways, and basically revolutionizing the way I experienced computers. But most&#xA;of all, I had a new and urgent desire to do everything from the keyboard in a&#xA;blazingly efficient manner.&lt;/p&gt;&#xA;&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I&#xA;developed some slightly inefficient workflows (copying and pasting from text&#xA;documents into OpenOffice documents, editing the original text file based on&#xA;whatever page length I was going for, rinse and repeat until paper is&#xA;produced) that were, on the whole, a net gain due to the speed of typing&#xA;without mousing. The linux filesystem positively danced under my fingertips. I&#xA;had more control over my system than I had ever had on Windows.&lt;/p&gt;</description>
     </item>
   </channel>

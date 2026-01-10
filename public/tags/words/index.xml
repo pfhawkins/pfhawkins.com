@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Words on </title>
-    <link>http://localhost:1315/tags/words/</link>
+    <link>http://localhost:1314/tags/words/</link>
     <description>Recent content in Words on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 30 Apr 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/words/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/words/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wordsmithy</title>
-      <link>http://localhost:1315/2012/04/30/wordsmithy/</link>
+      <link>http://localhost:1314/2012/04/30/wordsmithy/</link>
       <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/04/30/wordsmithy/</guid>
+      <guid>http://localhost:1314/2012/04/30/wordsmithy/</guid>
       <description>&lt;p&gt;The wordsmithy raided the vowel-shed&lt;br&gt;&#xA;For a round &amp;ldquo;O&amp;rdquo; to hold up surrounding consonants.&lt;br&gt;&#xA;In the smithy he realized that alone it could not hold the &amp;ldquo;R&amp;rdquo; and &amp;ldquo;T&amp;rdquo; together,&lt;br&gt;&#xA;But he always kept a few &amp;ldquo;E&amp;rdquo; at the workbench.&lt;/p&gt;&#xA;&lt;p&gt;In two short decades he found his job obsoleted by script kiddies crawling the fourth channel,&lt;br&gt;&#xA;RSI brain cramps birthing automated skynet.&lt;/p&gt;</description>
     </item>
   </channel>

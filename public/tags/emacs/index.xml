@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emacs on </title>
-    <link>http://localhost:1315/tags/emacs/</link>
+    <link>http://localhost:1314/tags/emacs/</link>
     <description>Recent content in Emacs on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 02 Sep 2009 07:35:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/emacs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IN WHICH I Stump for Vi</title>
-      <link>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</link>
+      <link>http://localhost:1314/2009/09/02/in-which-i-stump-for-vi/</link>
       <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <guid>http://localhost:1314/2009/09/02/in-which-i-stump-for-vi/</guid>
       <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece&#xA;explaining &lt;a href=&#34;https://web.archive.org/web/20091202043219/http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings&#34;&gt;why you need to know vi&#xA;keybindings.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcing ihopesolution.com</title>
-      <link>http://localhost:1315/2009/07/07/announcing-ihopesolutioncom/</link>
+      <link>http://localhost:1314/2009/07/07/announcing-ihopesolutioncom/</link>
       <pubDate>Tue, 07 Jul 2009 10:24:32 +0000</pubDate>
-      <guid>http://localhost:1315/2009/07/07/announcing-ihopesolutioncom/</guid>
+      <guid>http://localhost:1314/2009/07/07/announcing-ihopesolutioncom/</guid>
       <description>&lt;p&gt;So a &lt;a href=&#34;https://hoobajoobfaq.org&#34;&gt;sysadmin friend&lt;/a&gt; and I decided that there just&#xA;weren&amp;rsquo;t enough blogs about systems administration and linux out there. So we&#xA;started another one:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ihopesolution.com&#34;&gt;ihopesolution.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure it will develop its own voice, since we both have, um, firmly held&#xA;opinions about how things should be done. And odd senses of humor.&lt;/p&gt;&#xA;&lt;p&gt;Since I tend to use emacs more for writing and org-mode rather than&#xA;sysadminning, I&amp;rsquo;ll keep my emacs posts for my personal blog. (And so ends my&#xA;feeble attempt to justify tagging this &amp;ldquo;emacs&amp;rdquo; and watching it hit planet&#xA;emacsen.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Finding a Document Production Workflow for Emacs</title>
-      <link>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <link>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
       <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <guid>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
       <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward&#xA;accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other&#xA;externalities used to support this endeavor.&lt;/p&gt;&#xA;&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;&#xA;&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions&#xA;from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Use Emacs</title>
-      <link>http://localhost:1315/2007/10/15/how-i-use-emacs/</link>
+      <link>http://localhost:1314/2007/10/15/how-i-use-emacs/</link>
       <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/15/how-i-use-emacs/</guid>
+      <guid>http://localhost:1314/2007/10/15/how-i-use-emacs/</guid>
       <description>&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious&#xA;amounts of prose, linking it together in all sorts of interesting and helpful&#xA;ways, and basically revolutionizing the way I experienced computers. But most&#xA;of all, I had a new and urgent desire to do everything from the keyboard in a&#xA;blazingly efficient manner.&lt;/p&gt;&#xA;&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I&#xA;developed some slightly inefficient workflows (copying and pasting from text&#xA;documents into OpenOffice documents, editing the original text file based on&#xA;whatever page length I was going for, rinse and repeat until paper is&#xA;produced) that were, on the whole, a net gain due to the speed of typing&#xA;without mousing. The linux filesystem positively danced under my fingertips. I&#xA;had more control over my system than I had ever had on Windows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Came to Love Emacs</title>
-      <link>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</link>
+      <link>http://localhost:1314/2007/10/10/how-i-came-to-love-emacs/</link>
       <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <guid>http://localhost:1314/2007/10/10/how-i-came-to-love-emacs/</guid>
       <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;&#xA;&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to&#xA;highspeed internet that I had hitherto experienced. Which upped my time&#xA;surfing the web. One of the delightful sites I lighted upon was&#xA;&lt;a href=&#34;https://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;https://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs&#xA;Notepad&lt;/a&gt;. I was intrigued. Having&#xA;exclusively used Word (and Notepad to edit HTML - ha!) up until that point,&#xA;this Emacs thingy sounded fascinating. I downloaded a Windows version right&#xA;away.&lt;/p&gt;</description>
     </item>
   </channel>

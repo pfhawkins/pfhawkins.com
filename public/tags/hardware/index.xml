@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hardware on </title>
-    <link>http://localhost:1315/tags/hardware/</link>
+    <link>http://localhost:1314/tags/hardware/</link>
     <description>Recent content in Hardware on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 18 Jun 2008 08:19:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paradigmatic Computational Constructs</title>
-      <link>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</link>
+      <link>http://localhost:1314/2008/06/18/paradigmatic-computational-constructs/</link>
       <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
-      <guid>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</guid>
+      <guid>http://localhost:1314/2008/06/18/paradigmatic-computational-constructs/</guid>
       <description>&lt;p&gt;Bits byte the address space&lt;br&gt;&#xA;All round the spinning plate,&lt;br&gt;&#xA;In the Mathematic place;&lt;/p&gt;&#xA;&lt;p&gt;Objects soon instantiate;&lt;br&gt;&#xA;Network packets rush to take;&lt;br&gt;&#xA;Threads start to bifurcate;&lt;/p&gt;&#xA;&lt;p&gt;Dot/configure and and make;&lt;br&gt;&#xA;Computation filled with grace.&lt;br&gt;&#xA;Unto us, Von Neumann spake.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pandoc on </title>
-    <link>http://localhost:1315/tags/pandoc/</link>
+    <link>http://localhost:1314/tags/pandoc/</link>
     <description>Recent content in Pandoc on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 19 Jan 2009 10:48:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Finding a Document Production Workflow for Emacs</title>
-      <link>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <link>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
       <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <guid>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
       <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward&#xA;accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other&#xA;externalities used to support this endeavor.&lt;/p&gt;&#xA;&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;&#xA;&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions&#xA;from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;</description>
     </item>
   </channel>

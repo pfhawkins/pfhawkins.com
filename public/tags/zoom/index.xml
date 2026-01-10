@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zoom on </title>
-    <link>http://localhost:1315/tags/zoom/</link>
+    <link>http://localhost:1314/tags/zoom/</link>
     <description>Recent content in Zoom on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 10 Jun 2020 14:36:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/zoom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/zoom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exit Keybase</title>
-      <link>http://localhost:1315/exit-keybase/</link>
+      <link>http://localhost:1314/exit-keybase/</link>
       <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
-      <guid>http://localhost:1315/exit-keybase/</guid>
-      <description>&lt;p&gt;I am no longer &lt;a href=&#34;http://localhost:1315/identity-and-cryptography-in-the-current-year/&#34;&gt;using Keybase&lt;/a&gt;. The &lt;a href=&#34;https://keybase.io/blog/keybase-joins-zoom&#34;&gt;sale of the company to Zoom&lt;/a&gt; introduces&#xA;too much doubt about the product for me to continue recommending it.&lt;/p&gt;</description>
+      <guid>http://localhost:1314/exit-keybase/</guid>
+      <description>&lt;p&gt;I am no longer &lt;a href=&#34;http://localhost:1314/identity-and-cryptography-in-the-current-year/&#34;&gt;using Keybase&lt;/a&gt;. The &lt;a href=&#34;https://keybase.io/blog/keybase-joins-zoom&#34;&gt;sale of the company to Zoom&lt;/a&gt; introduces&#xA;too much doubt about the product for me to continue recommending it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

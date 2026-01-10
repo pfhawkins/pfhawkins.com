@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on </title>
-    <link>http://localhost:1315/tags/meta/</link>
+    <link>http://localhost:1314/tags/meta/</link>
     <description>Recent content in Meta on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 18 Dec 2011 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mundanities Behind the Curtain</title>
-      <link>http://localhost:1315/2011/12/18/mundanities-behind-the-curtain/</link>
+      <link>http://localhost:1314/2011/12/18/mundanities-behind-the-curtain/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2011/12/18/mundanities-behind-the-curtain/</guid>
+      <guid>http://localhost:1314/2011/12/18/mundanities-behind-the-curtain/</guid>
       <description>&lt;p&gt;There is no story of consequence to this. I tire of using &lt;a href=&#34;https://wordpress.org&#34;&gt;WordPress&lt;/a&gt;. I deal with it at work and it wearies me. So I am trying something new here.&lt;/p&gt;&#xA;&lt;p&gt;This next iteration of the blog employs &lt;a href=&#34;https://octopress.org&#34;&gt;Octopress&lt;/a&gt;. I may have to update the colophon.&lt;/p&gt;</description>
     </item>
   </channel>

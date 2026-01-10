@@ -2,332 +2,332 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on </title>
-    <link>http://localhost:1315/blog/</link>
+    <link>http://localhost:1314/blog/</link>
     <description>Recent content in Blog on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 10 Jun 2020 14:36:07 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1315/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exit Keybase</title>
-      <link>http://localhost:1315/exit-keybase/</link>
+      <link>http://localhost:1314/exit-keybase/</link>
       <pubDate>Wed, 10 Jun 2020 14:36:07 -0400</pubDate>
-      <guid>http://localhost:1315/exit-keybase/</guid>
-      <description>&lt;p&gt;I am no longer &lt;a href=&#34;http://localhost:1315/identity-and-cryptography-in-the-current-year/&#34;&gt;using Keybase&lt;/a&gt;. The &lt;a href=&#34;https://keybase.io/blog/keybase-joins-zoom&#34;&gt;sale of the company to Zoom&lt;/a&gt; introduces&#xA;too much doubt about the product for me to continue recommending it.&lt;/p&gt;</description>
+      <guid>http://localhost:1314/exit-keybase/</guid>
+      <description>&lt;p&gt;I am no longer &lt;a href=&#34;http://localhost:1314/identity-and-cryptography-in-the-current-year/&#34;&gt;using Keybase&lt;/a&gt;. The &lt;a href=&#34;https://keybase.io/blog/keybase-joins-zoom&#34;&gt;sale of the company to Zoom&lt;/a&gt; introduces&#xA;too much doubt about the product for me to continue recommending it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Identity and Cryptography in the Current Year</title>
-      <link>http://localhost:1315/identity-and-cryptography-in-the-current-year/</link>
+      <link>http://localhost:1314/identity-and-cryptography-in-the-current-year/</link>
       <pubDate>Sun, 20 Nov 2016 20:18:29 +0000</pubDate>
-      <guid>http://localhost:1315/identity-and-cryptography-in-the-current-year/</guid>
+      <guid>http://localhost:1314/identity-and-cryptography-in-the-current-year/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve got about three different lead-ins to this post rattling around my head.&#xA;There&amp;rsquo;s the &amp;ldquo;we don&amp;rsquo;t have flying cars, but we have public-key cryptography&#xA;that isn&amp;rsquo;t completely terrible&amp;rdquo; angle. There&amp;rsquo;s the &amp;ldquo;truly we are living&#xA;in a William Gibson novel&amp;rdquo; angle. But I think I&amp;rsquo;ll take the &amp;ldquo;here&amp;rsquo;s a true story&#xA;about how &lt;a href=&#34;https://en.wikipedia.org/wiki/Public-key_cryptography&#34;&gt;public-key cryptography&lt;/a&gt;&#xA;is being used right this second&amp;rdquo; angle.&#xA;Everybody loves a good anecdote, right?&lt;/p&gt;&#xA;&lt;p&gt;So there&amp;rsquo;s this fellow by the name of &lt;a href=&#34;https://keybase.io/microchip&#34;&gt;Michael Anderson&lt;/a&gt;.&#xA;Big alt-right Trump&#xA;supporter type. He tends to approach Twitter the way Leroy Jenkins approaches&#xA;WoW raids: big, loud, and in a way that aggravates a large number of the party.&#xA;Mr. Anderson has had his account banned repeatedly, both before and after Twitter&amp;rsquo;s&#xA;recent &lt;a href=&#34;https://www.foxnews.com/tech/2016/11/17/twitter-suspends-several-accounts-in-alt-right-purge.html&#34;&gt;purges of alt-right accounts&lt;/a&gt;.&#xA;But every time his account is suspended for good, he makes a new account and keeps&#xA;on trucking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Hyperverses</title>
-      <link>http://localhost:1315/2012/10/05/on-hyperverses/</link>
+      <link>http://localhost:1314/2012/10/05/on-hyperverses/</link>
       <pubDate>Fri, 05 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/10/05/on-hyperverses/</guid>
+      <guid>http://localhost:1314/2012/10/05/on-hyperverses/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m pretty sure that one of the reasons I never update this blog is&#xA;because I don&amp;rsquo;t &lt;em&gt;focus&lt;/em&gt; on any particular topic. Some people can dash&#xA;off unfocused blog posts at the drop of a hat. I, for good or ill, am&#xA;not a member of &lt;a href=&#34;https://en.wikipedia.org/wiki/Set_theory&#34;&gt;that set&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Back in, oh, April-ish, I found a topic that not only I could obsess&#xA;over, but has proven to be an inspiration to write about online. I&#xA;started looking into Hypertext with a capital aitch, the idea that&#xA;writing with little interlinking bits would revolutionize literature&#xA;in unfathomable ways. It was a thing in the 90&amp;rsquo;s, right? Whatever&#xA;happened to that?&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Principle Regarding Ends And Means</title>
-      <link>http://localhost:1315/2012/06/06/a-principle-regarding-ends-and-means/</link>
+      <link>http://localhost:1314/2012/06/06/a-principle-regarding-ends-and-means/</link>
       <pubDate>Wed, 06 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/06/06/a-principle-regarding-ends-and-means/</guid>
+      <guid>http://localhost:1314/2012/06/06/a-principle-regarding-ends-and-means/</guid>
       <description>&lt;p&gt;Okay, listen up. This is pretty simple. I&amp;rsquo;m gonna start by defining terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Ends&lt;/em&gt; are goals. If you take action, you usually do so to accomplish an end. Say, if I go buy bread and deli meat, I do so in order to accomplish the end of eating a sandwich.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Means&lt;/em&gt; are the steps you go through to accomplish an end. So, in the sandwich example, purchasing bread and deli meat, putting a few slices of meat on the bread, getting a knife out and slathering one of the bread slices with mayo: all these are means to the end of ultimately eating the sandwich.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wordsmithy</title>
-      <link>http://localhost:1315/2012/04/30/wordsmithy/</link>
+      <link>http://localhost:1314/2012/04/30/wordsmithy/</link>
       <pubDate>Mon, 30 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/04/30/wordsmithy/</guid>
+      <guid>http://localhost:1314/2012/04/30/wordsmithy/</guid>
       <description>&lt;p&gt;The wordsmithy raided the vowel-shed&lt;br&gt;&#xA;For a round &amp;ldquo;O&amp;rdquo; to hold up surrounding consonants.&lt;br&gt;&#xA;In the smithy he realized that alone it could not hold the &amp;ldquo;R&amp;rdquo; and &amp;ldquo;T&amp;rdquo; together,&lt;br&gt;&#xA;But he always kept a few &amp;ldquo;E&amp;rdquo; at the workbench.&lt;/p&gt;&#xA;&lt;p&gt;In two short decades he found his job obsoleted by script kiddies crawling the fourth channel,&lt;br&gt;&#xA;RSI brain cramps birthing automated skynet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Gamification of Storytelling</title>
-      <link>http://localhost:1315/2012/01/25/the-gamification-of-storytelling/</link>
+      <link>http://localhost:1314/2012/01/25/the-gamification-of-storytelling/</link>
       <pubDate>Wed, 25 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/01/25/the-gamification-of-storytelling/</guid>
+      <guid>http://localhost:1314/2012/01/25/the-gamification-of-storytelling/</guid>
       <description>&lt;p&gt;&lt;em&gt;IN WHICH Story meets Technology, and they exchange Awkward&#xA;Pleasantries&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I kept &lt;a href=&#34;https://blog.usabilla.com/why-we-need-better-tools-to-tell-stories-with/&#34;&gt;this blog post about using technology to tell stories&lt;/a&gt; by Jurian Baas around because the underlying premise got under my skin. From the article:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;…the connectedness and interactive nature of the Internet can not only give us multimedia experiences, but also change the way we interact with text, our most basic manner of communicating after speech. I totally agree with Bret Victor on this: “People currently think of text as information to be consumed. I want text to be an environment to think in“.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Fling With Mixel</title>
-      <link>http://localhost:1315/2012/01/19/my-fling-with-mixel/</link>
+      <link>http://localhost:1314/2012/01/19/my-fling-with-mixel/</link>
       <pubDate>Thu, 19 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2012/01/19/my-fling-with-mixel/</guid>
-      <description>&lt;p&gt;&lt;em&gt;IN WHICH Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-mixel&#34;&gt;On Mixel&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mixel.cc&#34; title=&#34;Mixel&#34;&gt;Mixel&lt;/a&gt; confounds me as a piece of software that shines so brightly, the shadows of its flaws are made proportionately more apparent.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1315/images/mixel/yeti.jpg&#34; alt=&#34;A Yeti walks in the snowy woods&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mixel is an iPad app for making collages that has the whole &amp;ldquo;social networking&amp;rdquo; thing baked into its DNA.&lt;/p&gt;&#xA;&lt;p&gt;Making a collage feels like something the iPad was &lt;em&gt;born&lt;/em&gt; to do. Swipe swipe, swipe swipe, tap, swipe, BOOM! ART! I am not an artist by training or temperament, although I do doodle extensively in the margins of my notebooks. Using a pile of raw ingredients and the few methods mixel provides for manipulating them, I can create something that, if it isn&amp;rsquo;t art, looks and feels like &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;</description>
+      <guid>http://localhost:1314/2012/01/19/my-fling-with-mixel/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IN WHICH Fingers Paint while Dry, and Egos are Lightly Battered in a Hollandaise Sauce&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;on-mixel&#34;&gt;On Mixel&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://mixel.cc&#34; title=&#34;Mixel&#34;&gt;Mixel&lt;/a&gt; confounds me as a piece of software that shines so brightly, the shadows of its flaws are made proportionately more apparent.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1314/images/mixel/yeti.jpg&#34; alt=&#34;A Yeti walks in the snowy woods&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Mixel is an iPad app for making collages that has the whole &amp;ldquo;social networking&amp;rdquo; thing baked into its DNA.&lt;/p&gt;&#xA;&lt;p&gt;Making a collage feels like something the iPad was &lt;em&gt;born&lt;/em&gt; to do. Swipe swipe, swipe swipe, tap, swipe, BOOM! ART! I am not an artist by training or temperament, although I do doodle extensively in the margins of my notebooks. Using a pile of raw ingredients and the few methods mixel provides for manipulating them, I can create something that, if it isn&amp;rsquo;t art, looks and feels like &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mundanities Behind the Curtain</title>
-      <link>http://localhost:1315/2011/12/18/mundanities-behind-the-curtain/</link>
+      <link>http://localhost:1314/2011/12/18/mundanities-behind-the-curtain/</link>
       <pubDate>Sun, 18 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1315/2011/12/18/mundanities-behind-the-curtain/</guid>
+      <guid>http://localhost:1314/2011/12/18/mundanities-behind-the-curtain/</guid>
       <description>&lt;p&gt;There is no story of consequence to this. I tire of using &lt;a href=&#34;https://wordpress.org&#34;&gt;WordPress&lt;/a&gt;. I deal with it at work and it wearies me. So I am trying something new here.&lt;/p&gt;&#xA;&lt;p&gt;This next iteration of the blog employs &lt;a href=&#34;https://octopress.org&#34;&gt;Octopress&lt;/a&gt;. I may have to update the colophon.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hawkins&#39; Law</title>
-      <link>http://localhost:1315/2011/09/22/hawkins-law/</link>
+      <link>http://localhost:1314/2011/09/22/hawkins-law/</link>
       <pubDate>Thu, 22 Sep 2011 16:39:11 +0000</pubDate>
-      <guid>http://localhost:1315/2011/09/22/hawkins-law/</guid>
+      <guid>http://localhost:1314/2011/09/22/hawkins-law/</guid>
       <description>&lt;p&gt;The office VPN works excellently, except right now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Grass Demons</title>
-      <link>http://localhost:1315/2010/12/14/grass-demons/</link>
+      <link>http://localhost:1314/2010/12/14/grass-demons/</link>
       <pubDate>Tue, 14 Dec 2010 00:12:29 +0000</pubDate>
-      <guid>http://localhost:1315/2010/12/14/grass-demons/</guid>
+      <guid>http://localhost:1314/2010/12/14/grass-demons/</guid>
       <description>&lt;p&gt;Black twisted gnarled gristle&lt;br&gt;&#xA;Lawn dance and howl whistle&lt;br&gt;&#xA;Spew out the fire bile&lt;br&gt;&#xA;Hate-wracked the whole while&lt;br&gt;&#xA;Teeth gnawing blood-glistened&lt;br&gt;&#xA;No time to love-listen.&lt;br&gt;&#xA;Can&amp;rsquo;t rue the damned day&lt;br&gt;&#xA;Eternity&amp;rsquo;s the same way&lt;br&gt;&#xA;Dance down the death-glade&lt;br&gt;&#xA;Empty with heart spayed.&lt;br&gt;&#xA;What&amp;rsquo;s left is tied taut;&lt;br&gt;&#xA;Pain fills the no-thought.&lt;br&gt;&#xA;What was the self thing,&lt;br&gt;&#xA;Clutched, did this hell bring?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dank</title>
-      <link>http://localhost:1315/2010/01/29/dank/</link>
+      <link>http://localhost:1314/2010/01/29/dank/</link>
       <pubDate>Fri, 29 Jan 2010 06:37:15 +0000</pubDate>
-      <guid>http://localhost:1315/2010/01/29/dank/</guid>
+      <guid>http://localhost:1314/2010/01/29/dank/</guid>
       <description>&lt;p&gt;He drove into the dark night&lt;br&gt;&#xA;That street lamps barely beat back with bleak light.&lt;br&gt;&#xA;The spastic highway loomed languid, leapt aside,&lt;br&gt;&#xA;Bowed down before the doomed ride&lt;br&gt;&#xA;As he barrelled toward his dead bride,&lt;br&gt;&#xA;Seeking pitch to patch the gape in his side.&lt;/p&gt;</description>
     </item>
     <item>
       <title>IN WHICH I Stump for Vi</title>
-      <link>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</link>
+      <link>http://localhost:1314/2009/09/02/in-which-i-stump-for-vi/</link>
       <pubDate>Wed, 02 Sep 2009 07:35:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</guid>
+      <guid>http://localhost:1314/2009/09/02/in-which-i-stump-for-vi/</guid>
       <description>&lt;p&gt;At the mundane little sysadmin blog I contribute to, I wrote a little piece&#xA;explaining &lt;a href=&#34;https://web.archive.org/web/20091202043219/http://ihopesolution.com/2009/08/emacs-vs-vi-keybindings&#34;&gt;why you need to know vi&#xA;keybindings.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure you emacsheads will love it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hell, or Something Like It</title>
-      <link>http://localhost:1315/2009/08/06/hell-or-something-like-it/</link>
+      <link>http://localhost:1314/2009/08/06/hell-or-something-like-it/</link>
       <pubDate>Thu, 06 Aug 2009 07:57:48 +0000</pubDate>
-      <guid>http://localhost:1315/2009/08/06/hell-or-something-like-it/</guid>
+      <guid>http://localhost:1314/2009/08/06/hell-or-something-like-it/</guid>
       <description>&lt;p&gt;Darksomeness engulfs&lt;br&gt;&#xA;Low fallow fields left&lt;br&gt;&#xA;Firm as rock dried in sun,&lt;br&gt;&#xA;Cold as crisp iceberg submerged.&lt;/p&gt;&#xA;&lt;p&gt;Submariners stumble on&lt;br&gt;&#xA;Unseen fissues, folds,&lt;br&gt;&#xA;Crevasses, barren blisters&lt;br&gt;&#xA;Of lifeless locked land.&lt;/p&gt;&#xA;&lt;p&gt;Passengers punched their tickets,&lt;br&gt;&#xA;Paid their fares, folded&lt;br&gt;&#xA;Clothes, packed bags, braved&lt;br&gt;&#xA;Jet lag just to be here.&lt;/p&gt;&#xA;&lt;p&gt;Groping in obsidian night, all&lt;br&gt;&#xA;Rend asunder suddenly, then&lt;br&gt;&#xA;Rend again, rend again,&lt;br&gt;&#xA;Ever tearing never ending&lt;/p&gt;&#xA;&lt;p&gt;Souls unbending, breaking o&amp;rsquo;er&lt;br&gt;&#xA;And o&amp;rsquo;er again in pain&lt;br&gt;&#xA;Unmending, sending lame&lt;br&gt;&#xA;Desires (unquenched fires) drowning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Talkies</title>
-      <link>http://localhost:1315/2009/07/16/talkies/</link>
+      <link>http://localhost:1314/2009/07/16/talkies/</link>
       <pubDate>Thu, 16 Jul 2009 10:14:53 +0000</pubDate>
-      <guid>http://localhost:1315/2009/07/16/talkies/</guid>
+      <guid>http://localhost:1314/2009/07/16/talkies/</guid>
       <description>&lt;p&gt;stars scream heavy metal silver screen&lt;br&gt;&#xA;heart strings tugged taut ripped clean&lt;br&gt;&#xA;death dealt down to damn mean&lt;br&gt;&#xA;man brought through no more green&lt;br&gt;&#xA;played for laughs aged thirteen&lt;br&gt;&#xA;main stream man&amp;rsquo;s a sad scene&lt;/p&gt;</description>
     </item>
     <item>
       <title>Entropy Lament</title>
-      <link>http://localhost:1315/2009/07/13/entropy-lament/</link>
+      <link>http://localhost:1314/2009/07/13/entropy-lament/</link>
       <pubDate>Mon, 13 Jul 2009 08:08:11 +0000</pubDate>
-      <guid>http://localhost:1315/2009/07/13/entropy-lament/</guid>
+      <guid>http://localhost:1314/2009/07/13/entropy-lament/</guid>
       <description>&lt;p&gt;In the morning as I brushed my teeth&lt;br&gt;&#xA;I vowed to mark the day by valiant ways:&lt;br&gt;&#xA;To rescue orphans, open up a shop,&lt;br&gt;&#xA;Write that novel, win that maiden&amp;rsquo;s heart,&lt;br&gt;&#xA;Climb that hill, convince a bitter friend&lt;br&gt;&#xA;Of God&amp;rsquo;s wide mercy, till the soil, plant&lt;br&gt;&#xA;The choicest vegetables, grill meat&lt;br&gt;&#xA;Upon an open flame. In short,&lt;br&gt;&#xA;Engage in derring-do,&lt;br&gt;&#xA;And leave upon the earth a healthy brand.&lt;/p&gt;&#xA;&lt;p&gt;Instead I shuffled off toward my job&lt;br&gt;&#xA;(leeching little life from radio&amp;rsquo;s wiles),&lt;br&gt;&#xA;Sat in my cubicle, answered emails,&lt;br&gt;&#xA;Took calls, called shots, most of which were small,&lt;br&gt;&#xA;Mundane, of little consequence. And while&lt;br&gt;&#xA;I always tried to do my best, at end&lt;br&gt;&#xA;Of day I&amp;rsquo;d lost so much to waste,&lt;br&gt;&#xA;My puny fight &amp;lsquo;gainst entropy unwon,&lt;br&gt;&#xA;And still to lose. I shuffled home, then&lt;br&gt;&#xA;Microwaved some food, watched video,&lt;br&gt;&#xA;Paid homage to the goods that fence me in&lt;br&gt;&#xA;And hinder me from seeing the sublime&lt;br&gt;&#xA;In humble living, mastery of self,&lt;br&gt;&#xA;Right conduct, purity of heart,&lt;br&gt;&#xA;And noble deed. Indulged on, fat&lt;br&gt;&#xA;And restless, I hied myself to bed&lt;br&gt;&#xA;So I could rest to do it all again,&lt;br&gt;&#xA;And leave yet more undone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Announcing ihopesolution.com</title>
-      <link>http://localhost:1315/2009/07/07/announcing-ihopesolutioncom/</link>
+      <link>http://localhost:1314/2009/07/07/announcing-ihopesolutioncom/</link>
       <pubDate>Tue, 07 Jul 2009 10:24:32 +0000</pubDate>
-      <guid>http://localhost:1315/2009/07/07/announcing-ihopesolutioncom/</guid>
+      <guid>http://localhost:1314/2009/07/07/announcing-ihopesolutioncom/</guid>
       <description>&lt;p&gt;So a &lt;a href=&#34;https://hoobajoobfaq.org&#34;&gt;sysadmin friend&lt;/a&gt; and I decided that there just&#xA;weren&amp;rsquo;t enough blogs about systems administration and linux out there. So we&#xA;started another one:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ihopesolution.com&#34;&gt;ihopesolution.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m sure it will develop its own voice, since we both have, um, firmly held&#xA;opinions about how things should be done. And odd senses of humor.&lt;/p&gt;&#xA;&lt;p&gt;Since I tend to use emacs more for writing and org-mode rather than&#xA;sysadminning, I&amp;rsquo;ll keep my emacs posts for my personal blog. (And so ends my&#xA;feeble attempt to justify tagging this &amp;ldquo;emacs&amp;rdquo; and watching it hit planet&#xA;emacsen.)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Goodbye Follies</title>
-      <link>http://localhost:1315/2009/05/11/goodbye-follies/</link>
+      <link>http://localhost:1314/2009/05/11/goodbye-follies/</link>
       <pubDate>Mon, 11 May 2009 08:17:57 +0000</pubDate>
-      <guid>http://localhost:1315/2009/05/11/goodbye-follies/</guid>
+      <guid>http://localhost:1314/2009/05/11/goodbye-follies/</guid>
       <description>&lt;p&gt;The tree-struck star stuck the landing,&lt;br&gt;&#xA;Knees nailed to ground, brow down,&lt;br&gt;&#xA;Soul still ensconced in briar crown.&lt;/p&gt;&#xA;&lt;p&gt;Apart from Him he&amp;rsquo;d hewn to&lt;br&gt;&#xA;Aspirations, plans He&amp;rsquo;d blewn to&lt;br&gt;&#xA;Smithereens; and left bereft he&lt;br&gt;&#xA;Clung to holy barque.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tuesday Juggernaut</title>
-      <link>http://localhost:1315/2009/05/08/tuesday-juggernaut/</link>
+      <link>http://localhost:1314/2009/05/08/tuesday-juggernaut/</link>
       <pubDate>Fri, 08 May 2009 09:42:27 +0000</pubDate>
-      <guid>http://localhost:1315/2009/05/08/tuesday-juggernaut/</guid>
+      <guid>http://localhost:1314/2009/05/08/tuesday-juggernaut/</guid>
       <description>&lt;p&gt;Sitting on the curb by the park bench&lt;br&gt;&#xA;Barefoot listen to the buzz growl&lt;br&gt;&#xA;Motors on the tires on the asphalt on the feet&lt;br&gt;&#xA;What a sandwich, what a sandwich&lt;br&gt;&#xA;Now God don&amp;rsquo;t exist but oh! this sandwich&lt;br&gt;&#xA;Slave to the toil for the belly, the hunger&lt;br&gt;&#xA;Wish I was slave for the love of another&lt;br&gt;&#xA;We born let to die and then, my brother&lt;br&gt;&#xA;The poet look cockeyed at whistling trees&lt;br&gt;&#xA;He call me a trickster, I ask &amp;ldquo;Who art thee?&lt;br&gt;&#xA;Are you of this world or are you born free?&lt;br&gt;&#xA;This concrete jungle, what&amp;rsquo;s in it for me?&amp;rdquo;&lt;br&gt;&#xA;That sandwich was tasty I wish I had pie&lt;br&gt;&#xA;If that&amp;rsquo;s all there is then it&amp;rsquo;s all been a lie&lt;br&gt;&#xA;Scatterbrain scatterbrain eat, poop, die&lt;/p&gt;</description>
     </item>
     <item>
       <title>When Love Attacks</title>
-      <link>http://localhost:1315/2009/03/17/when-love-attacks/</link>
+      <link>http://localhost:1314/2009/03/17/when-love-attacks/</link>
       <pubDate>Tue, 17 Mar 2009 14:05:34 +0000</pubDate>
-      <guid>http://localhost:1315/2009/03/17/when-love-attacks/</guid>
+      <guid>http://localhost:1314/2009/03/17/when-love-attacks/</guid>
       <description>&lt;p&gt;Love lies crouched on haunches,&lt;br&gt;&#xA;Coiled prehensile set to spring&lt;br&gt;&#xA;Unsuspecting upon prey.&lt;/p&gt;&#xA;&lt;p&gt;In the proper hour Love leaps,&lt;br&gt;&#xA;Thrusting self through myocardial tissue,&lt;br&gt;&#xA;Dissolving as a tear gas in the bloodstream.&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Finding a Document Production Workflow for Emacs</title>
-      <link>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
+      <link>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</link>
       <pubDate>Mon, 19 Jan 2009 10:48:56 +0000</pubDate>
-      <guid>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
+      <guid>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</guid>
       <description>&lt;p&gt;I have a modest goal: write some fiction. Instead of actually working toward&#xA;accomplishing that goal, I&amp;rsquo;m going to obsess about the toolchain and other&#xA;externalities used to support this endeavor.&lt;/p&gt;&#xA;&lt;p&gt;I will use revision control. By an accident of history I will be using git.&lt;/p&gt;&#xA;&lt;p&gt;I will use a text editor. Since I don&amp;rsquo;t want to have to run into frictions&#xA;from modal editing while fiction writing, I will be using Emacs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spaceman In Space</title>
-      <link>http://localhost:1315/2008/11/01/spaceman-in-space/</link>
+      <link>http://localhost:1314/2008/11/01/spaceman-in-space/</link>
       <pubDate>Sat, 01 Nov 2008 23:22:59 +0000</pubDate>
-      <guid>http://localhost:1315/2008/11/01/spaceman-in-space/</guid>
+      <guid>http://localhost:1314/2008/11/01/spaceman-in-space/</guid>
       <description>&lt;p&gt;Hurtling slowly through the void&lt;br&gt;&#xA;Floating about in a flight suit&lt;br&gt;&#xA;Checking, rechecking the ship&amp;rsquo;s math&lt;br&gt;&#xA;Occasionally putting the helmet on&lt;/p&gt;&#xA;&lt;p&gt;There are lots of checklists in space&lt;/p&gt;&#xA;&lt;p&gt;The ship always beats him at chess&lt;/p&gt;&#xA;&lt;p&gt;He never watches films anymore.&lt;br&gt;&#xA;He never reads novels anymore.&lt;br&gt;&#xA;Sometimes he cranks up the music,&lt;br&gt;&#xA;And sometimes he drifts in the silence.&lt;/p&gt;&#xA;&lt;p&gt;When he can&amp;rsquo;t sleep, he remembers when he used to dance the tango.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sombriety</title>
-      <link>http://localhost:1315/2008/09/22/sombriety/</link>
+      <link>http://localhost:1314/2008/09/22/sombriety/</link>
       <pubDate>Mon, 22 Sep 2008 16:00:43 +0000</pubDate>
-      <guid>http://localhost:1315/2008/09/22/sombriety/</guid>
+      <guid>http://localhost:1314/2008/09/22/sombriety/</guid>
       <description>&lt;p&gt;&amp;ldquo;You&amp;rsquo;re too funny.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Why? What did I do?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;She was laughing too hard to be taken aback. &amp;ldquo;What do you mean?&amp;rdquo; Snort.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;If I was &lt;em&gt;too&lt;/em&gt; funny, then I wasn&amp;rsquo;t &lt;em&gt;just the right amount&lt;/em&gt; of funny. When&#xA;did I cross the line?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Her hysterics subsided. &amp;ldquo;I&amp;rsquo;m not sure.&amp;rdquo; She instinctively reached for his&#xA;hand.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;I simply showed you the comic, which I thought was simply funny, and then&#xA;reiterated that I like the man in the last panel would be thinking about how&#xA;the bear might defend himself from&amp;hellip;&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Undead</title>
-      <link>http://localhost:1315/2008/09/02/undead/</link>
+      <link>http://localhost:1314/2008/09/02/undead/</link>
       <pubDate>Tue, 02 Sep 2008 10:09:45 +0000</pubDate>
-      <guid>http://localhost:1315/2008/09/02/undead/</guid>
+      <guid>http://localhost:1314/2008/09/02/undead/</guid>
       <description>&lt;p&gt;&amp;ldquo;Un-&amp;rdquo; is a negative prefix denoting the opposite of the word to which it is&#xA;affixed. The nearest equivalent prefix is &amp;ldquo;non-&amp;rdquo;, which denotes the same&#xA;thing. &amp;ldquo;Un-&amp;rdquo;, however, also possesses a connotation (in many applications of&#xA;the prefix) of time, where previously the state or thing that is not, once&#xA;was.&lt;/p&gt;&#xA;&lt;p&gt;In the case of zombies, the term &amp;ldquo;undead&amp;rdquo; is used to refer to them as a&#xA;collective whole, as a race or species. &amp;ldquo;Nondead&amp;rdquo; is less appropriate, for&#xA;while it would convey the fact that zombies are far more ambulatory than the&#xA;normative deceased, it fails to convey that the zombies were once dead; or, if&#xA;it does convey that, it does so with much less force.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Book Lending</title>
-      <link>http://localhost:1315/2008/08/30/book-lending/</link>
+      <link>http://localhost:1314/2008/08/30/book-lending/</link>
       <pubDate>Sat, 30 Aug 2008 09:23:29 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/30/book-lending/</guid>
+      <guid>http://localhost:1314/2008/08/30/book-lending/</guid>
       <description>&lt;p&gt;I have a new theory of book-lending. I&amp;rsquo;ve always been extremely recalcitrant&#xA;to lend out my precious, precious tomes. They are my babies. Letting someone&#xA;else read them who certainly doesn&amp;rsquo;t appreciate them to the same degree, or in&#xA;the same kind, is a risky proposition.&lt;/p&gt;&#xA;&lt;p&gt;My current reading pile includes a heaping helping of &lt;a href=&#34;https://en.wikipedia.org/wiki/Austrian_economics&#34;&gt;Austrian&#xA;Economics&lt;/a&gt;. I love this&#xA;stuff. A sense of economics on this scale rewires your brain circuitry (what a&#xA;crappy, ubiquitous brain-as-turing-machine metaphor) in subtle and not so&#xA;subtle ways. It is some of the best non-fiction reading I&amp;rsquo;ve engaged in in&#xA;years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Cubicle Men</title>
-      <link>http://localhost:1315/2008/08/22/the-cubicle-men/</link>
+      <link>http://localhost:1314/2008/08/22/the-cubicle-men/</link>
       <pubDate>Fri, 22 Aug 2008 17:27:01 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/22/the-cubicle-men/</guid>
+      <guid>http://localhost:1314/2008/08/22/the-cubicle-men/</guid>
       <description>&lt;p&gt;Wage servants sit glued to the glowing&lt;br&gt;&#xA;Of the monitors, manipulating&lt;br&gt;&#xA;Electrons of Industry.&lt;/p&gt;&#xA;&lt;p&gt;Inside, spleen gives way to toxins&lt;br&gt;&#xA;Untouched by liver, imbibed&lt;br&gt;&#xA;After terms of indenture.&lt;/p&gt;&#xA;&lt;p&gt;In deeper, indivisible selves wither,&lt;br&gt;&#xA;Except for the few that forge fearsomeness there.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Frittering</title>
-      <link>http://localhost:1315/2008/08/20/frittering/</link>
+      <link>http://localhost:1314/2008/08/20/frittering/</link>
       <pubDate>Wed, 20 Aug 2008 09:32:32 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/20/frittering/</guid>
+      <guid>http://localhost:1314/2008/08/20/frittering/</guid>
       <description>&lt;p&gt;I fritter away a lot of time. This bothers. I have a stack or two of notecards&#xA;I ostensibly use to keep track of what I should be doing in my sparer time.&#xA;It&amp;rsquo;s been a week since I used them. I instead allow urgent or interesting&#xA;tasks to fill my time. I don&amp;rsquo;t exert my will over this time like I ought.&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t wonder that [GTD](&lt;a href=&#34;https://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;locat&#34;&gt;https://www.amazon.com/gp/redirect.html?ie=UTF8&amp;amp;locat&lt;/a&gt;&#xA;ion=http%3A%2F%2Fwww.amazon.com%2FGetting-Things-Done-Stress-Free-Productivity&#xA;%2Fdp%2F0142000280%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1219350056%26sr%3D8-1&amp;amp;tag=p&#xA;hawkcom-20&amp;amp;linkCode=ur2&amp;amp;camp=1789&amp;amp;creative=9325)![](&lt;a href=&#34;https://www.assoc&#34;&gt;https://www.assoc&lt;/a&gt;-&#xA;amazon.com/e/ir?t=phawkcom-20&amp;amp;l=ur2&amp;amp;o=1) is so popular online. It really is&#xA;the ultimate self-help cottage industry. Promises of satisfaction for engaging&#xA;in bite-sized tasks with Pavlovian-addicting rewards (productivity!) and a&#xA;requirement for some physical products (book, labler, etc.) add up to a&#xA;healthy economic niche.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Only the Things that are Dead are Electric</title>
-      <link>http://localhost:1315/2008/08/12/only-the-things-that-are-dead-are-electric/</link>
+      <link>http://localhost:1314/2008/08/12/only-the-things-that-are-dead-are-electric/</link>
       <pubDate>Tue, 12 Aug 2008 09:29:35 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/12/only-the-things-that-are-dead-are-electric/</guid>
+      <guid>http://localhost:1314/2008/08/12/only-the-things-that-are-dead-are-electric/</guid>
       <description>&lt;p&gt;In the realm of Whimsy everything&amp;rsquo;s verdant:&lt;br&gt;&#xA;Centaurs at leisure braid each other&amp;rsquo;s hair.&lt;br&gt;&#xA;Ogres belch as they work on their cross-stitch.&lt;br&gt;&#xA;Weeping willow branches sparkle like wind-chimes.&lt;br&gt;&#xA;Knights take care not to trample on butterflies,&lt;br&gt;&#xA;Lest the King be unable to brew his tea.&lt;br&gt;&#xA;Unsurprisingly, mimes have nothing to say.&lt;/p&gt;&#xA;&lt;p&gt;Velveteen unicorns eat day-glo batteries,&lt;br&gt;&#xA;Drink carbonated rainbows.&lt;br&gt;&#xA;On Thursdays the King distributes gold stars&lt;br&gt;&#xA;To everyone who has achieved.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stupid Simple Bibsonomy to Delicious Migration</title>
-      <link>http://localhost:1315/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</link>
+      <link>http://localhost:1314/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</link>
       <pubDate>Mon, 11 Aug 2008 11:38:10 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</guid>
+      <guid>http://localhost:1314/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</guid>
       <description>&lt;p&gt;A while back I switched from &lt;a href=&#34;https://delicious.com&#34;&gt;delicious&lt;/a&gt; to&#xA;&lt;a href=&#34;https://bibsonomy.org&#34;&gt;bibsonomy&lt;/a&gt; to handle all my social bookmarking needs. I&#xA;was all taken in by the RDF backing. I decided recently to switch back, since&#xA;it didn&amp;rsquo;t have the user base and general ecosystem, it&amp;rsquo;s geared toward more&#xA;academic pursuits, and RDF isn&amp;rsquo;t all it&amp;rsquo;s cracked up to be. Here&amp;rsquo;s a tarball&#xA;of the scripts I used to move the bookmarks back into delicious:&lt;/p&gt;&#xA;&lt;p&gt;Download: &lt;a href=&#34;https://pfhawkins.com/bib2del.tgz&#34;&gt;bib2del&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>On Death</title>
-      <link>http://localhost:1315/2008/08/02/on-death/</link>
+      <link>http://localhost:1314/2008/08/02/on-death/</link>
       <pubDate>Sat, 02 Aug 2008 09:56:21 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/02/on-death/</guid>
+      <guid>http://localhost:1314/2008/08/02/on-death/</guid>
       <description>&lt;p&gt;Vile split of self from same,&lt;br&gt;&#xA;Extinguishing of vital flame;&lt;br&gt;&#xA;Halfway there is merely maim.&lt;/p&gt;&#xA;&lt;p&gt;In factories and bathroom stalls,&lt;br&gt;&#xA;Farmer&amp;rsquo;s fields and city halls,&lt;br&gt;&#xA;This interloper all men calls.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some Thoughts on The Dark Knight</title>
-      <link>http://localhost:1315/2008/07/28/some-thoughts-on-the-dark-knight/</link>
+      <link>http://localhost:1314/2008/07/28/some-thoughts-on-the-dark-knight/</link>
       <pubDate>Mon, 28 Jul 2008 17:38:22 +0000</pubDate>
-      <guid>http://localhost:1315/2008/07/28/some-thoughts-on-the-dark-knight/</guid>
+      <guid>http://localhost:1314/2008/07/28/some-thoughts-on-the-dark-knight/</guid>
       <description>&lt;p&gt;I went and saw the Dark Knight again. This time I went with my parents. My mom&#xA;is a pretty devout woman with a decent artistic sensibility. Afterward she was&#xA;still trying to process the experience, and it was good to get her take on&#xA;things.&lt;/p&gt;&#xA;&lt;p&gt;One thing she said that struck me: &amp;ldquo;Everyone says it&amp;rsquo;s lots darker than Batman&#xA;Begins. I hate that. It&amp;rsquo;s not dark, it&amp;rsquo;s sadistic.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;In one sense, she&amp;rsquo;s right. It is sadistic. But the sense in which she&amp;rsquo;s right&#xA;is incomplete. The &lt;em&gt;Joker&lt;/em&gt; is sadistic, not the film. He is a twisted sadist&#xA;whose mere presence should have given the film an R rating. But the film&#xA;doesn&amp;rsquo;t glorify that evil, it &lt;em&gt;exposes&lt;/em&gt; it. It presents a glimmer of hope and&#xA;a dash of martyrdom in the face of such evil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Paradigmatic Computational Constructs</title>
-      <link>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</link>
+      <link>http://localhost:1314/2008/06/18/paradigmatic-computational-constructs/</link>
       <pubDate>Wed, 18 Jun 2008 08:19:31 +0000</pubDate>
-      <guid>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</guid>
+      <guid>http://localhost:1314/2008/06/18/paradigmatic-computational-constructs/</guid>
       <description>&lt;p&gt;Bits byte the address space&lt;br&gt;&#xA;All round the spinning plate,&lt;br&gt;&#xA;In the Mathematic place;&lt;/p&gt;&#xA;&lt;p&gt;Objects soon instantiate;&lt;br&gt;&#xA;Network packets rush to take;&lt;br&gt;&#xA;Threads start to bifurcate;&lt;/p&gt;&#xA;&lt;p&gt;Dot/configure and and make;&lt;br&gt;&#xA;Computation filled with grace.&lt;br&gt;&#xA;Unto us, Von Neumann spake.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blogging is Not a Science</title>
-      <link>http://localhost:1315/2008/05/19/blogging-is-not-a-science/</link>
+      <link>http://localhost:1314/2008/05/19/blogging-is-not-a-science/</link>
       <pubDate>Mon, 19 May 2008 10:50:47 +0000</pubDate>
-      <guid>http://localhost:1315/2008/05/19/blogging-is-not-a-science/</guid>
+      <guid>http://localhost:1314/2008/05/19/blogging-is-not-a-science/</guid>
       <description>&lt;p&gt;There is something about data that recommends itself. The more data you have&#xA;the more you ostensibly know about the subject; the more you know the better&#xA;basis you have for your decisions; the better foundation for your decisions&#xA;the higher the odds your decisions are the right ones. Everyone likes to make&#xA;the right decisions. Few things are as truly satisfying.&lt;/p&gt;&#xA;&lt;p&gt;That said, most data are crap. If they&amp;rsquo;re not inaccurate then they draw your&#xA;focus to the wrong thing. Instead of basing your decisions on what it is&#xA;you&amp;rsquo;re actually doing, you&amp;rsquo;re basing them on a reading of the effects they had&#xA;the last time you did them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thoughts Writers Have</title>
-      <link>http://localhost:1315/2008/05/11/thoughts-writers-have/</link>
+      <link>http://localhost:1314/2008/05/11/thoughts-writers-have/</link>
       <pubDate>Sun, 11 May 2008 03:53:55 +0000</pubDate>
-      <guid>http://localhost:1315/2008/05/11/thoughts-writers-have/</guid>
+      <guid>http://localhost:1314/2008/05/11/thoughts-writers-have/</guid>
       <description>&lt;p&gt;I could really go for a smoke. I&amp;rsquo;m a non-smoker. The most I ever smoked was&#xA;three times in one kinda stressful week in college. And I try to buy the good&#xA;stuff when I do. No Camels for me.&lt;/p&gt;&#xA;&lt;p&gt;If I ever want a smoke, it&amp;rsquo;s because I&amp;rsquo;ve an itch that needs scratching, and a&#xA;cigarette seems like the shortest path to itch relief. It never is though.&#xA;There&amp;rsquo;s a deeper underlying reason why I have dry skin. The itching won&amp;rsquo;t&#xA;abate until I eat my vitamins, or eat animal fats, or stop eating melons, or&#xA;get new genes. The rest is vapid style.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Allen Ginsberg vs. the Internet</title>
-      <link>http://localhost:1315/2008/03/08/allen-ginsberg-vs-the-internet/</link>
+      <link>http://localhost:1314/2008/03/08/allen-ginsberg-vs-the-internet/</link>
       <pubDate>Sat, 08 Mar 2008 00:48:34 +0000</pubDate>
-      <guid>http://localhost:1315/2008/03/08/allen-ginsberg-vs-the-internet/</guid>
+      <guid>http://localhost:1314/2008/03/08/allen-ginsberg-vs-the-internet/</guid>
       <description>&lt;p&gt;Allen Ginsberg sang the slow poetry of the technological age before its time.&#xA;He took the time to wallow in the horrors of the banal that flit by us as fast&#xA;as we can click thru. With Whitman as his muse, he turned our eyes from nature&#xA;to our fractured nature, and held our gaze.&lt;/p&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t even especially like Ginsberg&amp;rsquo;s poetry. Give me Hopkins any day. But&#xA;the torrent of measured fitfulness poured out as a fruitless libation, sterile&#xA;poetry stank with death, demise, burrowing in little rat holes for faint hope;&#xA;well there&amp;rsquo;s more &lt;em&gt;there&lt;/em&gt; there than the internet, right? A goodly bit of the&#xA;tubes piping bare flesh into bare hands and barren hearts, the rest amalgams&#xA;of news, quizzes, pokes, wanton squealing over shiny things, and poor people&#xA;mortgaging themselves on the next turn-key SEO keyword whitepaper build an&#xA;audience dropship four hour solution (run on index cards, of all things). Well&#xA;of course Ginsberg&amp;rsquo;s deadbeat doped out strung hipster buds and their very&#xA;real suffering has more life than that. Life takes time. Poetry takes time.&#xA;The tubes steal attention, the grist of living. Time bandits. Attention&#xA;pirates. Design masquerading as art. The shocking parading as feeling. This&#xA;pause pretending to be an ending.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hurl</title>
-      <link>http://localhost:1315/2008/02/25/hurl/</link>
+      <link>http://localhost:1314/2008/02/25/hurl/</link>
       <pubDate>Mon, 25 Feb 2008 16:22:23 +0000</pubDate>
-      <guid>http://localhost:1315/2008/02/25/hurl/</guid>
+      <guid>http://localhost:1314/2008/02/25/hurl/</guid>
       <description>&lt;p&gt;I saw the best minds of mah generation&lt;br&gt;&#xA;Hurtling down the intertubes&lt;br&gt;&#xA;Captioning photos of felines in bold sans serif&lt;br&gt;&#xA;cuteness aplenty, lolling all over myself&lt;br&gt;&#xA;Eager to disprove or win by force your momma, mah bukkit, bukkake&lt;br&gt;&#xA;Full of fail&lt;/p&gt;&#xA;&lt;p&gt;Let us read &lt;a href=&#34;https://www.youtube.com/watch?v=eBGIQ7ZuuiU&#34;&gt;this treatise on the death star&lt;/a&gt;, how it is like unto a womb.&lt;/p&gt;&#xA;&lt;p&gt;THIS POEM HAS BEEN RICK-ROLLED&lt;/p&gt;&#xA;&lt;p&gt;I could bury you with a staggering&lt;br&gt;&#xA;inventory of despicable instaculture&lt;br&gt;&#xA;Perpetuated by the hypothalamus kickstart&lt;br&gt;&#xA;Suns out, reboot Mountain Dew Ganja&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Thoughts Exactly re: Singularity</title>
-      <link>http://localhost:1315/2008/01/29/my-thoughts-exactly-re-singularity/</link>
+      <link>http://localhost:1314/2008/01/29/my-thoughts-exactly-re-singularity/</link>
       <pubDate>Tue, 29 Jan 2008 13:58:01 +0000</pubDate>
-      <guid>http://localhost:1315/2008/01/29/my-thoughts-exactly-re-singularity/</guid>
+      <guid>http://localhost:1314/2008/01/29/my-thoughts-exactly-re-singularity/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been meaning to write &lt;a href=&#34;https://web.archive.org/web/20140406203245/http://www.booksunderthebridge.com/2008/01/spitting-in-eye-of-technological.html&#34;&gt;this exact post&lt;/a&gt; on the singularity. Apparently I no longer have to.&#xA;Thanks, lazyweb!&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Use Emacs</title>
-      <link>http://localhost:1315/2007/10/15/how-i-use-emacs/</link>
+      <link>http://localhost:1314/2007/10/15/how-i-use-emacs/</link>
       <pubDate>Mon, 15 Oct 2007 16:17:18 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/15/how-i-use-emacs/</guid>
+      <guid>http://localhost:1314/2007/10/15/how-i-use-emacs/</guid>
       <description>&lt;p&gt;When I started using Emacs, I had grandiose notions of producing copious&#xA;amounts of prose, linking it together in all sorts of interesting and helpful&#xA;ways, and basically revolutionizing the way I experienced computers. But most&#xA;of all, I had a new and urgent desire to do everything from the keyboard in a&#xA;blazingly efficient manner.&lt;/p&gt;&#xA;&lt;p&gt;I proceeded to burn the Emacs keybindings into my brain and fingers. I&#xA;developed some slightly inefficient workflows (copying and pasting from text&#xA;documents into OpenOffice documents, editing the original text file based on&#xA;whatever page length I was going for, rinse and repeat until paper is&#xA;produced) that were, on the whole, a net gain due to the speed of typing&#xA;without mousing. The linux filesystem positively danced under my fingertips. I&#xA;had more control over my system than I had ever had on Windows.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How I Came to Love Emacs</title>
-      <link>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</link>
+      <link>http://localhost:1314/2007/10/10/how-i-came-to-love-emacs/</link>
       <pubDate>Wed, 10 Oct 2007 11:25:26 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</guid>
+      <guid>http://localhost:1314/2007/10/10/how-i-came-to-love-emacs/</guid>
       <description>&lt;p&gt;This is the story of a man and his favorite text editor.&lt;/p&gt;&#xA;&lt;p&gt;In 2001, I was a freshman in college, which meant the closest thing to&#xA;highspeed internet that I had hitherto experienced. Which upped my time&#xA;surfing the web. One of the delightful sites I lighted upon was&#xA;&lt;a href=&#34;https://ftrain.com&#34;&gt;Ftrain.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;One day, I dug through Ftrain&amp;rsquo;s archives and found &lt;a href=&#34;https://ftrain.com/util_emacs_hints.html&#34;&gt;Emacs&#xA;Notepad&lt;/a&gt;. I was intrigued. Having&#xA;exclusively used Word (and Notepad to edit HTML - ha!) up until that point,&#xA;this Emacs thingy sounded fascinating. I downloaded a Windows version right&#xA;away.&lt;/p&gt;</description>
     </item>
     <item>
       <title>I don’t want to end up like this</title>
-      <link>http://localhost:1315/2007/10/03/i-dont-want-to-end-up-like-this/</link>
+      <link>http://localhost:1314/2007/10/03/i-dont-want-to-end-up-like-this/</link>
       <pubDate>Wed, 03 Oct 2007 12:10:26 +0000</pubDate>
-      <guid>http://localhost:1315/2007/10/03/i-dont-want-to-end-up-like-this/</guid>
+      <guid>http://localhost:1314/2007/10/03/i-dont-want-to-end-up-like-this/</guid>
       <description>&lt;p&gt;I previously mentioned that I was working on my own custom blog software for&#xA;this site. I&amp;rsquo;m not posting as I do so, because if I did, I&amp;rsquo;d end up with&#xA;something like &lt;a href=&#34;https://www.ftrain.com/archive_ftrainone_919746918.html&#34;&gt;this&lt;/a&gt;.&#xA;And you don&amp;rsquo;t want to read that, do you?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suckage</title>
-      <link>http://localhost:1315/2007/09/19/suckage/</link>
+      <link>http://localhost:1314/2007/09/19/suckage/</link>
       <pubDate>Wed, 19 Sep 2007 06:32:25 +0000</pubDate>
-      <guid>http://localhost:1315/2007/09/19/suckage/</guid>
+      <guid>http://localhost:1314/2007/09/19/suckage/</guid>
       <description>&lt;p&gt;The only to write well is to write often and get the kinks out. I don&amp;rsquo;t write&#xA;well yet. Therefore, expect to see a fair deal of suckage in this space before&#xA;you start to see amazing prose of stunning brilliance. (And then, thank God&#xA;that you&amp;rsquo;re only seeing a fraction of what I&amp;rsquo;m actually writing).&lt;/p&gt;&#xA;&lt;p&gt;You have been warned.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Decisions, decisions</title>
-      <link>http://localhost:1315/2007/09/14/decisions-decisions/</link>
+      <link>http://localhost:1314/2007/09/14/decisions-decisions/</link>
       <pubDate>Fri, 14 Sep 2007 07:02:23 +0000</pubDate>
-      <guid>http://localhost:1315/2007/09/14/decisions-decisions/</guid>
+      <guid>http://localhost:1314/2007/09/14/decisions-decisions/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m not just being quiet here, dear hypothetical reader; I&amp;rsquo;m sitting on a&#xA;couple of posts, waiting for the perfect time to post them. I realize that&#xA;they are going unread just sitting on my hard drive. It&amp;rsquo;s just that I&amp;rsquo;m not&#xA;confident that they are any good.&lt;/p&gt;&#xA;&lt;p&gt;One of the posts is the first in a series of posts on authors who choose to&#xA;utilize their first and middle initials in public, rather than their full&#xA;names. (Thanks to the reality of domain names, and the fact that &lt;a href=&#34;https://www.patrickhawkins.net&#34;&gt;some&#xA;organist&lt;/a&gt; beat me to it, I&amp;rsquo;ve decided to go&#xA;down this route as well.) Interesting concept for a series, or a complete dud?&#xA;Who knows until I actually post?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Review: Nova by Samuel Delany</title>
-      <link>http://localhost:1315/2007/09/06/review-nova-by-samuel-delany/</link>
+      <link>http://localhost:1314/2007/09/06/review-nova-by-samuel-delany/</link>
       <pubDate>Thu, 06 Sep 2007 07:19:38 +0000</pubDate>
-      <guid>http://localhost:1315/2007/09/06/review-nova-by-samuel-delany/</guid>
+      <guid>http://localhost:1314/2007/09/06/review-nova-by-samuel-delany/</guid>
       <description>&lt;p&gt;[Nova](&lt;a href=&#34;https://www.amazon.com/gp/product/0375706704?ie=UTF8&amp;amp;tag=phawkcom-20&amp;amp;lin&#34;&gt;https://www.amazon.com/gp/product/0375706704?ie=UTF8&amp;amp;tag=phawkcom-20&amp;amp;lin&lt;/a&gt;&#xA;kCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0375706704)![](https://www&#xA;.assoc-amazon.com/e/ir?t=phawkcom-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=0375706704) is a gem of a&#xA;novel. If you can get past one huge &lt;em&gt;faux pas&lt;/em&gt;, any sf buff with half a brain&#xA;should find something to enjoy in this book.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Nova&lt;/em&gt; is primarily a space opera. If you don&amp;rsquo;t like space opera, don&amp;rsquo;t worry,&#xA;the book is more than just space opera. It is a thoughtful extrapolation of&#xA;the future (well, except for the &lt;em&gt;faux pas&lt;/em&gt;), as well as a philosophical mind-&#xA;twister. But it is primarily a space opera.&lt;/p&gt;</description>
     </item>
     <item>
       <title>If You Read, You Should Read “A Reader’s Manifesto”</title>
-      <link>http://localhost:1315/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</link>
+      <link>http://localhost:1314/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</link>
       <pubDate>Sat, 01 Sep 2007 11:07:07 +0000</pubDate>
-      <guid>http://localhost:1315/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</guid>
+      <guid>http://localhost:1314/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</guid>
       <description>&lt;p&gt;This essay on reading is captioned by the editor &amp;ldquo;An attack on the growing&#xA;pretentiousness of American literary prose&amp;rdquo;. And boy howdy!&lt;/p&gt;&#xA;&lt;p&gt;[https://www.theatlantic.com/doc/200107/myers](&lt;a href=&#34;https://www.theatlantic.com/doc/2&#34;&gt;https://www.theatlantic.com/doc/2&lt;/a&gt;&#xA;00107/myers)&lt;/p&gt;&#xA;&lt;p&gt;I highly recommend it for anyone who reads fiction at all whatsoever.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Review: Doomsday Book</title>
-      <link>http://localhost:1315/2007/08/30/review-doomsday-book/</link>
+      <link>http://localhost:1314/2007/08/30/review-doomsday-book/</link>
       <pubDate>Thu, 30 Aug 2007 09:58:27 +0000</pubDate>
-      <guid>http://localhost:1315/2007/08/30/review-doomsday-book/</guid>
+      <guid>http://localhost:1314/2007/08/30/review-doomsday-book/</guid>
       <description>&lt;p&gt;I just finished reading Connie Willis&amp;rsquo;s [Doomsday Book](&lt;a href=&#34;https://www.amazon.com/&#34;&gt;https://www.amazon.com/&lt;/a&gt;&#xA;gp/product/0553562738?ie=UTF8&amp;amp;tag=phawkcom-20&amp;amp;linkCodeas2&amp;amp;camp=1789&amp;amp;creative=9&#xA;325&amp;amp;creativeASIN=0553562738). Let me just say that I am significantly less&#xA;than whelmed. If there&amp;rsquo;s a bar here, about yay high, and it&amp;rsquo;s got &amp;ldquo;Whelmed&amp;rdquo;&#xA;written on it in big block letters, this book is significantly under the bar.&lt;/p&gt;&#xA;&lt;p&gt;Now I understand why it is a popular book. It is conventional. Very few, if&#xA;any, science fiction tropes are involved at all (aside from some cutesie&#xA;names, such as &amp;ldquo;vids&amp;rdquo; for &amp;ldquo;movies&amp;rdquo;, all phone calls are videophone calls&#xA;[although none of those are cellphone calls; the book was written in the&#xA;painfully early nineties, so it gets a pass on that one], and time travel).&#xA;The drama of the story is in efforts of the two protagonists, Kivrin in the&#xA;1300s and Dunworthy in the 2050s, trying to get Kivrin out of the plague. But&#xA;the drama is conventional drama. There is no sensawonder here. Which would be&#xA;fine, if there were some Weighty Concepts of Great Literature being explored&#xA;here. But there&amp;rsquo;s none of those either. Here&amp;rsquo;s what I would consider the&#xA;themes of the book (if I was forced to by an English Teacher with a weapon of&#xA;some sort):&lt;/p&gt;</description>
     </item>
     <item>
       <title>Extramundane</title>
-      <link>http://localhost:1315/2007/08/22/extramundane/</link>
+      <link>http://localhost:1314/2007/08/22/extramundane/</link>
       <pubDate>Wed, 22 Aug 2007 13:03:28 +0000</pubDate>
-      <guid>http://localhost:1315/2007/08/22/extramundane/</guid>
+      <guid>http://localhost:1314/2007/08/22/extramundane/</guid>
       <description>&lt;p&gt;I was going through &lt;a href=&#34;https://www.amazon.com/gp/product/0684857618?ie=UTF8&amp;amp;tag=phawkcom-20&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0684857618&#34;&gt;The Word Museum: The Most Remarkable English Words Ever Forgotten&lt;/a&gt; and I found this&#xA;complete gem of a word:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Extramundane: the infinite empty space, which is by some supposed to be&#xA;extended beyond the bounds of the universe, and in which there is nothing at&#xA;all.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;That is very near what I would call a perfect word. As is this other one I&#xA;found:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Stellascript: That which is written in the stars.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1315/2007/08/11/first-post/</link>
+      <link>http://localhost:1314/2007/08/11/first-post/</link>
       <pubDate>Sat, 11 Aug 2007 09:58:12 +0000</pubDate>
-      <guid>http://localhost:1315/2007/08/11/first-post/</guid>
+      <guid>http://localhost:1314/2007/08/11/first-post/</guid>
       <description>&lt;p&gt;Welcome to pfhawkins.com!&lt;/p&gt;&#xA;&lt;p&gt;My name is P.F. Hawkins. I have a first name and a middle name of which I am&#xA;not ashamed (unlike Clive Staples Lewis or Pelham Grenville Wodehouse), but my&#xA;first name/last name combination was not available as a domain name, so I&#xA;thought I would imitate them in using my first two initials.&lt;/p&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t decided whether or not I am going to use this site as a serious,&#xA;work-related sort of site for freelancing (I might start copywriting on the&#xA;side), or if I&amp;rsquo;m going to ignore all that and go with my life-long dream of&#xA;becoming a published novelist. Probably the latter. Hopefully after doing this&#xA;for a few months, the site will take on a life of its own. But in the&#xA;meantime, feel free to stick around and watch me thrash about whilst I find my&#xA;voice.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,16 +1,16 @@
 {{ partial "header.html" . }}
-  <main class="w-100 mw-100 center cf pa3 pa4-ns">
-    <div class="fl w-100 ph4 bg-white near-black">
-      <h1 class="f2 f-subheadline-m f-headline-l mt4 mb2 ttu tracked-tight helvetica ">{{ .Site.Params.title }}</h1>
-      <p class="f1-ns f3 mt1 mb0 pt0 pb3 b helvetica">{{ $.Site.Params.description }}</p>
+  <main class="w-full max-w-full mx-auto clearfix p-3 md:p-4">
+    <div class="float-left w-full px-4 bg-white text-gray-900">
+      <h1 class="text-2xl md:text-3xl lg:text-4xl mt-4 mb-2 uppercase tracking-tight font-sans">{{ .Site.Params.title }}</h1>
+      <p class="text-3xl md:text-3xl mt-1 mb-0 pt-0 pb-3 font-bold font-sans">{{ $.Site.Params.description }}</p>
     </div>
-      <div class="fl w-100 bg-white near-black pl4">
-        <a href="/categories" class="link dim red f3 f1-m f1-l pr4 helvetica b">categories</a>
-        <a href="/tags" class="link dim red f3 f1-m f1-l pr4 helvetica b">tags</a>
-        <a href="/about" class="link dim red f3 f1-m f1-l pr4 helvetica b">about</a>
+      <div class="float-left w-full bg-white text-gray-900 pl-4">
+        <a href="/categories" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">categories</a>
+        <a href="/tags" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">tags</a>
+        <a href="/about" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">about</a>
       </div>
-    <div class="cf fl w-100 helvetica ttc bg-white pr4">
-            <ul class="pl4">
+    <div class="clearfix float-left w-full font-sans bg-white pr-4">
+            <ul class="pl-4">
             {{ range where (.Paginator 10000).Pages "Section" "blog"}}
                     {{ partial "li.html" . }}
             {{ end }}

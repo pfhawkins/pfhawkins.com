@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on </title>
-    <link>http://localhost:1315/tags/books/</link>
+    <link>http://localhost:1314/tags/books/</link>
     <description>Recent content in Books on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 30 Aug 2008 09:23:29 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1315/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1314/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Book Lending</title>
-      <link>http://localhost:1315/2008/08/30/book-lending/</link>
+      <link>http://localhost:1314/2008/08/30/book-lending/</link>
       <pubDate>Sat, 30 Aug 2008 09:23:29 +0000</pubDate>
-      <guid>http://localhost:1315/2008/08/30/book-lending/</guid>
+      <guid>http://localhost:1314/2008/08/30/book-lending/</guid>
       <description>&lt;p&gt;I have a new theory of book-lending. I&amp;rsquo;ve always been extremely recalcitrant&#xA;to lend out my precious, precious tomes. They are my babies. Letting someone&#xA;else read them who certainly doesn&amp;rsquo;t appreciate them to the same degree, or in&#xA;the same kind, is a risky proposition.&lt;/p&gt;&#xA;&lt;p&gt;My current reading pile includes a heaping helping of &lt;a href=&#34;https://en.wikipedia.org/wiki/Austrian_economics&#34;&gt;Austrian&#xA;Economics&lt;/a&gt;. I love this&#xA;stuff. A sense of economics on this scale rewires your brain circuitry (what a&#xA;crappy, ubiquitous brain-as-turing-machine metaphor) in subtle and not so&#xA;subtle ways. It is some of the best non-fiction reading I&amp;rsquo;ve engaged in in&#xA;years.&lt;/p&gt;</description>
     </item>
   </channel>

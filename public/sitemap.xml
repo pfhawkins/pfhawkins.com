@@ -2,454 +2,454 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1315/</loc>
+    <loc>http://localhost:1314/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/blog/</loc>
+    <loc>http://localhost:1314/blog/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/</loc>
+    <loc>http://localhost:1314/categories/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/cryptography/</loc>
+    <loc>http://localhost:1314/tags/cryptography/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/exit-keybase/</loc>
+    <loc>http://localhost:1314/exit-keybase/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/identity/</loc>
+    <loc>http://localhost:1314/tags/identity/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/keybase/</loc>
+    <loc>http://localhost:1314/tags/keybase/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/</loc>
+    <loc>http://localhost:1314/tags/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/thought/</loc>
+    <loc>http://localhost:1314/categories/thought/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/zoom/</loc>
+    <loc>http://localhost:1314/tags/zoom/</loc>
     <lastmod>2020-06-10T14:36:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/about/</loc>
+    <loc>http://localhost:1314/about/</loc>
     <lastmod>2020-06-04T11:11:26-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/essay/</loc>
+    <loc>http://localhost:1314/categories/essay/</loc>
     <lastmod>2016-11-20T20:18:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/identity-and-cryptography-in-the-current-year/</loc>
+    <loc>http://localhost:1314/identity-and-cryptography-in-the-current-year/</loc>
     <lastmod>2016-11-20T20:18:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/pgp/</loc>
+    <loc>http://localhost:1314/tags/pgp/</loc>
     <lastmod>2016-11-20T20:18:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/api/</loc>
+    <loc>http://localhost:1314/tags/api/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/hypertext/</loc>
+    <loc>http://localhost:1314/tags/hypertext/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/hyperverses/</loc>
+    <loc>http://localhost:1314/tags/hyperverses/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/literature/</loc>
+    <loc>http://localhost:1314/tags/literature/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2012/10/05/on-hyperverses/</loc>
+    <loc>http://localhost:1314/2012/10/05/on-hyperverses/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2012/06/06/a-principle-regarding-ends-and-means/</loc>
+    <loc>http://localhost:1314/2012/06/06/a-principle-regarding-ends-and-means/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/ends/</loc>
+    <loc>http://localhost:1314/tags/ends/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/ethics/</loc>
+    <loc>http://localhost:1314/tags/ethics/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/means/</loc>
+    <loc>http://localhost:1314/tags/means/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/morality/</loc>
+    <loc>http://localhost:1314/tags/morality/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/philosophy/</loc>
+    <loc>http://localhost:1314/tags/philosophy/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/etymology/</loc>
+    <loc>http://localhost:1314/tags/etymology/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/poem/</loc>
+    <loc>http://localhost:1314/categories/poem/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/skynet/</loc>
+    <loc>http://localhost:1314/tags/skynet/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/words/</loc>
+    <loc>http://localhost:1314/tags/words/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2012/04/30/wordsmithy/</loc>
+    <loc>http://localhost:1314/2012/04/30/wordsmithy/</loc>
     <lastmod>2012-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/medium-and-the-message/</loc>
+    <loc>http://localhost:1314/tags/medium-and-the-message/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/narrative/</loc>
+    <loc>http://localhost:1314/tags/narrative/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/psychology/</loc>
+    <loc>http://localhost:1314/tags/psychology/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/story/</loc>
+    <loc>http://localhost:1314/tags/story/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2012/01/25/the-gamification-of-storytelling/</loc>
+    <loc>http://localhost:1314/2012/01/25/the-gamification-of-storytelling/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/art/</loc>
+    <loc>http://localhost:1314/tags/art/</loc>
     <lastmod>2012-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/collage/</loc>
+    <loc>http://localhost:1314/tags/collage/</loc>
     <lastmod>2012-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2012/01/19/my-fling-with-mixel/</loc>
+    <loc>http://localhost:1314/2012/01/19/my-fling-with-mixel/</loc>
     <lastmod>2012-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/software/</loc>
+    <loc>http://localhost:1314/tags/software/</loc>
     <lastmod>2012-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/colophon/</loc>
+    <loc>http://localhost:1314/tags/colophon/</loc>
     <lastmod>2011-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/cringe/</loc>
+    <loc>http://localhost:1314/tags/cringe/</loc>
     <lastmod>2011-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/meta/</loc>
+    <loc>http://localhost:1314/tags/meta/</loc>
     <lastmod>2011-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2011/12/18/mundanities-behind-the-curtain/</loc>
+    <loc>http://localhost:1314/2011/12/18/mundanities-behind-the-curtain/</loc>
     <lastmod>2011-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2011/09/22/hawkins-law/</loc>
+    <loc>http://localhost:1314/2011/09/22/hawkins-law/</loc>
     <lastmod>2011-09-22T16:39:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/laws/</loc>
+    <loc>http://localhost:1314/tags/laws/</loc>
     <lastmod>2011-09-22T16:39:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/demon/</loc>
+    <loc>http://localhost:1314/tags/demon/</loc>
     <lastmod>2010-12-14T00:12:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2010/12/14/grass-demons/</loc>
+    <loc>http://localhost:1314/2010/12/14/grass-demons/</loc>
     <lastmod>2010-12-14T00:12:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/hell/</loc>
+    <loc>http://localhost:1314/tags/hell/</loc>
     <lastmod>2010-12-14T00:12:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2010/01/29/dank/</loc>
+    <loc>http://localhost:1314/2010/01/29/dank/</loc>
     <lastmod>2010-01-29T06:37:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/highway/</loc>
+    <loc>http://localhost:1314/tags/highway/</loc>
     <lastmod>2010-01-29T06:37:15+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/emacs/</loc>
+    <loc>http://localhost:1314/tags/emacs/</loc>
     <lastmod>2009-09-02T07:35:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/09/02/in-which-i-stump-for-vi/</loc>
+    <loc>http://localhost:1314/2009/09/02/in-which-i-stump-for-vi/</loc>
     <lastmod>2009-09-02T07:35:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/keybindings/</loc>
+    <loc>http://localhost:1314/tags/keybindings/</loc>
     <lastmod>2009-09-02T07:35:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/link/</loc>
+    <loc>http://localhost:1314/categories/link/</loc>
     <lastmod>2009-09-02T07:35:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/vim/</loc>
+    <loc>http://localhost:1314/tags/vim/</loc>
     <lastmod>2009-09-02T07:35:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/eternal-damnation/</loc>
+    <loc>http://localhost:1314/tags/eternal-damnation/</loc>
     <lastmod>2009-08-06T07:57:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/08/06/hell-or-something-like-it/</loc>
+    <loc>http://localhost:1314/2009/08/06/hell-or-something-like-it/</loc>
     <lastmod>2009-08-06T07:57:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/film/</loc>
+    <loc>http://localhost:1314/tags/film/</loc>
     <lastmod>2009-07-16T10:14:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/07/16/talkies/</loc>
+    <loc>http://localhost:1314/2009/07/16/talkies/</loc>
     <lastmod>2009-07-16T10:14:53+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/aspirations/</loc>
+    <loc>http://localhost:1314/tags/aspirations/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/cubicle/</loc>
+    <loc>http://localhost:1314/tags/cubicle/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/death/</loc>
+    <loc>http://localhost:1314/tags/death/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/entropy/</loc>
+    <loc>http://localhost:1314/tags/entropy/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/07/13/entropy-lament/</loc>
+    <loc>http://localhost:1314/2009/07/13/entropy-lament/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/systems-administration/</loc>
+    <loc>http://localhost:1314/tags/systems-administration/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/work/</loc>
+    <loc>http://localhost:1314/tags/work/</loc>
     <lastmod>2009-07-13T08:08:11+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/07/07/announcing-ihopesolutioncom/</loc>
+    <loc>http://localhost:1314/2009/07/07/announcing-ihopesolutioncom/</loc>
     <lastmod>2009-07-07T10:24:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/linux/</loc>
+    <loc>http://localhost:1314/tags/linux/</loc>
     <lastmod>2009-07-07T10:24:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/barque/</loc>
+    <loc>http://localhost:1314/tags/barque/</loc>
     <lastmod>2009-05-11T08:17:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/05/11/goodbye-follies/</loc>
+    <loc>http://localhost:1314/2009/05/11/goodbye-follies/</loc>
     <lastmod>2009-05-11T08:17:57+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/park-bench/</loc>
+    <loc>http://localhost:1314/tags/park-bench/</loc>
     <lastmod>2009-05-08T09:42:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/sandwich/</loc>
+    <loc>http://localhost:1314/tags/sandwich/</loc>
     <lastmod>2009-05-08T09:42:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/trickster/</loc>
+    <loc>http://localhost:1314/tags/trickster/</loc>
     <lastmod>2009-05-08T09:42:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/05/08/tuesday-juggernaut/</loc>
+    <loc>http://localhost:1314/2009/05/08/tuesday-juggernaut/</loc>
     <lastmod>2009-05-08T09:42:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/love/</loc>
+    <loc>http://localhost:1314/tags/love/</loc>
     <lastmod>2009-03-17T14:05:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/myocardial-tissue/</loc>
+    <loc>http://localhost:1314/tags/myocardial-tissue/</loc>
     <lastmod>2009-03-17T14:05:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/03/17/when-love-attacks/</loc>
+    <loc>http://localhost:1314/2009/03/17/when-love-attacks/</loc>
     <lastmod>2009-03-17T14:05:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/git/</loc>
+    <loc>http://localhost:1314/tags/git/</loc>
     <lastmod>2009-01-19T10:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/markdown/</loc>
+    <loc>http://localhost:1314/tags/markdown/</loc>
     <lastmod>2009-01-19T10:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</loc>
+    <loc>http://localhost:1314/2009/01/19/on-finding-a-document-production-workflow-for-emacs/</loc>
     <lastmod>2009-01-19T10:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/pandoc/</loc>
+    <loc>http://localhost:1314/tags/pandoc/</loc>
     <lastmod>2009-01-19T10:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/writing/</loc>
+    <loc>http://localhost:1314/tags/writing/</loc>
     <lastmod>2009-01-19T10:48:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/loneliness/</loc>
+    <loc>http://localhost:1314/tags/loneliness/</loc>
     <lastmod>2008-11-01T23:22:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/space/</loc>
+    <loc>http://localhost:1314/tags/space/</loc>
     <lastmod>2008-11-01T23:22:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/11/01/spaceman-in-space/</loc>
+    <loc>http://localhost:1314/2008/11/01/spaceman-in-space/</loc>
     <lastmod>2008-11-01T23:22:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/tango/</loc>
+    <loc>http://localhost:1314/tags/tango/</loc>
     <lastmod>2008-11-01T23:22:59+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/batman/</loc>
+    <loc>http://localhost:1314/tags/batman/</loc>
     <lastmod>2008-09-22T16:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/bus/</loc>
+    <loc>http://localhost:1314/tags/bus/</loc>
     <lastmod>2008-09-22T16:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/fiction/</loc>
+    <loc>http://localhost:1314/categories/fiction/</loc>
     <lastmod>2008-09-22T16:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/09/22/sombriety/</loc>
+    <loc>http://localhost:1314/2008/09/22/sombriety/</loc>
     <lastmod>2008-09-22T16:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/zombies/</loc>
+    <loc>http://localhost:1314/tags/zombies/</loc>
     <lastmod>2008-09-22T16:00:43+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/linguistics/</loc>
+    <loc>http://localhost:1314/tags/linguistics/</loc>
     <lastmod>2008-09-02T10:09:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/09/02/undead/</loc>
+    <loc>http://localhost:1314/2008/09/02/undead/</loc>
     <lastmod>2008-09-02T10:09:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/30/book-lending/</loc>
+    <loc>http://localhost:1314/2008/08/30/book-lending/</loc>
     <lastmod>2008-08-30T09:23:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/books/</loc>
+    <loc>http://localhost:1314/tags/books/</loc>
     <lastmod>2008-08-30T09:23:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/economics/</loc>
+    <loc>http://localhost:1314/tags/economics/</loc>
     <lastmod>2008-08-30T09:23:29+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/office/</loc>
+    <loc>http://localhost:1314/tags/office/</loc>
     <lastmod>2008-08-22T17:27:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/22/the-cubicle-men/</loc>
+    <loc>http://localhost:1314/2008/08/22/the-cubicle-men/</loc>
     <lastmod>2008-08-22T17:27:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/20/frittering/</loc>
+    <loc>http://localhost:1314/2008/08/20/frittering/</loc>
     <lastmod>2008-08-20T09:32:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/productivity/</loc>
+    <loc>http://localhost:1314/tags/productivity/</loc>
     <lastmod>2008-08-20T09:32:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/12/only-the-things-that-are-dead-are-electric/</loc>
+    <loc>http://localhost:1314/2008/08/12/only-the-things-that-are-dead-are-electric/</loc>
     <lastmod>2008-08-12T09:29:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/rainbows/</loc>
+    <loc>http://localhost:1314/tags/rainbows/</loc>
     <lastmod>2008-08-12T09:29:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/unicorns/</loc>
+    <loc>http://localhost:1314/tags/unicorns/</loc>
     <lastmod>2008-08-12T09:29:35+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/bibsonomy/</loc>
+    <loc>http://localhost:1314/tags/bibsonomy/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/bookmarks/</loc>
+    <loc>http://localhost:1314/tags/bookmarks/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/delicious/</loc>
+    <loc>http://localhost:1314/tags/delicious/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/project/</loc>
+    <loc>http://localhost:1314/tags/project/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/python/</loc>
+    <loc>http://localhost:1314/tags/python/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/rest/</loc>
+    <loc>http://localhost:1314/tags/rest/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</loc>
+    <loc>http://localhost:1314/2008/08/11/stupid-simple-bibsonomy-to-delicious-migration/</loc>
     <lastmod>2008-08-11T11:38:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/08/02/on-death/</loc>
+    <loc>http://localhost:1314/2008/08/02/on-death/</loc>
     <lastmod>2008-08-02T09:56:21+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/evil/</loc>
+    <loc>http://localhost:1314/tags/evil/</loc>
     <lastmod>2008-07-28T17:38:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/07/28/some-thoughts-on-the-dark-knight/</loc>
+    <loc>http://localhost:1314/2008/07/28/some-thoughts-on-the-dark-knight/</loc>
     <lastmod>2008-07-28T17:38:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/computation/</loc>
+    <loc>http://localhost:1314/tags/computation/</loc>
     <lastmod>2008-06-18T08:19:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/computers/</loc>
+    <loc>http://localhost:1314/tags/computers/</loc>
     <lastmod>2008-06-18T08:19:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/hardware/</loc>
+    <loc>http://localhost:1314/tags/hardware/</loc>
     <lastmod>2008-06-18T08:19:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/06/18/paradigmatic-computational-constructs/</loc>
+    <loc>http://localhost:1314/2008/06/18/paradigmatic-computational-constructs/</loc>
     <lastmod>2008-06-18T08:19:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/von-neumann/</loc>
+    <loc>http://localhost:1314/tags/von-neumann/</loc>
     <lastmod>2008-06-18T08:19:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/blogging/</loc>
+    <loc>http://localhost:1314/tags/blogging/</loc>
     <lastmod>2008-05-19T10:50:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/05/19/blogging-is-not-a-science/</loc>
+    <loc>http://localhost:1314/2008/05/19/blogging-is-not-a-science/</loc>
     <lastmod>2008-05-19T10:50:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/conversation/</loc>
+    <loc>http://localhost:1314/tags/conversation/</loc>
     <lastmod>2008-05-19T10:50:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/data/</loc>
+    <loc>http://localhost:1314/tags/data/</loc>
     <lastmod>2008-05-19T10:50:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/statistics/</loc>
+    <loc>http://localhost:1314/tags/statistics/</loc>
     <lastmod>2008-05-19T10:50:47+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/muse/</loc>
+    <loc>http://localhost:1314/tags/muse/</loc>
     <lastmod>2008-05-11T03:53:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/smoking/</loc>
+    <loc>http://localhost:1314/tags/smoking/</loc>
     <lastmod>2008-05-11T03:53:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/05/11/thoughts-writers-have/</loc>
+    <loc>http://localhost:1314/2008/05/11/thoughts-writers-have/</loc>
     <lastmod>2008-05-11T03:53:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/allen-ginsberg/</loc>
+    <loc>http://localhost:1314/tags/allen-ginsberg/</loc>
     <lastmod>2008-03-08T00:48:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/03/08/allen-ginsberg-vs-the-internet/</loc>
+    <loc>http://localhost:1314/2008/03/08/allen-ginsberg-vs-the-internet/</loc>
     <lastmod>2008-03-08T00:48:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/intertubes/</loc>
+    <loc>http://localhost:1314/tags/intertubes/</loc>
     <lastmod>2008-03-08T00:48:34+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/02/25/hurl/</loc>
+    <loc>http://localhost:1314/2008/02/25/hurl/</loc>
     <lastmod>2008-02-25T16:22:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2008/01/29/my-thoughts-exactly-re-singularity/</loc>
+    <loc>http://localhost:1314/2008/01/29/my-thoughts-exactly-re-singularity/</loc>
     <lastmod>2008-01-29T13:58:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/sf/</loc>
+    <loc>http://localhost:1314/tags/sf/</loc>
     <lastmod>2008-01-29T13:58:01+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/editing/</loc>
+    <loc>http://localhost:1314/tags/editing/</loc>
     <lastmod>2007-10-15T16:17:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/10/15/how-i-use-emacs/</loc>
+    <loc>http://localhost:1314/2007/10/15/how-i-use-emacs/</loc>
     <lastmod>2007-10-15T16:17:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/programming/</loc>
+    <loc>http://localhost:1314/tags/programming/</loc>
     <lastmod>2007-10-15T16:17:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/editor/</loc>
+    <loc>http://localhost:1314/tags/editor/</loc>
     <lastmod>2007-10-10T11:25:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/10/10/how-i-came-to-love-emacs/</loc>
+    <loc>http://localhost:1314/2007/10/10/how-i-came-to-love-emacs/</loc>
     <lastmod>2007-10-10T11:25:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/web/</loc>
+    <loc>http://localhost:1314/tags/web/</loc>
     <lastmod>2007-10-10T11:25:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/10/03/i-dont-want-to-end-up-like-this/</loc>
+    <loc>http://localhost:1314/2007/10/03/i-dont-want-to-end-up-like-this/</loc>
     <lastmod>2007-10-03T12:10:26+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/09/19/suckage/</loc>
+    <loc>http://localhost:1314/2007/09/19/suckage/</loc>
     <lastmod>2007-09-19T06:32:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/09/14/decisions-decisions/</loc>
+    <loc>http://localhost:1314/2007/09/14/decisions-decisions/</loc>
     <lastmod>2007-09-14T07:02:23+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/categories/review/</loc>
+    <loc>http://localhost:1314/categories/review/</loc>
     <lastmod>2007-09-06T07:19:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/review/</loc>
+    <loc>http://localhost:1314/tags/review/</loc>
     <lastmod>2007-09-06T07:19:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/09/06/review-nova-by-samuel-delany/</loc>
+    <loc>http://localhost:1314/2007/09/06/review-nova-by-samuel-delany/</loc>
     <lastmod>2007-09-06T07:19:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/space-opera/</loc>
+    <loc>http://localhost:1314/tags/space-opera/</loc>
     <lastmod>2007-09-06T07:19:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</loc>
+    <loc>http://localhost:1314/2007/09/01/if-you-read-you-should-read-a-readers-manifesto/</loc>
     <lastmod>2007-09-01T11:07:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/08/30/review-doomsday-book/</loc>
+    <loc>http://localhost:1314/2007/08/30/review-doomsday-book/</loc>
     <lastmod>2007-08-30T09:58:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/08/22/extramundane/</loc>
+    <loc>http://localhost:1314/2007/08/22/extramundane/</loc>
     <lastmod>2007-08-22T13:03:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/tags/vocabulary/</loc>
+    <loc>http://localhost:1314/tags/vocabulary/</loc>
     <lastmod>2007-08-22T13:03:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1315/2007/08/11/first-post/</loc>
+    <loc>http://localhost:1314/2007/08/11/first-post/</loc>
     <lastmod>2007-08-11T09:58:12+00:00</lastmod>
   </url>
 </urlset>

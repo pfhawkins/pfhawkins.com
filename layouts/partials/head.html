@@ -1,5 +1,18 @@
+{{ with (templates.Defer (dict "key" "global")) }}
+{{ with resources.Get "css/styles.css" }}
+  {{ $opts := dict "inlineImports" true "optimize" (not hugo.IsDevelopment) }}
+  {{ with . | css.TailwindCSS $opts }}
+    {{ if hugo.IsDevelopment }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" />
+    {{ else }}
+      {{ with . | minify | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" />
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}
 <head>
-  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
   <base href="{{ .Site.BaseURL }}">
   <meta name="viewport" content="width=device-width, initial-scale=1"> 
   <title>

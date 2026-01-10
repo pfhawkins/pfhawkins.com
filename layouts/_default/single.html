@@ -1,32 +1,32 @@
 {{ partial "header.html" . }}
 
-<main class="w-100 mw-100 center pa4 pa5-ns bg-white">
+<main class="w-full max-w-full mx-auto p-4 md:p-5 bg-white">
             <div class="title-container">
                 {{ partial "page-heading" . }}
             </div>
-            <div class="f5 f4-ns helvetica lh-copy measure ">
+            <div class="text-base md:text-lg font-sans leading-relaxed measure">
               {{ range .Params.categories }}
                 {{ if eq . "essay"}}
-                <p class="f2 f2-ns i b mt1 georgia">an <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="text-2xl md:text-2xl italic font-bold mt-1 font-serif">an <a class="text-red-600 hover:text-red-700" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
               {{ else }}
-                <p class="f2 f2-ns i b mt1 georgia">a <a class="link dim red" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
+                <p class="text-2xl md:text-2xl italic font-bold mt-1 font-serif">a <a class="text-red-600 hover:text-red-700" href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
                 {{ end }}
               {{ end }}
               <div class="nested-links">
                 {{ .Content }}
               </div>
                 <br>
-                    <div class="f5 lh-copy helvetica" title="{{ .Date.Format .Site.Params.dateformfull }}">
+                    <div class="text-sm leading-relaxed font-sans" title="{{ .Date.Format .Site.Params.dateformfull }}">
                       <p>{{ .Site.Params.author }}<br/>{{ .Date.Format .Site.Params.dateform }}</p>
                     </div>
 
-            <ul class="list pa0 helvetica">
+            <ul class="list-none p-0 font-sans">
               {{ range (.GetTerms "tags") }}
-              <li class="dib mr2"><a class="f4 f3-ns b db pr1 red link dim" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+              <li class="inline-block mr-2"><a class="text-2xl md:text-3xl font-bold block pr-1 text-red-600 hover:text-red-700" href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
               {{ end }}
             </ul>
 
-                <p class="helvetica"><a class="blue link dim" href="/">Back to posts</a></p>
+                <p class="font-sans"><a class="text-blue-600 hover:text-blue-800" href="/">Back to posts</a></p>
             </div>
             <br>
 </main>
