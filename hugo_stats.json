@@ -61,6 +61,8 @@
       "max-w-full",
       "mb-0",
       "mb-2",
+      "md:border-14",
+      "md:border-[#cdecff]",
       "md:p-4",
       "md:p-5",
       "md:pl-5",

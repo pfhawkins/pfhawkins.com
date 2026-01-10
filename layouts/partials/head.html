@@ -1,30 +1,32 @@
-{{ with (templates.Defer (dict "key" "global")) }}
-{{ with resources.Get "css/styles.css" }}
+<head>
+  {{ with (templates.Defer (dict "key" "global")) }}
+  {{ with resources.Get "css/styles.css" }}
   {{ $opts := dict "inlineImports" true "optimize" (not hugo.IsDevelopment) }}
   {{ with . | css.TailwindCSS $opts }}
-    {{ if hugo.IsDevelopment }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" />
-    {{ else }}
-      {{ with . | minify | fingerprint }}
-        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" />
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-{{ end }}
-<head>
-  <base href="{{ .Site.BaseURL }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1"> 
-  <title>
-  {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-  {{ if eq $url "/" }}
-      {{ .Site.Title }}
+  {{ if hugo.IsDevelopment }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" />
   {{ else }}
-      {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}
+  {{ with . | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" />
   {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  {{ end }}
+  <base href="{{ .Site.BaseURL }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
+    {{ if eq $url "/" }}
+    {{ .Site.Title }}
+    {{ else }}
+    {{ if .Params.heading }} {{ .Params.heading }} {{ else }} {{ .Title }} {{ end }}
+    {{ end }}
   </title>
   <link rel="canonical" href="{{ .Permalink }}">
-  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ with .OutputFormats.Get " RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate"
+    type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ with .OutputFormats.Get " RSS" }}{{ .RelPermalink }}{{ end }}" rel="feed" type="application/rss+xml"
+    title="{{ .Site.Title }}" />
   <link rel="icon" type="image/x-icon" href="/favicon.png">
 </head>

@@ -1,20 +1,22 @@
 {{ partial "header.html" . }}
-  <main class="w-full max-w-full mx-auto clearfix p-3 md:p-4">
-    <div class="float-left w-full px-4 bg-white text-gray-900">
+  <div class="w-full max-w-full mx-auto p-3 md:p-4 md:border-14 md:border-[#cdecff]">
+  <main class="w-full max-w-full mx-auto">
+    <div class="w-full px-4 bg-white text-gray-900">
       <h1 class="text-2xl md:text-3xl lg:text-4xl mt-4 mb-2 uppercase tracking-tight font-sans">{{ .Site.Params.title }}</h1>
       <p class="text-3xl md:text-3xl mt-1 mb-0 pt-0 pb-3 font-bold font-sans">{{ $.Site.Params.description }}</p>
     </div>
-      <div class="float-left w-full bg-white text-gray-900 pl-4">
-        <a href="/categories" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">categories</a>
-        <a href="/tags" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">tags</a>
-        <a href="/about" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">about</a>
-      </div>
-    <div class="clearfix float-left w-full font-sans bg-white pr-4">
-            <ul class="pl-4">
-            {{ range where (.Paginator 10000).Pages "Section" "blog"}}
-                    {{ partial "li.html" . }}
-            {{ end }}
-            </ul>
+    <div class="w-full bg-white text-gray-900 pl-4">
+      <a href="/categories" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">categories</a>
+      <a href="/tags" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">tags</a>
+      <a href="/about" class="text-red-600 hover:text-red-700 text-3xl md:text-4xl lg:text-4xl pr-4 font-sans font-bold">about</a>
+    </div>
+    <div class="w-full font-sans bg-white pr-4">
+      <ul class="pl-4">
+        {{ range where (.Paginator 10000).Pages "Section" "blog"}}
+        {{ partial "li.html" . }}
+        {{ end }}
+      </ul>
     </div>
   </main>
+</div>
 {{ partial "footer.html" . }}

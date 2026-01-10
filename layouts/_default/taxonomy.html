@@ -1,21 +1,21 @@
 {{ partial "header.html" . }}
 
-<section class="w-full max-w-full mx-auto pl-4 md:pl-5 pr-4 md:pr-5 bg-white font-sans">
+  <div class="w-full max-w-full mx-auto pl-4 md:pl-5 pr-4 md:pr-5 md:border-14 md:border-[#cdecff]">
+  <section class="w-full max-w-full mx-auto bg-white font-sans">
+    <h1 class="text-2xl md:text-3xl lg:text-4xl">{{ .Page.Title }}</h1>
 
-<h1 class="text-2xl md:text-3xl lg:text-4xl">{{ .Page.Title }}</h1>
+    <ul class="text-2xl md:text-2xl p-0 list-none leading-relaxed">
+      {{ range .Pages }}
+      <li class="">
+          <a href="{{ .Permalink }}" class="text-red-600 hover:text-red-700 font-bold">
+            {{ .Title }}
+          </a>
+          <p class="text-sm md:text-base">{{ .Summary }}</p>
+      </li>
+      {{ end }}
 
-<ul class="text-2xl md:text-2xl p-0 list-none leading-relaxed">
-  {{ range .Pages }}
-  <li class="">
-      <a href="{{ .Permalink }}" class="text-red-600 hover:text-red-700 font-bold">
-        {{ .Title }}
-      </a>
-      <p class="text-sm md:text-base">{{ .Summary }}</p>
-  </li>
-  {{ end }}
-
-</ul>
-
-</section>
+    </ul>
+  </section>
+</div>
 
 {{ partial "footer.html" . }}
