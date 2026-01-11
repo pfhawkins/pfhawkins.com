@@ -48,17 +48,9 @@ time, and partly to see it in IMAX. And in choosing whether to, I do need to
 take some of my mother's concerns into account. Art does affect us,
 powerfully, deeply, and there is a legitimate risk of responding improperly to
 art. And such art should play only a minimal role in our lives. One of my
-criticisms of the character of Father Ruiz-Sanchez in [A Case of Conscience](h
-ttps://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon
-.com%2FCase-Conscience-Del-Rey-Impact%2Fdp%2F0345438353%3Fie%3DUTF8%26s%3Dbook
-s%26qid%3D1217280480%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creativ
-e=9325)![](https://www.assoc-amazon.com/e/ir?t=phawkcom-20&l=ur2&o=1) is that
+criticisms of the character of Father Ruiz-Sanchez in [A Case of Conscience](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FCase-Conscience-Del-Rey-Impact%2Fdp%2F0345438353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217280480%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creative=9325) is that
 he didn't read scripture or the divine office nearly as much as he read
-[Finnegan's Wake](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http
-%3A%2F%2Fwww.amazon.com%2FFinnegans-Wake-Penguin-Modern-Classics%2Fdp%2F014118
-311X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217280878%26sr%3D8-1&tag=phawkcom-20&lin
-kCode=ur2&camp=1789&creative=9325)![](https://www.assoc-
-amazon.com/e/ir?t=phawkcom-20&l=ur2&o=1). Art was taking up an unhealthy chunk
+[Finnegan's Wake](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FFinnegans-Wake-Penguin-Modern-Classics%2Fdp%2F014118311X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217280878%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creative=9325). Art was taking up an unhealthy chunk
 of his life, likely because he gave himself over to some aspects of the work
 that he responded wrongly to. But the work _as a whole_ needs to be
 considered, not just the villain. And you can't allow a work of art to push

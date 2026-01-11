@@ -17,8 +17,7 @@ This essay on reading is captioned by the editor "An attack on the growing
 pretentiousness of American literary prose". And boy howdy!
 
   
-[https://www.theatlantic.com/doc/200107/myers](https://www.theatlantic.com/doc/2
-00107/myers)
+[https://www.theatlantic.com/doc/200107/myers](https://www.theatlantic.com/doc/200107/myers)
 
   
 I highly recommend it for anyone who reads fiction at all whatsoever.

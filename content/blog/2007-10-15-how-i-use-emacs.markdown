@@ -69,8 +69,7 @@ inside Emacs. Here's a partial list of how I use it now:
   * limited web browsing (mostly online APIs for the python libraries I'm investigating)
   * World Domination
 Okay, I really haven't used Emacs for world domination yet. But as I was
-reading [The Golden Age](https://www.amazon.com/gp/product/0812579844?ie=UTF8&t
-ag=phawkcom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0812579844),
+reading [The Golden Age](https://www.amazon.com/gp/product/0812579844?ie=UTF8&tag=phawkcom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0812579844),
 I was slightly disappointed when he was naming some of the far-future self-
 aware AI characters, and Emacs didn't make the list.
 

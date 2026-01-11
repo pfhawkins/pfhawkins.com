@@ -28,21 +28,11 @@ years.
 
 I have to lend these books out. I simply must. I've attempted to get others
 interested in them, with a little success. My brother, who is reliabel in
-returning books I've lent him unread, raved about Ron Paul's [The Revolution:
-A Manifesto](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2
-F%2Fwww.amazon.com%2FRevolution-Manifesto-Ron-Paul%2Fdp%2F0446537519%3Fie%3DUT
-F8%26s%3Dbooks%26qid%3D1220101874%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp
-=1789&creative=9325), which got me started on this kick. I'll next lend him
-[Economics in One Lesson](https://www.amazon.com/gp/redirect.html?ie=UTF8&locat
-ion=http%3A%2F%2Fwww.amazon.com%2FEconomics-One-Lesson-Shortest-Understand%2Fd
-p%2F0517548232%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1220102088%26sr%3D8-1&tag=phawk
-com-20&linkCode=ur2&camp=1789&creative=9325) by [Henry
+returning books I've lent him unread, raved about Ron Paul's [The Revolution: A Manifesto](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FRevolution-Manifesto-Ron-Paul%2Fdp%2F0446537519%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1220101874%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creative=9325), which got me started on this kick. I'll next lend him
+[Economics in One Lesson](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FEconomics-One-Lesson-Shortest-Understand%2Fdp%2F0517548232%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1220102088%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creative=9325) by [Henry
 Hazlitt](https://en.wikipedia.org/wiki/Henry_Hazlitt). And I've gotten better
 about lending out other sacred cows; after the Watchmen trailer hit the web I
-lent [my copy](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A
-%2F%2Fwww.amazon.com%2FWatchmen-Alan-Moore%2Fdp%2F0930289234%3Fie%3DUTF8%26s%3
-Dbooks%26qid%3D1220102292%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&cr
-eative=9325) to a friend at work.
+lent [my copy](https://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWatchmen-Alan-Moore%2Fdp%2F0930289234%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1220102292%26sr%3D8-1&tag=phawkcom-20&linkCode=ur2&camp=1789&creative=9325) to a friend at work.
 
 The realization, which has been slow in coming, dawns that I've read book X
 once, and the odds of me rereading it in the next few years are pretty slim. I

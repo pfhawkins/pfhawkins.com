@@ -13,9 +13,7 @@ url: /2007/08/30/review-doomsday-book/
 wordpress_id: "8"
 ---
 
-I just finished reading Connie Willis's [Doomsday Book](https://www.amazon.com/
-gp/product/0553562738?ie=UTF8&tag=phawkcom-20&linkCodeas2&camp=1789&creative=9
-325&creativeASIN=0553562738). Let me just say that I am significantly less
+I just finished reading Connie Willis's [Doomsday Book](https://www.amazon.com/gp/product/0553562738?ie=UTF8&tag=phawkcom-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0553562738). Let me just say that I am significantly less
 than whelmed. If there's a bar here, about yay high, and it's got "Whelmed"
 written on it in big block letters, this book is significantly under the bar.
 
