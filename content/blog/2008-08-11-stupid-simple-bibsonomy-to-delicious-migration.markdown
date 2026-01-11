@@ -25,7 +25,7 @@ it didn't have the user base and general ecosystem, it's geared toward more
 academic pursuits, and RDF isn't all it's cracked up to be. Here's a tarball
 of the scripts I used to move the bookmarks back into delicious:
 
-Download: [bib2del](https://pfhawkins.com/bib2del.tgz)
+Download: [bib2del](/bib2del.tgz)
 
 Caveats:
 

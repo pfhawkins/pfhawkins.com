@@ -29,8 +29,8 @@ the last time you did them.
 The above is exemplified in web statistics. Say, for example, that you start
 blogging. You're shouting into the void on a regular basis, and then BAM!
 [someone links](https://sachachua.com/wp/2007/10/12/how-i-came-to-love-emacs/)
-to [one of your pieces](https://pfhawkins.com/2007/10/10/how-i-came-to-love-emacs/), and you watch your stats shoot up. The tempting thing to do is write
-a [similar piece](https://pfhawkins.com/2007/10/15/how-i-use-emacs/) on the
+to [one of your pieces](/2007/10/10/how-i-came-to-love-emacs/), and you watch your stats shoot up. The tempting thing to do is write
+a [similar piece](/2007/10/15/how-i-use-emacs/) on the
 same topic. AND YOU WOULD BE WRONG.
 
 What worked the first time? Writing something you wanted to write for the sake
@@ -48,5 +48,5 @@ has its time and place, but there is a reason people sneer when they say "he
 sold out".
 
 I'm putting my money where my mouth is: goodbye Google Analytics. Goodbye
-data. If you need me, [email works best](https://pfhawkins.com/contact/).
+data. If you need me, [email works best](/contact/).
 
