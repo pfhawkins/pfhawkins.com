@@ -14,22 +14,22 @@
         href="https://pfhawkins.com/categories/{{ . }}/"> {{ . }} </a></p>
     {{ end }}
     {{ end }}
-    <div class="nested-links paragraph-spacing">
+    <div class="nested-links paragraph-spacing pt-4">
       {{ .Content }}
     </div>
     <br>
-    <div class="text-sm leading-relaxed font-sans" title="{{ .Date.Format .Site.Params.dateformfull }}">
+    <div class="text-base leading-relaxed font-sans font-bold" title="{{ .Date.Format .Site.Params.dateformfull }}">
       <p>{{ .Site.Params.author }}<br />{{ .Date.Format .Site.Params.dateform }}</p>
     </div>
 
-    <ul class="list-none p-0 font-sans">
+    <ul class="list-none pt-4 font-sans">
       {{ range (.GetTerms "tags") }}
-      <li class="inline-block mr-2"><a class="text-2xl md:text-3xl font-bold block pr-1 text-red-600 hover:text-red-700"
+      <li class="inline-block mr-2"><a class="text-2xl font-bold block pr-1 text-red-600 hover:text-red-700 lowercase"
           href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{ end }}
     </ul>
 
-    <p class="font-sans"><a class="text-blue-600 hover:text-blue-800" href="/">Back to posts</a></p>
+    <p class="font-sans pt-4"><a class="text-blue-600 hover:text-blue-800" href="/">Back to posts</a></p>
   </div>
   <br>
 </main>
