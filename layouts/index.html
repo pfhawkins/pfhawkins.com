@@ -11,7 +11,7 @@
       <a href="/about" class="text-red-600 hover:text-red-700 text-3xl md:text-3xl lg:text-3xl pr-4 font-sans font-bold">about</a>
     </div>
     <div class="w-full font-sans bg-white pr-4">
-      <ul class="pl-4 [&_li]:bg-white [&_li]:odd:bg-[#cdecff]">
+      <ul class="pl-4">
         {{ range where (.Paginator 10000).Pages "Section" "blog"}}
         {{ partial "li.html" . }}
         {{ end }}
