@@ -13,12 +13,15 @@
   & a {
     @apply text-blue-600 underline;
   }
+
   & a:hover {
     @apply text-blue-800;
   }
+
   & p {
     @apply mb-4;
   }
+
   & p:last-child {
     @apply mb-0;
   }
@@ -28,32 +31,70 @@
   body {
     @apply font-sans text-gray-900;
   }
-  
-  h1, h2, h3, h4, h5, h6 {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply font-sans font-bold;
   }
-  
+
   .helvetica {
     @apply font-sans;
   }
-  
+
   .georgia {
     @apply font-serif;
   }
-  
+
   a:link {
     @apply text-red-600 no-underline;
   }
-  
+
   a:visited {
     @apply text-red-600 no-underline;
   }
-  
+
   a:hover {
     @apply text-red-700 underline;
   }
-  
+
   a:active {
     @apply text-red-600 no-underline;
+  }
+
+  /* Restore ordered list numbers that Tailwind reset removes */
+  ol {
+    list-style-type: decimal;
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Handle nested ordered lists */
+  ol ol {
+    list-style-type: lower-alpha;
+    padding-left: 2rem;
+  }
+
+  ol ol ol {
+    list-style-type: lower-roman;
+    padding-left: 2rem;
+  }
+
+  /* Also fix bulleted lists for consistency */
+  ul {
+    list-style-type: disc;
+    margin-bottom: 1rem;
+  }
+
+  /* Handle nested unordered lists */
+  ul ul {
+    list-style-type: circle;
+  }
+
+  ul ul ul {
+    list-style-type: square;
   }
 }
