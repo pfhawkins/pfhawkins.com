@@ -1,7 +1,7 @@
 +++
 date = "2020-06-04T11:11:26-04:00"
 draft = false
-title = "about"
+title = "About"
 +++
 
 P.F. Hawkins is a husband and father.
